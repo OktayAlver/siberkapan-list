@@ -1,0 +1,38 @@
+name: Update Blocklists
+
+on:
+  schedule:
+    - cron: '15 */6 * * *'
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch lists
+        run: |
+          mkdir -p lists
+          curl -sf "https://siberkapan.org/api/v1/view/fortigate-feed" -o lists/fortigate-feed.txt
+          curl -sf "https://siberkapan.org/api/v1/view/honeypot-feed"  -o lists/honeypot-feed.txt
+          curl -sf "https://siberkapan.org/api/v1/view/nginx-feed"     -o lists/nginx-feed.txt
+          curl -sf "https://siberkapan.org/api/v1/view/all-feed"       -o lists/all-feed.txt
+          curl -sf "https://siberkapan.org/api/v1/view/txt?min_score=75" -o lists/high-confidence.txt
+          curl -sf "https://siberkapan.org/api/v1/export/suricata"     -o lists/suricata.rules
+          curl -sf "https://siberkapan.org/api/v1/export/wazuh-cdb"    -o lists/wazuh-cdb.txt
+
+      - name: Commit if changed
+        run: |
+          git config user.name "siberkapan-bot"
+          git config user.email "bot@siberkapan.org"
+          git add lists/
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: auto-update blocklists $(date -u +'%Y-%m-%d %H:%M UTC')"
+            git push
+          else
+            echo "No changes."
+          fi
