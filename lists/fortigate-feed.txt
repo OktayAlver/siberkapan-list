@@ -1,7 +1,7 @@
 # SiberKapan FortiGate Feed - Community Submitted IPs
 # https://siberkapan.org/fortigate-feed
-# Generated: 2026-08-27 09:43 UTC
-# Total: 50
+# Generated: 2026-08-27 22:14 UTC
+# Total: 51
 #
 176.65.139.224
 118.193.45.235
@@ -41,6 +41,7 @@
 103.215.74.213
 118.193.57.121
 165.154.11.225
+101.36.97.74
 8.211.162.45
 152.32.170.230
 172.245.21.30
