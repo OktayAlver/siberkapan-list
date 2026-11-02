@@ -24,6 +24,17 @@ jobs:
           curl -sf "https://siberkapan.org/api/v1/view/txt?min_score=75" -o lists/high-confidence.txt
           curl -sf "https://siberkapan.org/api/v1/export/suricata"     -o lists/suricata.rules
           curl -sf "https://siberkapan.org/api/v1/export/wazuh-cdb"    -o lists/wazuh-cdb.txt
+          curl -sf "https://siberkapan.org/domains/siberkapan/strict/domains.txt" -o lists/phishing-strict-domains.txt
+          curl -sf "https://siberkapan.org/domains/siberkapan/strict/adblock.txt" -o lists/phishing-strict-adblock.txt
+          curl -sf "https://siberkapan.org/domains/siberkapan/strict/hosts.txt"   -o lists/phishing-strict-hosts.txt
+
+      - name: Sanity check strict lists
+        run: |
+          for f in lists/phishing-strict-*.txt; do
+            n=$(grep -vc '^[!#]' "$f" || true)
+            echo "$f: $n kayit"
+            if [ "$n" -lt 50 ]; then echo "UYARI: $f beklenenden kucuk, commit edilmeyecek"; git checkout -- "$f" 2>/dev/null || rm -f "$f"; fi
+          done
 
       - name: Commit if changed
         run: |
