@@ -5,9 +5,9 @@
 #   Brand-owned domains, MISP warninglists and shared hosting platforms are excluded.
 # Homepage: https://siberkapan.org/phishing-feed
 # License: CC BY 4.0
-# Last modified: 2026-11-03T00:55:22Z
+# Last modified: 2026-11-03T14:06:13Z
 # Expires: 6 hours
-# Number of entries: 555
+# Number of entries: 553
 #
 589329-login-binance.com
 accounts.mica-login.fiscal-binance.com
@@ -38,7 +38,6 @@ binance-tr-cekilis.com
 binance-us-verify.com
 binance-verify-us.com
 binance-verify.com
-binance.verify-id.online
 binance.wallet-login.com
 binancecekilisi.com
 binancetrcekilis.com
@@ -131,7 +130,6 @@ mail.enpara-banka.com
 mail.hepsiburada.cyon.site
 mail.ziraatbank-bh.com
 mhrs-art.fun
-mhrs-cannkus.sbs
 mhrs-frager.sbs
 mhrs-onlinerndvu.sbs
 mhrs-poliklinik-randevu.cfd
@@ -252,6 +250,7 @@ pazarama.kargoguvende.com
 pazarama.kargohizi.com
 pazarama.kargomhizlikapida.com
 pazarama.onlineservisler.com
+pazarama.param-guvende.org
 pazarama.siparisguvende.com
 pazarama.siparishizi.com
 pazarama.siparisimhizli.com
@@ -288,8 +287,6 @@ sahibinden-get.siparisimhizli.com
 sahibinden-get.siparisislemleri.com
 sahibinden-get.x-mobil-islem-guvenceli.com
 sahibinden-getilan.islemler-webtr-getalisveris.online
-sahibinden-getilan.tr-web-alisveris-get-islemler.online
-sahibinden-getilan.tr-web-islemler-get-alisveris.online
 sahibinden-getilan.web-tr-islemlerin-getalisveris.online
 sahibinden-getilan.webtr-islemler-getalisveris.online
 sahibinden-ilan.ileservishzmetleri.sbs
@@ -327,6 +324,7 @@ sahibindensatis.xyz
 sahibindensigorta.click
 sahibindensigorta.quest
 secure-vault-binance.com
+secure-web3-binance.com
 secure.prix-garanti.com
 secure.vodafone-dsl-flat.de
 secure.vodafone-dsl-flatrate.de
@@ -455,7 +453,7 @@ www.bet-paribu2025.site
 www.binance-bonus-code.com
 www.binance-secure-wallet.com
 www.binance-verify-us.com
-www.binance.verify-id.online
+www.confirm-22e3f8c0-1b2a-4d5e-9f3a-8b6c7d9e0f1a-binance.su-en.sbs
 www.denizbank-frankfurt.de
 www.en.garantibbva4all.ro
 www.garantibbva-noreply.com
@@ -504,11 +502,10 @@ www.paribu-tr.site
 www.s-sahibinden.xyz
 www.sahibinden-get.mobilservisler-8.sbs
 www.sahibinden-getilan.islemler-webtr-getalisveris.online
-www.sahibinden-getilan.tr-web-alisveris-get-islemler.online
-www.sahibinden-getilan.tr-web-islemler-get-alisveris.online
 www.sahibinden-getilan.web-tr-islemlerin-getalisveris.online
 www.sahibinden-getilan.webtr-islemler-getalisveris.online
 www.sahibinden.mobil-odemesepeti777.com
+www.secure-web3-binance.com
 www.seller-trendyol.shop
 www.sponsorlu-paribu.live
 www.trendyol.13brave.online
@@ -562,5 +559,6 @@ ziraatbank-sy.com
 ziraatbank-sy.org
 ziraatbankasi.digital
 ziraatbankasiprojesi.click
+ziraatbankkasi.sbs
 ziraatkatilim.ai
 ziraatyatirimborsahesabi.pro

@@ -5,9 +5,9 @@
 #   Brand-owned domains, MISP warninglists and shared hosting platforms are excluded.
 # Homepage: https://siberkapan.org/phishing-feed
 # License: CC BY 4.0
-# Last modified: 2026-11-03T00:55:24Z
+# Last modified: 2026-11-03T14:06:13Z
 # Expires: 6 hours
-# Number of entries: 555
+# Number of entries: 553
 #
 0.0.0.0 589329-login-binance.com
 0.0.0.0 accounts.mica-login.fiscal-binance.com
@@ -38,7 +38,6 @@
 0.0.0.0 binance-us-verify.com
 0.0.0.0 binance-verify-us.com
 0.0.0.0 binance-verify.com
-0.0.0.0 binance.verify-id.online
 0.0.0.0 binance.wallet-login.com
 0.0.0.0 binancecekilisi.com
 0.0.0.0 binancetrcekilis.com
@@ -131,7 +130,6 @@
 0.0.0.0 mail.hepsiburada.cyon.site
 0.0.0.0 mail.ziraatbank-bh.com
 0.0.0.0 mhrs-art.fun
-0.0.0.0 mhrs-cannkus.sbs
 0.0.0.0 mhrs-frager.sbs
 0.0.0.0 mhrs-onlinerndvu.sbs
 0.0.0.0 mhrs-poliklinik-randevu.cfd
@@ -252,6 +250,7 @@
 0.0.0.0 pazarama.kargohizi.com
 0.0.0.0 pazarama.kargomhizlikapida.com
 0.0.0.0 pazarama.onlineservisler.com
+0.0.0.0 pazarama.param-guvende.org
 0.0.0.0 pazarama.siparisguvende.com
 0.0.0.0 pazarama.siparishizi.com
 0.0.0.0 pazarama.siparisimhizli.com
@@ -288,8 +287,6 @@
 0.0.0.0 sahibinden-get.siparisislemleri.com
 0.0.0.0 sahibinden-get.x-mobil-islem-guvenceli.com
 0.0.0.0 sahibinden-getilan.islemler-webtr-getalisveris.online
-0.0.0.0 sahibinden-getilan.tr-web-alisveris-get-islemler.online
-0.0.0.0 sahibinden-getilan.tr-web-islemler-get-alisveris.online
 0.0.0.0 sahibinden-getilan.web-tr-islemlerin-getalisveris.online
 0.0.0.0 sahibinden-getilan.webtr-islemler-getalisveris.online
 0.0.0.0 sahibinden-ilan.ileservishzmetleri.sbs
@@ -327,6 +324,7 @@
 0.0.0.0 sahibindensigorta.click
 0.0.0.0 sahibindensigorta.quest
 0.0.0.0 secure-vault-binance.com
+0.0.0.0 secure-web3-binance.com
 0.0.0.0 secure.prix-garanti.com
 0.0.0.0 secure.vodafone-dsl-flat.de
 0.0.0.0 secure.vodafone-dsl-flatrate.de
@@ -455,7 +453,7 @@
 0.0.0.0 www.binance-bonus-code.com
 0.0.0.0 www.binance-secure-wallet.com
 0.0.0.0 www.binance-verify-us.com
-0.0.0.0 www.binance.verify-id.online
+0.0.0.0 www.confirm-22e3f8c0-1b2a-4d5e-9f3a-8b6c7d9e0f1a-binance.su-en.sbs
 0.0.0.0 www.denizbank-frankfurt.de
 0.0.0.0 www.en.garantibbva4all.ro
 0.0.0.0 www.garantibbva-noreply.com
@@ -504,11 +502,10 @@
 0.0.0.0 www.s-sahibinden.xyz
 0.0.0.0 www.sahibinden-get.mobilservisler-8.sbs
 0.0.0.0 www.sahibinden-getilan.islemler-webtr-getalisveris.online
-0.0.0.0 www.sahibinden-getilan.tr-web-alisveris-get-islemler.online
-0.0.0.0 www.sahibinden-getilan.tr-web-islemler-get-alisveris.online
 0.0.0.0 www.sahibinden-getilan.web-tr-islemlerin-getalisveris.online
 0.0.0.0 www.sahibinden-getilan.webtr-islemler-getalisveris.online
 0.0.0.0 www.sahibinden.mobil-odemesepeti777.com
+0.0.0.0 www.secure-web3-binance.com
 0.0.0.0 www.seller-trendyol.shop
 0.0.0.0 www.sponsorlu-paribu.live
 0.0.0.0 www.trendyol.13brave.online
@@ -562,5 +559,6 @@
 0.0.0.0 ziraatbank-sy.org
 0.0.0.0 ziraatbankasi.digital
 0.0.0.0 ziraatbankasiprojesi.click
+0.0.0.0 ziraatbankkasi.sbs
 0.0.0.0 ziraatkatilim.ai
 0.0.0.0 ziraatyatirimborsahesabi.pro
