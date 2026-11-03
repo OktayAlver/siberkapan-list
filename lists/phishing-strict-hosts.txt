@@ -5,9 +5,9 @@
 #   Brand-owned domains, MISP warninglists and shared hosting platforms are excluded.
 # Homepage: https://siberkapan.org/phishing-feed
 # License: CC BY 4.0
-# Last modified: 2026-11-02T21:05:26Z
+# Last modified: 2026-11-03T00:55:24Z
 # Expires: 6 hours
-# Number of entries: 552
+# Number of entries: 555
 #
 0.0.0.0 589329-login-binance.com
 0.0.0.0 accounts.mica-login.fiscal-binance.com
@@ -406,6 +406,7 @@
 0.0.0.0 turktelekom.islemlerin-sepet-10.sbs
 0.0.0.0 turktelekom.islemlerin-sepet-15.sbs
 0.0.0.0 turktelekom.islemlerin-sepet-25.sbs
+0.0.0.0 turktelekom.islemlerin-sepet-30.sbs
 0.0.0.0 turktelekom.islemlerinmobil-12.sbs
 0.0.0.0 turktelekom.islemlerinmobil-13.sbs
 0.0.0.0 turktelekom.islemlerinmobil-14.sbs
@@ -428,6 +429,7 @@
 0.0.0.0 verify.vodafone-topangebote.com
 0.0.0.0 verify.vodafone-topangebote.net
 0.0.0.0 vodafone-facturen.login-service.nl
+0.0.0.0 vodafone-master.limit-cash.com
 0.0.0.0 vodafone.alisverisepet-islem-10.sbs
 0.0.0.0 vodafone.alisverisepetler-10.sbs
 0.0.0.0 vodafone.hediyemo.com
@@ -517,6 +519,7 @@
 0.0.0.0 www.turktelekom-iptal-7041691440.com
 0.0.0.0 www.turktelekom-tenis.shop
 0.0.0.0 www.vakifbank-ticari.kosgebkrediler.com
+0.0.0.0 www.vodafone-master.limit-cash.com
 0.0.0.0 www.ware-trendyol.shop
 0.0.0.0 www.wms-trendyol.shop
 0.0.0.0 www.ziraat-ticari.kosgebkrediler.com
