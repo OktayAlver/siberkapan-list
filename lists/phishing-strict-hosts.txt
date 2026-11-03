@@ -5,9 +5,9 @@
 #   Brand-owned domains, MISP warninglists and shared hosting platforms are excluded.
 # Homepage: https://siberkapan.org/phishing-feed
 # License: CC BY 4.0
-# Last modified: 2026-11-03T14:06:13Z
+# Last modified: 2026-11-03T23:17:39Z
 # Expires: 6 hours
-# Number of entries: 553
+# Number of entries: 555
 #
 0.0.0.0 589329-login-binance.com
 0.0.0.0 accounts.mica-login.fiscal-binance.com
@@ -259,6 +259,7 @@
 0.0.0.0 pazarama.siparislerkapimda.com
 0.0.0.0 pazaramakapinda.com
 0.0.0.0 s-sahibinden.xyz
+0.0.0.0 sa-trendyol.shop
 0.0.0.0 sahibinden-cmqvns.info
 0.0.0.0 sahibinden-get.alisverisepet-islem-10.sbs
 0.0.0.0 sahibinden-get.alisverisepetler-10.sbs
@@ -500,6 +501,7 @@
 0.0.0.0 www.paribu-tr.click
 0.0.0.0 www.paribu-tr.site
 0.0.0.0 www.s-sahibinden.xyz
+0.0.0.0 www.sa-trendyol.shop
 0.0.0.0 www.sahibinden-get.mobilservisler-8.sbs
 0.0.0.0 www.sahibinden-getilan.islemler-webtr-getalisveris.online
 0.0.0.0 www.sahibinden-getilan.web-tr-islemlerin-getalisveris.online
