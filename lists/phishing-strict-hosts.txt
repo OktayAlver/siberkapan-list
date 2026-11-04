@@ -5,9 +5,9 @@
 #   Brand-owned domains, MISP warninglists and shared hosting platforms are excluded.
 # Homepage: https://siberkapan.org/phishing-feed
 # License: CC BY 4.0
-# Last modified: 2026-11-03T23:17:39Z
+# Last modified: 2026-11-04T06:10:52Z
 # Expires: 6 hours
-# Number of entries: 555
+# Number of entries: 562
 #
 0.0.0.0 589329-login-binance.com
 0.0.0.0 accounts.mica-login.fiscal-binance.com
@@ -88,6 +88,7 @@
 0.0.0.0 hepsiburada.islemlerin-sepet-10.sbs
 0.0.0.0 hepsiburada.islemlerin-sepet-15.sbs
 0.0.0.0 hepsiburada.islemlerin-sepet-25.sbs
+0.0.0.0 hepsiburada.islemlerin-sepet-35.sbs
 0.0.0.0 hepsiburada.islemlerinmobil-12.sbs
 0.0.0.0 hepsiburada.islemlerinmobil-13.sbs
 0.0.0.0 hepsiburada.islemlerinmobil-14.sbs
@@ -270,6 +271,7 @@
 0.0.0.0 sahibinden-get.islemlerin-sepet-15.sbs
 0.0.0.0 sahibinden-get.islemlerin-sepet-25.sbs
 0.0.0.0 sahibinden-get.islemlerin-sepet-30.sbs
+0.0.0.0 sahibinden-get.islemlerin-sepet-35.sbs
 0.0.0.0 sahibinden-get.islemlerinmobil-12.sbs
 0.0.0.0 sahibinden-get.islemlerinmobil-13.sbs
 0.0.0.0 sahibinden-get.islemlerinmobil-14.sbs
@@ -355,6 +357,7 @@
 0.0.0.0 trendyol.islemlerin-sepet-15.sbs
 0.0.0.0 trendyol.islemlerin-sepet-25.sbs
 0.0.0.0 trendyol.islemlerin-sepet-30.sbs
+0.0.0.0 trendyol.islemlerin-sepet-35.sbs
 0.0.0.0 trendyol.islemlerinmobil-12.sbs
 0.0.0.0 trendyol.islemlerinmobil-13.sbs
 0.0.0.0 trendyol.islemlerinmobil-14.sbs
@@ -386,6 +389,7 @@
 0.0.0.0 turkcell.islemlerin-sepet-15.sbs
 0.0.0.0 turkcell.islemlerin-sepet-25.sbs
 0.0.0.0 turkcell.islemlerin-sepet-30.sbs
+0.0.0.0 turkcell.islemlerin-sepet-35.sbs
 0.0.0.0 turkcell.islemlerinmobil-12.sbs
 0.0.0.0 turkcell.islemlerinmobil-13.sbs
 0.0.0.0 turkcell.islemlerinmobil-14.sbs
@@ -406,6 +410,7 @@
 0.0.0.0 turktelekom.islemlerin-sepet-15.sbs
 0.0.0.0 turktelekom.islemlerin-sepet-25.sbs
 0.0.0.0 turktelekom.islemlerin-sepet-30.sbs
+0.0.0.0 turktelekom.islemlerin-sepet-35.sbs
 0.0.0.0 turktelekom.islemlerinmobil-12.sbs
 0.0.0.0 turktelekom.islemlerinmobil-13.sbs
 0.0.0.0 turktelekom.islemlerinmobil-14.sbs
@@ -436,6 +441,7 @@
 0.0.0.0 vodafone.islemlerin-sepet-15.sbs
 0.0.0.0 vodafone.islemlerin-sepet-25.sbs
 0.0.0.0 vodafone.islemlerin-sepet-30.sbs
+0.0.0.0 vodafone.islemlerin-sepet-35.sbs
 0.0.0.0 vodafone.islemlerinmobil-12.sbs
 0.0.0.0 vodafone.islemlerinmobil-13.sbs
 0.0.0.0 vodafone.islemlerinmobil-14.sbs
@@ -535,6 +541,7 @@
 0.0.0.0 yurtici-kargo.islemlerin-sepet-15.sbs
 0.0.0.0 yurtici-kargo.islemlerin-sepet-25.sbs
 0.0.0.0 yurtici-kargo.islemlerin-sepet-30.sbs
+0.0.0.0 yurtici-kargo.islemlerin-sepet-35.sbs
 0.0.0.0 yurtici-kargo.islemlerinmobil-13.sbs
 0.0.0.0 yurtici-kargo.islemlerinmobil-14.sbs
 0.0.0.0 yurtici-kargo.islemlerinmobil-15.sbs
