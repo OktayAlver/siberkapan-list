@@ -5,9 +5,9 @@
 #   Brand-owned domains, MISP warninglists and shared hosting platforms are excluded.
 # Homepage: https://siberkapan.org/phishing-feed
 # License: CC BY 4.0
-# Last modified: 2026-11-04T06:10:52Z
+# Last modified: 2026-11-04T14:28:03Z
 # Expires: 6 hours
-# Number of entries: 562
+# Number of entries: 586
 #
 0.0.0.0 589329-login-binance.com
 0.0.0.0 accounts.mica-login.fiscal-binance.com
@@ -20,6 +20,11 @@
 0.0.0.0 araskargo.svetw.top
 0.0.0.0 autodiscover.ziraatbank-bh.com
 0.0.0.0 ay4-yurtici.yarisma.online
+0.0.0.0 bbav.dropbox-garantibbva.ph
+0.0.0.0 bbav.lloydsbank-garantibbva-winnipegfringe.com.ph
+0.0.0.0 bbva.dropbox-garantibbva.ph
+0.0.0.0 bbva.garantibbva-elcorteingles.ph
+0.0.0.0 bbva.p21-nab-garantibbva.ph
 0.0.0.0 bet-garanti.betpas-toplu-giris.icu
 0.0.0.0 bet-garanti.resmi-giris.cam
 0.0.0.0 bet-garanti.setrabetresmi-giris.icu
@@ -57,7 +62,17 @@
 0.0.0.0 edevlet-system.live
 0.0.0.0 edevletplatformu.sbs
 0.0.0.0 emniyet.playsuperseed.online
+0.0.0.0 empreasas.dropbox-garantibbva.ph
+0.0.0.0 empresas.dropbox-garantibbva.ph
+0.0.0.0 empresas.p21-nab-garantibbva.ph
+0.0.0.0 empresasbbavnet.dropbox-garantibbva.ph
+0.0.0.0 empresasbbavnet.garantibbva-elcorteingles.ph
 0.0.0.0 en.garantibbva4all.ro
+0.0.0.0 es-bbva.dropbox-garantibbva.ph
+0.0.0.0 es-bbva.garantibbva-elcorteingles.ph
+0.0.0.0 es.dropbox-garantibbva.ph
+0.0.0.0 es.garantibbva-elcorteingles.ph
+0.0.0.0 es.lloydsbank-garantibbva-winnipegfringe.com.ph
 0.0.0.0 fatura.vodafone-topangebote.com
 0.0.0.0 garanti-borc-cozumu.cloud
 0.0.0.0 garanti-finans-basvuru.cloud
@@ -118,8 +133,12 @@
 0.0.0.0 login-binance.app
 0.0.0.0 login.abc-binance.com.cn
 0.0.0.0 login.binance-logins.com
+0.0.0.0 login.dropbox-garantibbva.ph
+0.0.0.0 login.garantibbva-elcorteingles.ph
 0.0.0.0 login.k-binance.com.cn
+0.0.0.0 login.lloydsbank-garantibbva-winnipegfringe.com.ph
 0.0.0.0 login.oop-binance.com.cn
+0.0.0.0 login.p21-nab-garantibbva.ph
 0.0.0.0 login.ppq-binance.com.cn
 0.0.0.0 login.vodafone-dsl-flat.de
 0.0.0.0 login.vodafone-dsl-flatrate.de
@@ -141,6 +160,7 @@
 0.0.0.0 online-garanti-kredi-basvuru.net
 0.0.0.0 onlinecont-garantibbva.com
 0.0.0.0 onlineuat.ziraatbank-sa.com
+0.0.0.0 papara-game.space
 0.0.0.0 parabet-ziraat.website
 0.0.0.0 paribu--araba.com
 0.0.0.0 paribu--araba.live
@@ -259,6 +279,8 @@
 0.0.0.0 pazarama.siparislerkapida.com
 0.0.0.0 pazarama.siparislerkapimda.com
 0.0.0.0 pazaramakapinda.com
+0.0.0.0 portalbbua.garantibbva-elcorteingles.ph
+0.0.0.0 portalbbua.p21-nab-garantibbva.ph
 0.0.0.0 s-sahibinden.xyz
 0.0.0.0 sa-trendyol.shop
 0.0.0.0 sahibinden-cmqvns.info
@@ -462,6 +484,7 @@
 0.0.0.0 www.binance-verify-us.com
 0.0.0.0 www.confirm-22e3f8c0-1b2a-4d5e-9f3a-8b6c7d9e0f1a-binance.su-en.sbs
 0.0.0.0 www.denizbank-frankfurt.de
+0.0.0.0 www.dropbox-garantibbva.ph
 0.0.0.0 www.en.garantibbva4all.ro
 0.0.0.0 www.garantibbva-noreply.com
 0.0.0.0 www.halkbank-girisimci.kosgebkrediler.com
@@ -470,6 +493,7 @@
 0.0.0.0 www.iletisim-yapikredi.com
 0.0.0.0 www.info-secure-binance.com
 0.0.0.0 www.isbankasi24.com
+0.0.0.0 www.lloydsbank-garantibbva-winnipegfringe.com.ph
 0.0.0.0 www.mhrs-art.fun
 0.0.0.0 www.mobilsube-akbank.xyz
 0.0.0.0 www.odeme-btcturk.com

@@ -5,9 +5,9 @@
 !   Brand-owned domains, MISP warninglists and shared hosting platforms are excluded.
 ! Homepage: https://siberkapan.org/phishing-feed
 ! License: CC BY 4.0
-! Last modified: 2026-11-04T06:10:52Z
+! Last modified: 2026-11-04T14:28:03Z
 ! Expires: 6 hours
-! Number of entries: 562
+! Number of entries: 586
 !
 ||589329-login-binance.com^
 ||accounts.mica-login.fiscal-binance.com^
@@ -20,6 +20,11 @@
 ||araskargo.svetw.top^
 ||autodiscover.ziraatbank-bh.com^
 ||ay4-yurtici.yarisma.online^
+||bbav.dropbox-garantibbva.ph^
+||bbav.lloydsbank-garantibbva-winnipegfringe.com.ph^
+||bbva.dropbox-garantibbva.ph^
+||bbva.garantibbva-elcorteingles.ph^
+||bbva.p21-nab-garantibbva.ph^
 ||bet-garanti.betpas-toplu-giris.icu^
 ||bet-garanti.resmi-giris.cam^
 ||bet-garanti.setrabetresmi-giris.icu^
@@ -57,7 +62,17 @@
 ||edevlet-system.live^
 ||edevletplatformu.sbs^
 ||emniyet.playsuperseed.online^
+||empreasas.dropbox-garantibbva.ph^
+||empresas.dropbox-garantibbva.ph^
+||empresas.p21-nab-garantibbva.ph^
+||empresasbbavnet.dropbox-garantibbva.ph^
+||empresasbbavnet.garantibbva-elcorteingles.ph^
 ||en.garantibbva4all.ro^
+||es-bbva.dropbox-garantibbva.ph^
+||es-bbva.garantibbva-elcorteingles.ph^
+||es.dropbox-garantibbva.ph^
+||es.garantibbva-elcorteingles.ph^
+||es.lloydsbank-garantibbva-winnipegfringe.com.ph^
 ||fatura.vodafone-topangebote.com^
 ||garanti-borc-cozumu.cloud^
 ||garanti-finans-basvuru.cloud^
@@ -118,8 +133,12 @@
 ||login-binance.app^
 ||login.abc-binance.com.cn^
 ||login.binance-logins.com^
+||login.dropbox-garantibbva.ph^
+||login.garantibbva-elcorteingles.ph^
 ||login.k-binance.com.cn^
+||login.lloydsbank-garantibbva-winnipegfringe.com.ph^
 ||login.oop-binance.com.cn^
+||login.p21-nab-garantibbva.ph^
 ||login.ppq-binance.com.cn^
 ||login.vodafone-dsl-flat.de^
 ||login.vodafone-dsl-flatrate.de^
@@ -141,6 +160,7 @@
 ||online-garanti-kredi-basvuru.net^
 ||onlinecont-garantibbva.com^
 ||onlineuat.ziraatbank-sa.com^
+||papara-game.space^
 ||parabet-ziraat.website^
 ||paribu--araba.com^
 ||paribu--araba.live^
@@ -259,6 +279,8 @@
 ||pazarama.siparislerkapida.com^
 ||pazarama.siparislerkapimda.com^
 ||pazaramakapinda.com^
+||portalbbua.garantibbva-elcorteingles.ph^
+||portalbbua.p21-nab-garantibbva.ph^
 ||s-sahibinden.xyz^
 ||sa-trendyol.shop^
 ||sahibinden-cmqvns.info^
@@ -462,6 +484,7 @@
 ||www.binance-verify-us.com^
 ||www.confirm-22e3f8c0-1b2a-4d5e-9f3a-8b6c7d9e0f1a-binance.su-en.sbs^
 ||www.denizbank-frankfurt.de^
+||www.dropbox-garantibbva.ph^
 ||www.en.garantibbva4all.ro^
 ||www.garantibbva-noreply.com^
 ||www.halkbank-girisimci.kosgebkrediler.com^
@@ -470,6 +493,7 @@
 ||www.iletisim-yapikredi.com^
 ||www.info-secure-binance.com^
 ||www.isbankasi24.com^
+||www.lloydsbank-garantibbva-winnipegfringe.com.ph^
 ||www.mhrs-art.fun^
 ||www.mobilsube-akbank.xyz^
 ||www.odeme-btcturk.com^
