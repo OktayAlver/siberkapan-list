@@ -1,7 +1,7 @@
 # SiberKapan Wazuh CDB List
 # https://siberkapan.org
-# Generated: 2026-11-05 06:39 UTC
-# Total: 32021 IPs (min_score=40)
+# Generated: 2026-11-05 19:54 UTC
+# Total: 32074 IPs (min_score=40)
 # Usage: place in /var/ossec/etc/lists/siberkapan-blocklist
 # Add to ossec.conf: <list>etc/lists/siberkapan-blocklist</list>
 
@@ -259,6 +259,7 @@
 189.203.163.10:score=100,country=MX,asn=AS22884
 192.248.150.180:score=100,country=GB,asn=AS20473
 106.51.92.114:score=100,country=IN,asn=AS24309
+20.235.157.149:score=100,country=IN,asn=AS8075
 154.18.197.35:score=100,country=PH,asn=AS142271
 153.117.15.187:score=100,country=PK,asn=AS9541
 101.47.155.9:score=100,country=SG,asn=AS150436
@@ -289,6 +290,7 @@
 201.149.53.243:score=100,country=MX,asn=AS14178
 94.154.43.158:score=100,country=TR,asn=AS208185
 135.235.138.43:score=100,country=IN,asn=AS8075
+47.102.100.45:score=100,country=CN,asn=AS37963
 45.33.109.18:score=100,country=US,asn=AS63949
 101.91.114.194:score=100,country=CN,asn=AS4811
 101.47.159.50:score=100,country=SG,asn=AS150436
@@ -451,6 +453,7 @@
 106.105.48.59:score=100,country=TW,asn=AS9919
 210.89.34.58:score=100,country=IN,asn=AS134674
 5.253.38.188:score=100,country=GB,asn=AS7488
+124.29.214.51:score=100,country=PK,asn=AS9541
 79.0.5.138:score=100,country=IT,asn=AS3269
 64.89.161.90:score=100,country=LU,asn=AS205759
 14.63.217.28:score=100,country=KR,asn=AS4766
@@ -470,6 +473,7 @@
 93.177.151.72:score=100,country=GE,asn=AS16010
 221.152.56.13:score=100,country=KR,asn=AS4766
 112.248.113.115:score=100,country=CN,asn=AS4837
+158.178.141.16:score=100,country=AU,asn=AS31898
 103.155.47.50:score=100,country=ID,asn=AS141049
 103.98.176.164:score=100,country=ID,asn=AS136827
 94.154.43.70:score=100,country=NL,asn=AS219502
@@ -614,6 +618,7 @@
 51.195.149.120:score=100,country=GB,asn=AS16276
 45.61.187.220:score=100,country=US,asn=AS53667
 139.135.43.195:score=100,country=PK,asn=AS9541
+194.165.16.122:score=100,country=LT,asn=AS48721
 102.223.92.101:score=100,country=GH,asn=AS328647
 110.37.104.0:score=100,country=PK,asn=AS38264
 94.154.43.180:score=100,country=NL,asn=AS219502
@@ -1117,6 +1122,7 @@
 111.221.44.115:score=100,country=SG,asn=AS38001
 52.141.2.20:score=100,country=KR,asn=AS8075
 135.125.226.143:score=100,country=DE,asn=AS16276
+113.161.149.20:score=100,country=VN,asn=AS45899
 217.64.102.75:score=100,country=ML,asn=AS21271
 43.230.94.186:score=100,country=PK,asn=AS140900
 182.44.26.211:score=100,country=CN,asn=AS58519
@@ -1209,6 +1215,7 @@
 188.130.250.252:score=100,country=RU,asn=AS207501
 176.120.22.61:score=100,country=RU,asn=AS198953
 172.160.227.37:score=100,country=SE,asn=AS8075
+117.50.46.117:score=100,country=CN,asn=AS9808
 82.39.86.153:score=100,country=NL,asn=AS214677
 101.96.202.177:score=100,country=CN,asn=AS137718
 120.84.213.251:score=100,country=CN,asn=AS17816
@@ -1353,6 +1360,7 @@
 219.154.185.65:score=100,country=CN,asn=AS4837
 2.187.250.85:score=100,country=IR,asn=AS58224
 120.28.82.26:score=100,country=PH,asn=AS132199
+175.107.208.122:score=100,country=PK,asn=AS9541
 172.190.220.228:score=100,country=US,asn=AS8075
 109.160.32.114:score=100,country=US,asn=AS197170
 155.94.233.59:score=100,country=US,asn=AS36352
@@ -1364,6 +1372,7 @@
 2.187.251.80:score=100,country=IR,asn=AS58224
 195.178.110.247:score=100,country=AD,asn=AS48090
 77.239.124.121:score=100,country=FR,asn=AS198364
+64.34.87.145:score=100,country=NL,asn=AS262287
 203.168.126.136:score=100,country=JP,asn=AS18144
 91.92.41.82:score=100,country=BG,asn=AS211443
 160.250.132.238:score=100,country=VN,asn=AS150895
@@ -1422,6 +1431,7 @@
 45.163.68.86:score=100,country=BR,asn=AS268559
 119.152.34.90:score=100,country=PK,asn=AS17557
 116.138.234.238:score=100,country=CN,asn=AS4837
+210.245.95.13:score=100,country=VN,asn=AS18403
 168.194.164.3:score=100,country=BR,asn=AS265393
 192.169.232.223:score=100,country=US,asn=AS398101
 114.12.17.98:score=100,country=ID,asn=AS4761
@@ -2289,6 +2299,7 @@
 216.73.217.39:score=100,country=US,asn=AS16509
 62.195.180.169:score=100,country=NL,asn=AS33915
 129.121.103.53:score=100,country=US,asn=AS31898
+45.138.12.44:score=100,country=HK,asn=AS218785
 185.41.204.26:score=100,country=RU,asn=AS204144
 116.139.178.34:score=100,country=CN,asn=AS4837
 161.118.218.203:score=100,country=SG,asn=AS31898
@@ -3299,6 +3310,7 @@
 115.75.209.182:score=100,country=VN,asn=AS7552
 2.180.123.94:score=100,country=IR,asn=AS58224
 222.118.65.45:score=100,country=KR,asn=AS4766
+104.237.145.228:score=100,country=US,asn=AS63949
 105.172.165.223:score=100,country=AO,asn=AS37119
 109.160.32.109:score=100,country=NL,asn=AS197170
 118.47.77.183:score=100,country=KR,asn=AS4766
@@ -4367,6 +4379,7 @@
 190.198.29.234:score=100,country=VE,asn=AS8048
 103.109.76.137:score=100,country=IN,asn=AS153233
 94.131.219.236:score=100,country=UA,asn=AS204289
+106.59.139.198:score=100,country=CN,asn=AS4134
 179.43.153.18:score=100,country=CH,asn=AS51852
 43.230.39.54:score=100,country=IN,asn=AS132974
 221.120.38.97:score=100,country=TW,asn=AS17421
@@ -4394,31 +4407,55 @@
 36.68.52.170:score=100,country=ID,asn=AS7713
 114.35.131.235:score=100,country=TW,asn=AS3462
 114.33.250.25:score=100,country=TW,asn=AS3462
-177.152.98.157:score=100,country=BR,asn=unknown
-64.89.160.83:score=100,country=SC,asn=unknown
-201.208.120.63:score=100,country=VE,asn=unknown
-92.142.91.144:score=100,country=GF,asn=unknown
-177.54.249.194:score=100,country=BR,asn=unknown
-95.32.2.210:score=100,country=RU,asn=unknown
-132.148.30.167:score=100,country=US,asn=unknown
-86.29.23.132:score=100,country=GB,asn=unknown
-168.92.73.151:score=100,country=US,asn=unknown
-195.95.147.14:score=100,country=UA,asn=unknown
-187.86.190.69:score=100,country=BR,asn=unknown
-90.100.143.169:score=100,country=FR,asn=unknown
-89.29.215.250:score=100,country=ES,asn=unknown
-163.5.254.250:score=100,country=FR,asn=unknown
-174.80.225.198:score=100,country=US,asn=unknown
-31.162.138.4:score=100,country=RU,asn=unknown
-195.178.110.78:score=100,country=AD,asn=unknown
-117.26.67.169:score=100,country=CN,asn=unknown
-24.156.28.238:score=100,country=US,asn=unknown
-123.138.15.66:score=100,country=CN,asn=unknown
-77.120.57.62:score=100,country=RU,asn=unknown
-37.142.220.132:score=100,country=IL,asn=unknown
-191.99.13.10:score=100,country=EC,asn=unknown
-193.19.253.41:score=100,country=UA,asn=unknown
-78.30.61.17:score=100,country=ES,asn=unknown
+177.152.98.157:score=100,country=BR,asn=AS270585
+64.89.160.83:score=100,country=SC,asn=AS403005
+201.208.120.63:score=100,country=VE,asn=AS8048
+92.142.91.144:score=100,country=GF,asn=AS3215
+177.54.249.194:score=100,country=BR,asn=AS262299
+95.32.2.210:score=100,country=RU,asn=AS12389
+132.148.30.167:score=100,country=US,asn=AS398101
+93.123.109.164:score=100,country=AD,asn=AS48090
+86.29.23.132:score=100,country=GB,asn=AS5089
+168.92.73.151:score=100,country=US,asn=AS32709
+195.95.147.14:score=100,country=UA,asn=AS39297
+187.86.190.69:score=100,country=BR,asn=AS262689
+90.100.143.169:score=100,country=FR,asn=AS3215
+216.73.216.198:score=100,country=US,asn=AS16509
+89.29.215.250:score=100,country=ES,asn=AS3339
+163.5.254.250:score=100,country=FR,asn=AS400897
+174.80.225.198:score=100,country=US,asn=AS20115
+31.162.138.4:score=100,country=RU,asn=AS12389
+195.178.110.78:score=100,country=AD,asn=AS48090
+117.26.67.169:score=100,country=CN,asn=AS4134
+24.156.28.238:score=100,country=US,asn=AS19108
+123.138.15.66:score=100,country=CN,asn=AS4837
+77.120.57.62:score=100,country=RU,asn=AS200702
+37.142.220.132:score=100,country=IL,asn=AS12849
+191.99.13.10:score=100,country=EC,asn=AS27738
+193.19.253.41:score=100,country=UA,asn=AS198820
+78.30.61.17:score=100,country=ES,asn=AS15704
+35.206.174.128:score=100,country=BE,asn=AS43515
+141.98.9.116:score=100,country=LT,asn=AS209605
+193.107.99.14:score=100,country=MD,asn=AS48480
+182.53.162.225:score=100,country=TH,asn=AS23969
+52.242.194.83:score=100,country=US,asn=AS8075
+190.142.193.88:score=100,country=VE,asn=AS21826
+62.183.18.27:score=100,country=RU,asn=AS25490
+108.58.52.26:score=100,country=US,asn=AS6128
+211.236.88.187:score=100,country=KR,asn=AS4766
+85.175.253.226:score=100,country=RU,asn=AS12389
+93.85.226.11:score=100,country=BY,asn=AS6697
+27.111.74.175:score=100,country=IN,asn=AS24186
+46.200.53.216:score=100,country=UA,asn=AS6849
+27.102.116.43:score=100,country=KR,asn=AS45996
+94.236.132.119:score=100,country=BG,asn=AS42555
+181.80.25.80:score=100,country=AR,asn=AS7303
+186.88.22.249:score=100,country=VE,asn=AS8048
+176.122.109.133:score=100,country=UA,asn=AS50581
+106.70.68.181:score=100,country=AU,asn=AS4804
+106.40.243.234:score=100,country=CN,asn=AS4134
+42.96.56.84:score=100,country=VN,asn=AS45903
+31.23.68.112:score=100,country=RU,asn=unknown
 45.229.91.34:score=98,country=BR,asn=AS267106
 194.165.16.165:score=98,country=LT,asn=AS48721
 91.92.241.196:score=98,country=NL,asn=AS202412
@@ -4431,7 +4468,6 @@
 59.103.86.89:score=98,country=PK,asn=AS17557
 211.53.113.224:score=98,country=KR,asn=AS3786
 211.62.111.247:score=98,country=KR,asn=AS4766
-158.178.141.16:score=98,country=AU,asn=AS31898
 4.224.59.75:score=98,country=IN,asn=AS8075
 41.215.133.245:score=98,country=KE,asn=AS36866
 220.85.210.200:score=98,country=KR,asn=AS4766
@@ -4624,6 +4660,7 @@
 89.236.202.190:score=96,country=UZ,asn=AS34718
 201.246.211.189:score=96,country=CL,asn=AS7418
 45.138.12.48:score=95,country=GB,asn=AS218785
+185.218.86.14:score=95,country=HK,asn=AS218785
 61.52.158.137:score=94,country=CN,asn=AS4837
 80.102.218.187:score=94,country=ES,asn=AS12479
 103.143.238.100:score=94,country=HK,asn=AS138152
@@ -4649,6 +4686,7 @@
 142.111.152.210:score=94,country=US,asn=AS212238
 142.111.152.28:score=94,country=US,asn=AS212238
 91.225.162.247:score=94,country=UA,asn=AS56400
+20.24.137.18:score=94,country=SG,asn=AS8075
 162.241.29.37:score=94,country=US,asn=AS19871
 85.165.104.58:score=94,country=NO,asn=AS2119
 89.185.225.24:score=94,country=CZ,asn=AS24971
@@ -4801,7 +4839,6 @@
 45.94.31.70:score=90,country=NL,asn=AS210558
 119.209.12.20:score=90,country=KR,asn=AS4766
 182.127.176.119:score=90,country=CN,asn=AS4837
-124.29.214.51:score=90,country=PK,asn=AS9541
 103.165.227.178:score=90,country=ID,asn=AS17995
 175.107.208.199:score=90,country=PK,asn=AS9541
 110.37.7.7:score=90,country=PK,asn=AS38264
@@ -5222,6 +5259,7 @@
 109.200.159.172:score=90,country=RU,asn=AS6789
 94.243.15.197:score=90,country=RU,asn=AS8359
 182.119.199.112:score=90,country=CN,asn=AS4837
+185.226.92.150:score=90,country=TR,asn=AS205196
 222.137.27.70:score=90,country=CN,asn=AS4837
 68.183.41.122:score=90,country=GB,asn=AS14061
 130.12.180.171:score=90,country=NL,asn=AS202412
@@ -5251,7 +5289,6 @@
 178.245.128.37:score=90,country=TR,asn=AS16135
 115.135.34.79:score=90,country=MY,asn=AS4788
 72.255.19.231:score=90,country=PK,asn=AS9541
-104.237.145.228:score=90,country=US,asn=AS63949
 62.60.130.113:score=90,country=IR,asn=AS215930
 153.117.9.38:score=90,country=PK,asn=AS9541
 14.177.76.31:score=90,country=VN,asn=AS45899
@@ -5403,6 +5440,7 @@
 2.180.220.162:score=90,country=IR,asn=AS58224
 182.113.0.220:score=90,country=CN,asn=AS4837
 175.10.212.50:score=90,country=CN,asn=AS4134
+188.165.63.131:score=90,country=FR,asn=AS16276
 103.213.112.141:score=90,country=PK,asn=AS9541
 177.21.21.26:score=90,country=BR,asn=AS28186
 41.32.128.189:score=90,country=EG,asn=AS8452
@@ -5460,6 +5498,7 @@
 103.26.82.1:score=90,country=PK,asn=AS9541
 93.123.109.230:score=90,country=AD,asn=AS48090
 91.242.55.214:score=90,country=UA,asn=AS50751
+82.213.182.225:score=90,country=ES,asn=AS6739
 115.49.0.246:score=90,country=CN,asn=AS4837
 153.117.67.17:score=90,country=PK,asn=AS9541
 182.119.177.169:score=90,country=CN,asn=AS4837
@@ -5488,6 +5527,7 @@
 153.117.8.230:score=90,country=PK,asn=AS9541
 153.117.1.198:score=90,country=PK,asn=AS9541
 170.199.135.154:score=90,country=CA,asn=AS22423
+217.60.76.38:score=90,country=NL,asn=AS401626
 153.117.8.249:score=90,country=PK,asn=AS9541
 27.19.83.231:score=90,country=CN,asn=AS137266
 123.13.106.2:score=90,country=CN,asn=AS4837
@@ -5549,17 +5589,22 @@
 103.120.70.107:score=90,country=PK,asn=AS137047
 165.232.72.235:score=90,country=DE,asn=AS14061
 103.213.112.208:score=90,country=PK,asn=AS9541
-103.26.86.49:score=90,country=PK,asn=unknown
-101.53.233.127:score=90,country=PK,asn=unknown
-124.29.224.91:score=90,country=PK,asn=unknown
-72.255.32.20:score=90,country=PK,asn=unknown
-153.117.127.174:score=90,country=PK,asn=unknown
-94.243.9.96:score=90,country=RU,asn=unknown
-110.38.15.188:score=90,country=PK,asn=unknown
-5.238.138.153:score=90,country=IR,asn=unknown
-139.135.60.3:score=90,country=PK,asn=unknown
-36.150.50.239:score=90,country=CN,asn=unknown
-103.225.244.10:score=90,country=NP,asn=unknown
+103.26.86.49:score=90,country=PK,asn=AS9541
+101.53.233.127:score=90,country=PK,asn=AS9541
+124.29.224.91:score=90,country=PK,asn=AS9541
+72.255.32.20:score=90,country=PK,asn=AS9541
+153.117.127.174:score=90,country=PK,asn=AS9541
+94.243.9.96:score=90,country=RU,asn=AS8359
+110.38.15.188:score=90,country=PK,asn=AS38264
+5.238.138.153:score=90,country=IR,asn=AS58224
+139.135.60.3:score=90,country=PK,asn=AS9541
+36.150.50.239:score=90,country=CN,asn=AS56046
+103.225.244.10:score=90,country=NP,asn=AS24550
+61.52.117.224:score=90,country=CN,asn=AS4837
+35.221.41.167:score=90,country=US,asn=AS396982
+175.107.216.163:score=90,country=PK,asn=AS9541
+37.98.111.91:score=90,country=IR,asn=AS197207
+175.19.225.101:score=90,country=CN,asn=unknown
 142.93.218.50:score=88,country=IN,asn=AS14061
 203.205.37.233:score=88,country=VN,asn=AS45903
 8.134.124.8:score=88,country=CN,asn=AS37963
@@ -5678,6 +5723,7 @@
 112.5.89.227:score=86,country=CN,asn=AS9808
 141.11.88.103:score=86,country=US,asn=AS212477
 39.89.161.184:score=86,country=CN,asn=AS4837
+94.26.106.252:score=86,country=DE,asn=AS215607
 111.47.243.219:score=86,country=CN,asn=AS9808
 170.238.160.191:score=86,country=BR,asn=AS266327
 211.221.196.103:score=86,country=KR,asn=AS4766
@@ -5720,7 +5766,6 @@
 144.48.130.40:score=86,country=PK,asn=AS9541
 80.93.117.193:score=86,country=UA,asn=AS35320
 45.136.71.150:score=86,country=DK,asn=AS44803
-210.245.95.13:score=86,country=VN,asn=AS18403
 45.138.12.27:score=86,country=GB,asn=AS218785
 103.179.240.24:score=86,country=PK,asn=AS151330
 46.105.31.171:score=86,country=FR,asn=AS16276
@@ -5778,7 +5823,7 @@
 45.238.235.2:score=85,country=BR,asn=AS268350
 169.239.75.138:score=85,country=CD,asn=AS328003
 14.34.249.175:score=85,country=KR,asn=AS4766
-177.104.137.235:score=85,country=BR,asn=unknown
+177.104.137.235:score=85,country=BR,asn=AS53107
 110.36.28.183:score=84,country=PK,asn=AS38264
 124.11.64.11:score=84,country=TW,asn=AS9924
 85.198.19.251:score=84,country=IR,asn=AS60077
@@ -5793,7 +5838,6 @@
 123.58.210.86:score=84,country=HK,asn=AS135377
 88.129.165.39:score=84,country=SE,asn=AS29518
 117.247.23.131:score=84,country=IN,asn=AS9829
-194.165.16.122:score=84,country=LT,asn=AS48721
 45.33.14.197:score=84,country=US,asn=AS63949
 81.171.72.135:score=84,country=FR,asn=AS34343
 96.126.130.210:score=84,country=JP,asn=AS149440
@@ -5804,6 +5848,7 @@
 200.105.94.68:score=84,country=AR,asn=AS7303
 120.138.19.7:score=84,country=NZ,asn=AS45179
 154.83.15.101:score=84,country=HK,asn=AS142403
+106.12.181.132:score=84,country=CN,asn=AS38365
 103.163.215.131:score=84,country=VN,asn=AS131366
 42.200.158.230:score=84,country=HK,asn=AS4760
 210.1.59.163:score=84,country=TH,asn=AS9891
@@ -6013,7 +6058,6 @@
 156.232.13.218:score=80,country=HK,asn=AS138152
 205.250.173.210:score=80,country=CA,asn=AS25668
 88.142.46.185:score=80,country=FR,asn=AS15557
-20.235.157.149:score=80,country=IN,asn=AS8075
 43.156.71.43:score=80,country=SG,asn=AS132203
 190.60.242.28:score=80,country=CO,asn=AS18747
 103.49.62.60:score=80,country=HK,asn=AS62610
@@ -6037,7 +6081,6 @@
 111.92.157.253:score=80,country=PK,asn=AS135523
 115.191.32.57:score=80,country=CN,asn=AS137718
 144.217.13.134:score=80,country=CA,asn=AS16276
-113.161.149.20:score=80,country=VN,asn=AS45899
 43.165.67.31:score=80,country=US,asn=AS132203
 158.94.210.189:score=80,country=NL,asn=AS202412
 196.251.121.151:score=80,country=DE,asn=AS205759
@@ -6135,6 +6178,7 @@
 4.172.250.34:score=80,country=CA,asn=AS8075
 20.70.184.248:score=80,country=AU,asn=AS8075
 40.27.120.53:score=80,country=BR,asn=AS199487
+85.198.19.241:score=80,country=IR,asn=AS60077
 27.128.171.39:score=80,country=CN,asn=AS4134
 66.116.253.148:score=80,country=IN,asn=AS31898
 20.200.208.154:score=80,country=KR,asn=AS8075
@@ -6174,11 +6218,13 @@
 172.96.182.111:score=80,country=US,asn=AS23273
 106.59.139.199:score=80,country=CN,asn=AS4134
 106.59.139.121:score=80,country=CN,asn=AS4134
+102.220.161.119:score=80,country=SI,asn=AS197769
 213.209.159.241:score=80,country=DE,asn=AS208137
 103.71.176.189:score=80,country=MY,asn=AS55720
 50.6.205.37:score=80,country=US,asn=AS31898
 123.58.219.41:score=80,country=HK,asn=AS135377
 65.254.95.164:score=80,country=AU,asn=AS38719
+178.253.95.34:score=80,country=SY,asn=AS29256
 165.154.69.238:score=80,country=HK,asn=AS135377
 106.59.139.40:score=80,country=CN,asn=AS4134
 202.46.28.140:score=80,country=ID,asn=AS63491
@@ -6186,7 +6232,8 @@
 109.160.32.126:score=80,country=NL,asn=AS197170
 106.59.139.74:score=80,country=CN,asn=AS4134
 106.59.139.186:score=80,country=CN,asn=AS4134
-45.148.10.244:score=80,country=NL,asn=unknown
+85.155.14.245:score=80,country=DE,asn=AS199457
+45.148.10.244:score=80,country=NL,asn=AS48090
 194.54.161.214:score=78,country=UA,asn=AS50115
 194.165.16.163:score=78,country=LT,asn=AS48721
 128.14.232.186:score=78,country=ID,asn=AS135377
@@ -26662,16 +26709,16 @@
 75.209.120.225:score=70,country=US,asn=AS6167
 115.21.62.36:score=70,country=KR,asn=AS4766
 91.40.154.75:score=70,country=DE,asn=AS3320
-87.165.60.155:score=70,country=XX,asn=unknown
-150.9.130.244:score=70,country=XX,asn=unknown
-59.18.184.85:score=70,country=XX,asn=unknown
-180.213.174.180:score=70,country=XX,asn=unknown
-151.40.228.112:score=70,country=XX,asn=unknown
-112.103.248.65:score=70,country=XX,asn=unknown
-113.128.226.18:score=70,country=XX,asn=unknown
-219.144.54.186:score=70,country=XX,asn=unknown
-118.101.40.31:score=70,country=XX,asn=unknown
-115.171.43.114:score=70,country=XX,asn=unknown
+87.165.60.155:score=70,country=DE,asn=AS3320
+150.9.130.244:score=70,country=JP,asn=AS4685
+59.18.184.85:score=70,country=KR,asn=AS4766
+180.213.174.180:score=70,country=CN,asn=AS17638
+151.40.228.112:score=70,country=IT,asn=AS1267
+112.103.248.65:score=70,country=CN,asn=AS4134
+113.128.226.18:score=70,country=CN,asn=AS4134
+219.144.54.186:score=70,country=CN,asn=AS4134
+118.101.40.31:score=70,country=MY,asn=AS4788
+115.171.43.114:score=70,country=CN,asn=AS4847
 45.78.224.87:score=69,country=SG,asn=AS150436
 83.142.209.46:score=68,country=UA,asn=AS205759
 110.36.27.207:score=68,country=PK,asn=AS38264
@@ -27161,9 +27208,9 @@
 20.164.200.48:score=65,country=ZA,asn=AS8075
 34.62.9.55:score=65,country=BE,asn=AS396982
 52.242.132.37:score=65,country=US,asn=AS8075
-93.123.109.164:score=65,country=AD,asn=unknown
-169.150.196.30:score=65,country=NL,asn=unknown
-35.198.15.58:score=65,country=BR,asn=unknown
+169.150.196.30:score=65,country=NL,asn=AS212238
+35.198.15.58:score=65,country=BR,asn=AS396982
+35.241.216.166:score=65,country=BE,asn=AS396982
 83.168.110.191:score=64,country=PL,asn=AS202520
 43.229.20.247:score=64,country=ID,asn=AS23949
 103.16.75.50:score=64,country=BD,asn=AS24122
@@ -27280,7 +27327,6 @@
 81.171.74.60:score=64,country=GB,asn=AS34343
 117.176.220.76:score=64,country=CN,asn=AS9808
 136.36.189.65:score=64,country=US,asn=AS16591
-20.24.137.18:score=64,country=SG,asn=AS8075
 115.190.138.163:score=64,country=CN,asn=AS137718
 163.223.191.2:score=64,country=IN,asn=AS139490
 49.231.192.36:score=64,country=TH,asn=AS45458
@@ -27601,6 +27647,7 @@
 182.117.42.205:score=60,country=CN,asn=AS4837
 141.11.88.129:score=60,country=US,asn=AS212477
 125.44.209.117:score=60,country=CN,asn=AS4837
+45.156.87.50:score=60,country=NL,asn=AS51396
 182.119.198.230:score=60,country=CN,asn=AS4837
 116.248.83.127:score=60,country=CN,asn=AS4134
 27.44.147.40:score=60,country=CN,asn=AS17816
@@ -27740,6 +27787,7 @@
 172.236.228.38:score=60,country=US,asn=AS63949
 122.222.1.177:score=60,country=JP,asn=AS2519
 42.81.126.27:score=60,country=CN,asn=AS58542
+36.41.173.197:score=60,country=CN,asn=AS134768
 69.165.41.224:score=60,country=US,asn=AS23158
 217.34.53.52:score=60,country=GB,asn=AS2856
 103.39.236.122:score=60,country=IN,asn=AS133255
@@ -27765,6 +27813,7 @@
 176.236.79.238:score=60,country=TR,asn=AS34984
 115.190.151.242:score=60,country=CN,asn=AS137718
 69.5.20.232:score=60,country=ID,asn=AS150436
+180.76.250.204:score=60,country=CN,asn=AS38365
 195.178.110.241:score=60,country=AD,asn=AS48090
 153.117.46.70:score=60,country=PK,asn=AS9541
 172.236.228.202:score=60,country=US,asn=AS63949
@@ -28070,6 +28119,7 @@
 95.79.30.207:score=60,country=RU,asn=AS42682
 213.152.162.89:score=60,country=NL,asn=AS49453
 207.175.36.136:score=60,country=BE,asn=AS396982
+43.228.157.59:score=60,country=DE,asn=AS36680
 101.36.125.2:score=60,country=HK,asn=AS135377
 120.48.112.221:score=60,country=CN,asn=AS38365
 166.0.150.41:score=60,country=FR,asn=AS149440
@@ -28244,7 +28294,6 @@
 185.15.209.148:score=60,country=NL,asn=AS52000
 130.12.180.170:score=60,country=NL,asn=AS202412
 211.143.234.150:score=60,country=CN,asn=AS56046
-185.226.92.150:score=60,country=TR,asn=AS205196
 124.29.194.145:score=60,country=PK,asn=AS9541
 27.10.179.52:score=60,country=CN,asn=AS4837
 41.79.212.13:score=60,country=ZA,asn=AS328366
@@ -28496,7 +28545,6 @@
 109.160.32.30:score=60,country=NL,asn=AS197170
 188.17.57.199:score=60,country=RU,asn=AS12389
 123.168.183.167:score=60,country=CN,asn=AS4134
-178.253.95.34:score=60,country=SY,asn=AS29256
 189.165.14.0:score=60,country=MX,asn=AS8151
 203.29.18.160:score=60,country=VN,asn=AS140766
 118.145.242.127:score=60,country=CN,asn=AS137718
@@ -28544,7 +28592,6 @@
 59.23.202.227:score=60,country=KR,asn=AS4766
 175.0.123.153:score=60,country=CN,asn=AS4134
 158.178.242.41:score=60,country=SG,asn=AS31898
-82.213.182.225:score=60,country=ES,asn=AS6739
 202.165.25.43:score=60,country=MY,asn=AS18206
 94.243.10.171:score=60,country=RU,asn=AS8359
 113.59.36.122:score=60,country=CN,asn=AS4837
@@ -28558,7 +28605,6 @@
 94.243.8.2:score=60,country=RU,asn=AS8359
 181.208.60.221:score=60,country=VE,asn=AS21826
 163.223.191.174:score=60,country=IN,asn=AS139490
-217.60.76.38:score=60,country=NL,asn=AS401626
 61.75.188.115:score=60,country=KR,asn=AS4766
 64.89.163.211:score=60,country=DE,asn=AS401626
 117.63.242.137:score=60,country=CN,asn=AS140293
@@ -28580,7 +28626,6 @@
 82.200.235.132:score=60,country=KZ,asn=AS9198
 90.188.244.223:score=60,country=RU,asn=AS12389
 202.107.164.66:score=60,country=CN,asn=AS4134
-85.155.14.245:score=60,country=DE,asn=AS199457
 192.81.218.246:score=60,country=US,asn=AS14061
 35.210.13.235:score=60,country=BE,asn=AS43515
 103.71.176.25:score=60,country=MY,asn=AS55720
@@ -28601,6 +28646,7 @@
 177.93.51.198:score=60,country=CO,asn=AS262186
 62.84.104.234:score=60,country=RU,asn=AS44927
 94.243.9.115:score=60,country=RU,asn=AS8359
+5.187.38.30:score=60,country=HK,asn=AS206264
 176.52.113.172:score=60,country=RU,asn=AS29194
 35.210.231.84:score=60,country=BE,asn=AS43515
 45.173.235.39:score=60,country=BR,asn=AS268833
@@ -28614,7 +28660,6 @@
 152.32.254.178:score=60,country=HK,asn=AS135377
 59.179.31.238:score=60,country=IN,asn=AS17813
 173.249.8.162:score=60,country=FR,asn=AS51167
-106.59.139.198:score=60,country=CN,asn=AS4134
 87.156.189.98:score=60,country=DE,asn=AS3320
 129.121.115.239:score=60,country=US,asn=AS31898
 165.101.119.184:score=60,country=PK,asn=AS142647
@@ -28627,16 +28672,28 @@
 129.121.138.81:score=60,country=US,asn=AS31898
 41.77.220.188:score=60,country=CD,asn=AS37447
 50.6.193.84:score=60,country=US,asn=AS31898
-119.100.106.187:score=60,country=CN,asn=unknown
-169.58.87.113:score=60,country=FR,asn=unknown
-109.196.136.127:score=60,country=RU,asn=unknown
-91.107.189.19:score=60,country=DE,asn=unknown
-86.127.231.29:score=60,country=ES,asn=unknown
-148.113.248.142:score=60,country=CA,asn=unknown
-31.40.19.109:score=60,country=UA,asn=unknown
-180.115.161.48:score=60,country=CN,asn=unknown
-123.165.85.143:score=60,country=CN,asn=unknown
-218.255.103.194:score=60,country=HK,asn=unknown
+119.100.106.187:score=60,country=CN,asn=AS4134
+80.87.206.130:score=60,country=FR,asn=AS16276
+169.58.87.113:score=60,country=FR,asn=AS51167
+109.196.136.127:score=60,country=RU,asn=AS61431
+91.107.189.19:score=60,country=DE,asn=AS24940
+86.127.231.29:score=60,country=ES,asn=AS8708
+148.113.248.142:score=60,country=CA,asn=AS16276
+31.40.19.109:score=60,country=UA,asn=AS197131
+180.115.161.48:score=60,country=CN,asn=AS140293
+123.165.85.143:score=60,country=CN,asn=AS4134
+218.255.103.194:score=60,country=HK,asn=AS9381
+45.156.87.65:score=60,country=NL,asn=AS197170
+157.20.241.18:score=60,country=IN,asn=AS152565
+177.75.236.42:score=60,country=BR,asn=AS61851
+35.210.238.150:score=60,country=BE,asn=AS43515
+35.210.181.143:score=60,country=BE,asn=AS43515
+103.201.141.242:score=60,country=IN,asn=AS134316
+50.6.192.84:score=60,country=US,asn=AS31898
+172.56.233.32:score=60,country=US,asn=AS21928
+103.230.120.249:score=60,country=TH,asn=AS58955
+186.209.77.236:score=60,country=BR,asn=AS28649
+35.210.24.61:score=60,country=BE,asn=AS43515
 179.43.182.70:score=58,country=CH,asn=AS51852
 182.127.153.219:score=58,country=CN,asn=AS4837
 103.96.96.35:score=58,country=IN,asn=AS136684
@@ -29209,7 +29266,6 @@
 182.126.180.243:score=56,country=CN,asn=AS4837
 42.231.94.11:score=56,country=CN,asn=AS4837
 123.133.59.188:score=56,country=CN,asn=AS4837
-94.26.106.252:score=56,country=DE,asn=AS215607
 207.154.230.149:score=56,country=DE,asn=AS14061
 160.153.187.97:score=56,country=US,asn=AS398101
 154.120.133.86:score=56,country=MG,asn=AS37037
@@ -29225,6 +29281,7 @@
 151.243.11.168:score=56,country=DE,asn=AS209630
 151.243.11.162:score=56,country=DE,asn=AS209630
 151.243.11.154:score=56,country=DE,asn=AS209630
+211.253.9.49:score=56,country=KR,asn=AS4766
 156.225.20.213:score=56,country=HK,asn=AS401696
 188.252.196.46:score=56,country=HR,asn=AS15994
 189.8.5.118:score=56,country=BR,asn=AS26609
@@ -29364,8 +29421,8 @@
 20.64.98.130:score=55,country=US,asn=AS8075
 187.17.228.241:score=55,country=BR,asn=AS28267
 45.228.216.0:score=55,country=BR,asn=AS267119
-40.124.116.44:score=55,country=US,asn=unknown
-20.46.235.96:score=55,country=US,asn=unknown
+40.124.116.44:score=55,country=US,asn=AS8075
+20.46.235.96:score=55,country=US,asn=AS8075
 200.6.91.43:score=54,country=BR,asn=AS270458
 103.172.186.155:score=54,country=ID,asn=AS142400
 145.255.196.49:score=54,country=BG,asn=AS198259
@@ -29529,7 +29586,6 @@
 68.71.30.130:score=54,country=CA,asn=AS53486
 119.148.35.67:score=54,country=BD,asn=AS23923
 65.7.47.134:score=54,country=CA,asn=AS852
-106.12.181.132:score=54,country=CN,asn=AS38365
 41.216.228.244:score=54,country=MW,asn=AS37098
 178.128.106.254:score=54,country=SG,asn=AS14061
 103.173.112.10:score=54,country=IN,asn=AS150140
@@ -30163,7 +30219,6 @@
 20.150.194.143:score=50,country=US,asn=AS8075
 129.150.36.209:score=50,country=SG,asn=AS31898
 203.128.6.159:score=50,country=PK,asn=AS17911
-85.198.19.241:score=50,country=IR,asn=AS60077
 150.117.126.57:score=50,country=TW,asn=AS131600
 129.121.115.10:score=50,country=US,asn=AS31898
 135.233.115.110:score=50,country=US,asn=AS8075
@@ -30181,6 +30236,7 @@
 118.196.36.59:score=50,country=CN,asn=AS137718
 40.119.25.141:score=50,country=US,asn=AS8075
 20.29.29.221:score=50,country=US,asn=AS8075
+172.212.226.229:score=50,country=US,asn=AS8075
 13.94.39.162:score=50,country=HK,asn=AS8075
 193.105.131.7:score=50,country=RU,asn=AS57842
 43.161.196.76:score=50,country=HK,asn=AS132203
@@ -30270,6 +30326,7 @@
 103.181.21.153:score=50,country=IN,asn=AS17439
 213.194.131.120:score=50,country=ES,asn=AS15704
 103.108.67.180:score=50,country=HK,asn=AS401696
+51.254.130.71:score=50,country=FR,asn=AS16276
 35.241.107.76:score=50,country=HK,asn=AS396982
 146.70.160.252:score=49,country=DE,asn=AS9009
 20.220.217.91:score=49,country=CA,asn=AS8075
@@ -30909,7 +30966,6 @@
 160.236.58.97:score=45,country=BD,asn=AS151954
 18.143.49.117:score=45,country=SG,asn=AS16509
 217.60.7.209:score=45,country=US,asn=AS56971
-45.138.12.44:score=45,country=HK,asn=AS218785
 185.192.71.218:score=45,country=GB,asn=AS206092
 159.223.74.62:score=45,country=SG,asn=AS14061
 52.141.61.162:score=45,country=KR,asn=AS8075
@@ -30960,7 +31016,6 @@
 121.121.57.60:score=45,country=MY,asn=AS9534
 201.3.185.68:score=45,country=BR,asn=AS8167
 94.103.2.81:score=45,country=MD,asn=AS207713
-188.165.63.131:score=45,country=FR,asn=AS16276
 144.225.6.184:score=45,country=US,asn=AS7488
 8.137.104.136:score=45,country=CN,asn=AS37963
 13.211.188.146:score=45,country=AU,asn=AS16509
@@ -31420,7 +31475,6 @@
 94.42.171.132:score=42,country=PL,asn=AS12912
 171.237.179.188:score=42,country=VN,asn=AS7552
 74.129.4.16:score=42,country=US,asn=AS10796
-117.50.46.117:score=42,country=CN,asn=AS9808
 115.190.185.31:score=42,country=CN,asn=AS137718
 118.139.165.143:score=42,country=SG,asn=AS26496
 115.159.67.192:score=42,country=CN,asn=AS45090
@@ -31899,7 +31953,6 @@
 137.184.145.120:score=40,country=US,asn=AS14061
 223.123.73.200:score=40,country=PK,asn=AS59257
 94.243.10.112:score=40,country=RU,asn=AS8359
-175.107.208.122:score=40,country=PK,asn=AS9541
 153.117.29.8:score=40,country=PK,asn=AS9541
 109.196.71.138:score=40,country=RU,asn=AS44056
 103.146.111.169:score=40,country=IN,asn=AS139549
@@ -32025,4 +32078,4 @@
 106.59.139.2:score=40,country=CN,asn=AS4134
 43.173.14.232:score=40,country=ID,asn=AS132203
 8.220.180.66:score=40,country=PH,asn=AS45102
-216.73.216.198:score=40,country=US,asn=unknown
+77.68.99.120:score=40,country=GB,asn=AS8560
