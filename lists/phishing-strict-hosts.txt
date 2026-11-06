@@ -5,7 +5,7 @@
 #   Brand-owned domains, MISP warninglists and shared hosting platforms are excluded.
 # Homepage: https://siberkapan.org/phishing-feed
 # License: CC BY 4.0
-# Last modified: 2026-11-06T06:35:36Z
+# Last modified: 2026-11-06T19:20:23Z
 # Expires: 6 hours
 # Number of entries: 709
 #
@@ -14,8 +14,10 @@
 0.0.0.0 akbank.obenan.tech
 0.0.0.0 api-trendyol.patai.tech
 0.0.0.0 api.mica-login.fiscal-binance.com
+0.0.0.0 api.staging.onlinesbi-ziraatbank-vipps.ph
 0.0.0.0 app-bbva.amazon-garantibbva-santanderukamazon.ph
 0.0.0.0 app-bbva.bool-myhermes-garantibbva.ph
+0.0.0.0 app.api.hepsiburada-dbss-accessbankplc.com.ph
 0.0.0.0 araba--paribu.live
 0.0.0.0 araskargo.apps.tecof.site
 0.0.0.0 araskargo.sol.site
@@ -32,7 +34,6 @@
 0.0.0.0 bbav.garantibbva-ocbc-goodsforbusine.com.ph
 0.0.0.0 bbav.lloydsbank-garantibbva-winnipegfringe.com.ph
 0.0.0.0 bbav.n26-nab-garantibbva.com.ph
-0.0.0.0 bbav.p21-nab-garantibbva.ph
 0.0.0.0 bbavnet.amazon-garantibbva-santanderamazon.ph
 0.0.0.0 bbavnet.amazon-garantibbva-santanderukamazon.ph
 0.0.0.0 bbavnet.bool-myhermes-garantibbva.ph
@@ -43,9 +44,9 @@
 0.0.0.0 bbva.elcorteingles-mailersend-garantibbva.com.ph
 0.0.0.0 bbva.fedexsubdelivery-bnpparibas-garantibbva.com.ph
 0.0.0.0 bbva.garantibbva-dropbox.ph
-0.0.0.0 bbva.garantibbva-minishowcase-abnamro.ph
 0.0.0.0 bbva.garantibbva-ocbc-goodsforbusine.com.ph
 0.0.0.0 bbva.lloydsbank-garantibbva-winnipegfringe.com.ph
+0.0.0.0 bbva.n26-nab-garantibbva.com.ph
 0.0.0.0 bet-garanti.betpas-toplu-giris.icu
 0.0.0.0 bet-garanti.resmi-giris.cam
 0.0.0.0 bet-garanti.setrabetresmi-giris.icu
@@ -74,7 +75,6 @@
 0.0.0.0 btcturk.mixapi.store
 0.0.0.0 btcturkcekilisi.co
 0.0.0.0 business.dropbox-garantibbva-incometax.ph
-0.0.0.0 cccb-hugedomains-garantibbva.com.ph
 0.0.0.0 cekilis--binance.com
 0.0.0.0 cekilisbinance.com
 0.0.0.0 censors.dropbox-garantibbva-incometax.ph
@@ -82,6 +82,7 @@
 0.0.0.0 denizbank-frankfurt.de
 0.0.0.0 dev.brm-denizbank-api.linktera.xyz
 0.0.0.0 dev.brm-denizbank.linktera.xyz
+0.0.0.0 dev.staging.hepsiburada-dbss-accessbankplc.com.ph
 0.0.0.0 edevlet-ai.com
 0.0.0.0 edevlet-hesap.com
 0.0.0.0 edevlet-system.live
@@ -118,7 +119,6 @@
 0.0.0.0 empresasbbavnet.elcorteingles-mailersend-garantibbva.com.ph
 0.0.0.0 empresasbbavnet.fedexsubdelivery-bnpparibas-garantibbva.com.ph
 0.0.0.0 empresasbbavnet.garantibbva-elcorteingles.ph
-0.0.0.0 empresasbbavnet.garantibbva-minishowcase-abnamro.ph
 0.0.0.0 empresasbbavnet.garantibbva-ocbc-goodsforbusine.com.ph
 0.0.0.0 empresasbbavnet.lloydsbank-garantibbva-winnipegfringe.com.ph
 0.0.0.0 en.garantibbva4all.ro
@@ -245,6 +245,7 @@
 0.0.0.0 market.dropbox-garantibbva-incometax.ph
 0.0.0.0 marketplace.dropbox-garantibbva-incometax.ph
 0.0.0.0 marketplaces.dropbox-garantibbva-incometax.ph
+0.0.0.0 mbank-turkcell-bnpparibas.net.ph
 0.0.0.0 mbank-turkcell-bnpparibas.org.ph
 0.0.0.0 mhrs-art.fun
 0.0.0.0 mhrs-frager.sbs
@@ -252,8 +253,10 @@
 0.0.0.0 mhrs-poliklinik-randevu.cfd
 0.0.0.0 mhrs-yenidenoo.sbs
 0.0.0.0 mobilpapara.app
+0.0.0.0 momo-garantibbva.ph
 0.0.0.0 mta-sts.halkbank-intl.com
 0.0.0.0 ns2.dropbox-garantibbva-incometax.ph
+0.0.0.0 occ-turkcell-bnpparibas.org.ph
 0.0.0.0 odeme-btcturk.com
 0.0.0.0 online-garanti-kredi-basvuru.net
 0.0.0.0 onlinecont-garantibbva.com
@@ -382,7 +385,6 @@
 0.0.0.0 portalbbua.bnpparibas-garantibbva-aok.com.ph
 0.0.0.0 portalbbua.bool-myhermes-garantibbva.ph
 0.0.0.0 portalbbua.dropbox-garantibbva-incometax.ph
-0.0.0.0 portalbbua.dropbox-garantibbva.ph
 0.0.0.0 portalbbua.fedexsubdelivery-bnpparibas-garantibbva.com.ph
 0.0.0.0 portalbbua.garantibbva-dropbox.ph
 0.0.0.0 portalbbua.garantibbva-elcorteingles.ph
@@ -431,7 +433,6 @@
 0.0.0.0 sahibinden-verification.cfd
 0.0.0.0 sahibinden-verification.sbs
 0.0.0.0 sahibinden.get-guvenliodeme.online
-0.0.0.0 sahibinden.get-kurumsal.online
 0.0.0.0 sahibinden.guvendealimlarimiz.com
 0.0.0.0 sahibinden.guvenli-odemeler.online
 0.0.0.0 sahibinden.guvenliodeme-get.online
@@ -599,7 +600,6 @@
 0.0.0.0 www.binance-verify-us.com
 0.0.0.0 www.confirm-22e3f8c0-1b2a-4d5e-9f3a-8b6c7d9e0f1a-binance.su-en.sbs
 0.0.0.0 www.denizbank-frankfurt.de
-0.0.0.0 www.dropbox-garantibbva.ph
 0.0.0.0 www.en.garantibbva4all.ro
 0.0.0.0 www.finansbank-iadeonline.ph
 0.0.0.0 www.garantibbva-gtbank.ph
