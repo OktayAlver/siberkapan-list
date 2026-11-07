@@ -5,9 +5,9 @@
 !   Brand-owned domains, MISP warninglists and shared hosting platforms are excluded.
 ! Homepage: https://siberkapan.org/phishing-feed
 ! License: CC BY 4.0
-! Last modified: 2026-11-06T19:20:23Z
+! Last modified: 2026-11-07T05:54:06Z
 ! Expires: 6 hours
-! Number of entries: 709
+! Number of entries: 720
 !
 ||589329-login-binance.com^
 ||accounts.mica-login.fiscal-binance.com^
@@ -34,6 +34,7 @@
 ||bbav.garantibbva-ocbc-goodsforbusine.com.ph^
 ||bbav.lloydsbank-garantibbva-winnipegfringe.com.ph^
 ||bbav.n26-nab-garantibbva.com.ph^
+||bbav.p21-nab-garantibbva.ph^
 ||bbavnet.amazon-garantibbva-santanderamazon.ph^
 ||bbavnet.amazon-garantibbva-santanderukamazon.ph^
 ||bbavnet.bool-myhermes-garantibbva.ph^
@@ -44,6 +45,7 @@
 ||bbva.elcorteingles-mailersend-garantibbva.com.ph^
 ||bbva.fedexsubdelivery-bnpparibas-garantibbva.com.ph^
 ||bbva.garantibbva-dropbox.ph^
+||bbva.garantibbva-minishowcase-abnamro.ph^
 ||bbva.garantibbva-ocbc-goodsforbusine.com.ph^
 ||bbva.lloydsbank-garantibbva-winnipegfringe.com.ph^
 ||bbva.n26-nab-garantibbva.com.ph^
@@ -119,6 +121,7 @@
 ||empresasbbavnet.elcorteingles-mailersend-garantibbva.com.ph^
 ||empresasbbavnet.fedexsubdelivery-bnpparibas-garantibbva.com.ph^
 ||empresasbbavnet.garantibbva-elcorteingles.ph^
+||empresasbbavnet.garantibbva-minishowcase-abnamro.ph^
 ||empresasbbavnet.garantibbva-ocbc-goodsforbusine.com.ph^
 ||empresasbbavnet.lloydsbank-garantibbva-winnipegfringe.com.ph^
 ||en.garantibbva4all.ro^
@@ -162,6 +165,7 @@
 ||garanti-oto-servis.xyz^
 ||garanti-yatirim-destek.cloud^
 ||garanti.aidatim.pro^
+||garantibbva-cibeg-ria.ph^
 ||garantibbva-ctbcbank.com.ph^
 ||garantibbva-noreply.com^
 ||garantibbva4all.ro^
@@ -245,7 +249,6 @@
 ||market.dropbox-garantibbva-incometax.ph^
 ||marketplace.dropbox-garantibbva-incometax.ph^
 ||marketplaces.dropbox-garantibbva-incometax.ph^
-||mbank-turkcell-bnpparibas.net.ph^
 ||mbank-turkcell-bnpparibas.org.ph^
 ||mhrs-art.fun^
 ||mhrs-frager.sbs^
@@ -470,6 +473,7 @@
 ||sekerbankfinance.com^
 ||sponsorlu-cekilis-paribu.online^
 ||sponsorlu-paribu.live^
+||spotify-ziraatbank.ph^
 ||staging.qnb-update-iz.com^
 ||support.dropbox-garantibbva-incometax.ph^
 ||tr-binancelogin.net^
@@ -598,10 +602,15 @@
 ||www.binance-bonus-code.com^
 ||www.binance-secure-wallet.com^
 ||www.binance-verify-us.com^
+||www.boll-garantibbva-jaag.com.ph^
+||www.cepsube-finansbank.ph^
 ||www.confirm-22e3f8c0-1b2a-4d5e-9f3a-8b6c7d9e0f1a-binance.su-en.sbs^
 ||www.denizbank-frankfurt.de^
+||www.dropbox-garantibbva.ph^
 ||www.en.garantibbva4all.ro^
 ||www.finansbank-iadeonline.ph^
+||www.garantibbva-bitget-wallet.ph^
+||www.garantibbva-commerzbank.ph^
 ||www.garantibbva-gtbank.ph^
 ||www.garantibbva-minishowcase-abnamro.ph^
 ||www.garantibbva-noreply.com^
@@ -650,6 +659,7 @@
 ||www.paribu-sponsorlugundacekils.online^
 ||www.paribu-tr.click^
 ||www.paribu-tr.site^
+||www.payrewards-garantibbva-viber.ph^
 ||www.qnb-finansbankasi.ph^
 ||www.s-sahibinden.xyz^
 ||www.sa-trendyol.shop^
@@ -681,6 +691,7 @@
 ||www.ziraatbank-sy.org^
 ||yapikredi.auth-service.info^
 ||yapikredi.obenan.tech^
+||yetkisiz-qnbfinansbank.ph^
 ||yurtici-kargo.alisverisepet-islem-10.sbs^
 ||yurtici-kargo.alisverisepetler-10.sbs^
 ||yurtici-kargo.islemlerin-sepet-10.sbs^
