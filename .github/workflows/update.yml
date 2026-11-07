@@ -46,7 +46,7 @@ jobs:
           git add lists/
           if ! git diff --cached --quiet; then
             git commit -m "chore: auto-update blocklists $(date -u +'%Y-%m-%d %H:%M UTC')"
-            git push
+            git pull --rebase origin main && git push
           else
             echo "No changes."
           fi
