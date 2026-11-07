@@ -1,6 +1,6 @@
 # SiberKapan /24 Network Blocklist
 # https://siberkapan.org
-# Generated: 2026-11-07 18:45 UTC
+# Generated: 2026-11-07 21:45 UTC
 # /24 networks with at least 5 distinct malicious IPs seen on SiberKapan sensors in the last 30 days.
 # Warning: blocking a /24 may also affect benign hosts in the same network.
 # Entries: 112
@@ -17,9 +17,9 @@
 45.198.224.0/24
 195.178.110.0/24
 194.32.120.0/24
-62.60.130.0/24
 72.255.18.0/24
 94.154.43.0/24
+62.60.130.0/24
 103.179.240.0/24
 213.209.159.0/24
 130.12.180.0/24
@@ -91,6 +91,7 @@
 103.186.77.0/24
 124.29.226.0/24
 85.198.19.0/24
+175.107.3.0/24
 82.102.18.0/24
 192.185.4.0/24
 104.28.196.0/24
@@ -103,7 +104,6 @@
 137.59.230.0/24
 185.192.71.0/24
 192.253.248.0/24
-18.97.9.0/24
 216.26.236.0/24
 45.115.26.0/24
 103.74.21.0/24
