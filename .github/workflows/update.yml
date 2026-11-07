@@ -27,6 +27,9 @@ jobs:
           curl -sf "https://siberkapan.org/domains/siberkapan/strict/domains.txt" -o lists/phishing-strict-domains.txt
           curl -sf "https://siberkapan.org/domains/siberkapan/strict/adblock.txt" -o lists/phishing-strict-adblock.txt
           curl -sf "https://siberkapan.org/domains/siberkapan/strict/hosts.txt"   -o lists/phishing-strict-hosts.txt
+          curl -sf "https://siberkapan.org/api/v1/list/cidr24" -o lists/cidr24.txt
+          curl -sf "https://siberkapan.org/api/v1/kev.json" -o lists/kev-bcp07.json
+          curl -sf "https://siberkapan.org/top-passwords.json" -o lists/top-passwords.json
 
       - name: Sanity check strict lists
         run: |
