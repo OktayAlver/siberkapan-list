@@ -5,9 +5,9 @@
 #   Brand-owned domains, MISP warninglists and shared hosting platforms are excluded.
 # Homepage: https://siberkapan.org/phishing-feed
 # License: CC BY 4.0
-# Last modified: 2026-11-07T05:54:05Z
+# Last modified: 2026-11-07T12:55:07Z
 # Expires: 6 hours
-# Number of entries: 720
+# Number of entries: 717
 #
 589329-login-binance.com
 accounts.mica-login.fiscal-binance.com
@@ -224,7 +224,6 @@ login.binance-logins.com
 login.bnpparibas-garantibbva-aok.com.ph
 login.bool-myhermes-garantibbva.ph
 login.dropbox-garantibbva-incometax.ph
-login.dropbox-garantibbva.ph
 login.fedexsubdelivery-bnpparibas-garantibbva.com.ph
 login.garantibbva-dropbox.ph
 login.garantibbva-elcorteingles.ph
@@ -390,7 +389,6 @@ portalbbua.bool-myhermes-garantibbva.ph
 portalbbua.dropbox-garantibbva-incometax.ph
 portalbbua.fedexsubdelivery-bnpparibas-garantibbva.com.ph
 portalbbua.garantibbva-dropbox.ph
-portalbbua.garantibbva-elcorteingles.ph
 portalbbua.garantibbva-minishowcase-abnamro.ph
 portalbbua.garantibbva-ocbc-goodsforbusine.com.ph
 portalbbua.p21-nab-garantibbva.ph
@@ -720,7 +718,6 @@ ziraat-mobil.online
 ziraat-ticari.kosgebkrediler.com
 ziraatbank-kktc.com
 ziraatbank-kosova.com
-ziraatbank-pinduoduo.ph
 ziraatbank-sa.com
 ziraatbank-sy.com
 ziraatbank-sy.org
