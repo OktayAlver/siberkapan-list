@@ -5,11 +5,12 @@
 !   Brand-owned domains, MISP warninglists and shared hosting platforms are excluded.
 ! Homepage: https://siberkapan.org/phishing-feed
 ! License: CC BY 4.0
-! Last modified: 2026-11-08T13:17:39Z
+! Last modified: 2026-11-08T21:59:37Z
 ! Expires: 6 hours
-! Number of entries: 720
+! Number of entries: 714
 !
 ||589329-login-binance.com^
+||accor-garantibbva-suspendeddomai.com.ph^
 ||accounts.mica-login.fiscal-binance.com^
 ||akbank.obenan.tech^
 ||api-trendyol.patai.tech^
@@ -17,7 +18,6 @@
 ||api.staging.onlinesbi-ziraatbank-vipps.ph^
 ||app-bbva.amazon-garantibbva-santanderukamazon.ph^
 ||app-bbva.bool-myhermes-garantibbva.ph^
-||app.api.hepsiburada-dbss-accessbankplc.com.ph^
 ||araba--paribu.live^
 ||araskargo.apps.tecof.site^
 ||araskargo.sol.site^
@@ -27,25 +27,21 @@
 ||bbav.amazon-garantibbva-santanderukamazon.ph^
 ||bbav.bnpparibas-garantibbva-aok.com.ph^
 ||bbav.dropbox-garantibbva-incometax.ph^
-||bbav.dropbox-garantibbva.ph^
 ||bbav.garantibbva-dropbox.ph^
 ||bbav.garantibbva-ocbc-goodsforbusine.com.ph^
 ||bbav.lloydsbank-garantibbva-winnipegfringe.com.ph^
 ||bbav.n26-nab-garantibbva.com.ph^
 ||bbav.p21-nab-garantibbva.ph^
 ||bbavnet.amazon-garantibbva-santanderamazon.ph^
-||bbavnet.amazon-garantibbva-santanderukamazon.ph^
 ||bbavnet.bool-myhermes-garantibbva.ph^
 ||bbva.bnpparibas-garantibbva-aok.com.ph^
 ||bbva.bool-myhermes-garantibbva.ph^
 ||bbva.dropbox-garantibbva-incometax.ph^
 ||bbva.dropbox-garantibbva.ph^
 ||bbva.elcorteingles-mailersend-garantibbva.com.ph^
-||bbva.fedexsubdelivery-bnpparibas-garantibbva.com.ph^
 ||bbva.garantibbva-dropbox.ph^
 ||bbva.garantibbva-minishowcase-abnamro.ph^
 ||bbva.garantibbva-ocbc-goodsforbusine.com.ph^
-||bbva.lloydsbank-garantibbva-winnipegfringe.com.ph^
 ||bbva.n26-nab-garantibbva.com.ph^
 ||bet-garanti.betpas-toplu-giris.icu^
 ||bet-garanti.resmi-giris.cam^
@@ -89,7 +85,6 @@
 ||edevletplatformu.sbs^
 ||emniyet.playsuperseed.online^
 ||empreasas.amazon-garantibbva-santanderukamazon.ph^
-||empreasas.bnpparibas-garantibbva-aok.com.ph^
 ||empreasas.bool-myhermes-garantibbva.ph^
 ||empreasas.dropbox-garantibbva.ph^
 ||empreasas.elcorteingles-mailersend-garantibbva.com.ph^
@@ -107,7 +102,6 @@
 ||empresas.garantibbva-dropbox.ph^
 ||empresas.garantibbva-elcorteingles.ph^
 ||empresas.garantibbva-minishowcase-abnamro.ph^
-||empresas.lloydsbank-garantibbva-winnipegfringe.com.ph^
 ||empresas.p21-nab-garantibbva.ph^
 ||empresasbbavnet.amazon-garantibbva-santanderamazon.ph^
 ||empresasbbavnet.amazon-garantibbva-santanderukamazon.ph^
@@ -118,20 +112,16 @@
 ||empresasbbavnet.elcorteingles-mailersend-garantibbva.com.ph^
 ||empresasbbavnet.garantibbva-elcorteingles.ph^
 ||empresasbbavnet.garantibbva-minishowcase-abnamro.ph^
-||empresasbbavnet.garantibbva-ocbc-goodsforbusine.com.ph^
 ||empresasbbavnet.lloydsbank-garantibbva-winnipegfringe.com.ph^
 ||en.garantibbva4all.ro^
 ||es-bbva.amazon-garantibbva-santanderukamazon.ph^
-||es-bbva.bool-myhermes-garantibbva.ph^
 ||es-bbva.dropbox-garantibbva-incometax.ph^
 ||es-bbva.dropbox-garantibbva.ph^
 ||es-bbva.elcorteingles-mailersend-garantibbva.com.ph^
 ||es-bbva.fedexsubdelivery-bnpparibas-garantibbva.com.ph^
 ||es-bbva.garantibbva-dropbox.ph^
 ||es-bbva.garantibbva-elcorteingles.ph^
-||es-bbva.garantibbva-minishowcase-abnamro.ph^
 ||es-bbva.garantibbva-ocbc-goodsforbusine.com.ph^
-||es-bbva.lloydsbank-garantibbva-winnipegfringe.com.ph^
 ||es.amazon-garantibbva-santanderamazon.ph^
 ||es.bnpparibas-garantibbva-aok.com.ph^
 ||es.bool-myhermes-garantibbva.ph^
@@ -211,12 +201,10 @@
 ||kuveytturk-vision.optade.online^
 ||kuveytturk.optade.online^
 ||limit-ingbank.ph^
-||liverpool-garantibbva-falabella.com.ph^
 ||login-binance.app^
 ||login.abc-binance.com.cn^
 ||login.amazon-garantibbva-santanderamazon.ph^
 ||login.amazon-garantibbva-santanderukamazon.ph^
-||login.binance-logins.com^
 ||login.bnpparibas-garantibbva-aok.com.ph^
 ||login.bool-myhermes-garantibbva.ph^
 ||login.dropbox-garantibbva.ph^
@@ -383,7 +371,6 @@
 ||portalbbua.bool-myhermes-garantibbva.ph^
 ||portalbbua.dropbox-garantibbva-incometax.ph^
 ||portalbbua.fedexsubdelivery-bnpparibas-garantibbva.com.ph^
-||portalbbua.garantibbva-dropbox.ph^
 ||portalbbua.garantibbva-elcorteingles.ph^
 ||portalbbua.garantibbva-minishowcase-abnamro.ph^
 ||portalbbua.garantibbva-ocbc-goodsforbusine.com.ph^
@@ -593,15 +580,20 @@
 ||vodafone.update-hub.com^
 ||webmail.enpara-banka.com^
 ||whatsapp.dropbox-garantibbva-incometax.ph^
+||www.banquemisr-belfius-garantibbva.ph^
 ||www.bet-garanti.setrabetresmi-giris.icu^
 ||www.bet-paribu2025.site^
 ||www.binance-bonus-code.com^
 ||www.binance-secure-wallet.com^
 ||www.binance-verify-us.com^
+||www.bnaa-garantibbva-dvla.com.ph^
 ||www.cepsube-finansbank.ph^
 ||www.confirm-22e3f8c0-1b2a-4d5e-9f3a-8b6c7d9e0f1a-binance.su-en.sbs^
 ||www.denizbank-frankfurt.de^
+||www.doctolib-ziraatbank-instacart.com.ph^
+||www.docusign-garantibbva.ph^
 ||www.dropbox-garantibbva.ph^
+||www.egov-online-ziraatbank.com.ph^
 ||www.en.garantibbva4all.ro^
 ||www.finansbank-iadeonline.ph^
 ||www.garantibbva-accounts-trip.com.ph^
@@ -621,6 +613,7 @@
 ||www.info-secure-binance.com^
 ||www.internetsube-giris-enpara.ph^
 ||www.isbankasi24.com^
+||www.japanpost-garantibbva-banorte.ph^
 ||www.limit-ingbank.ph^
 ||www.lloydsbank-garantibbva-winnipegfringe.com.ph^
 ||www.mhrs-art.fun^
@@ -670,6 +663,7 @@
 ||www.seller-trendyol.shop^
 ||www.server-ingbank.ph^
 ||www.sponsorlu-paribu.live^
+||www.tim-war-garantibbva.com.ph^
 ||www.trendyol.13brave.online^
 ||www.trendyol.bilgi.sbs^
 ||www.trendyol.sitecin.rest^
