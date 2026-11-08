@@ -5,9 +5,9 @@
 #   Brand-owned domains, MISP warninglists and shared hosting platforms are excluded.
 # Homepage: https://siberkapan.org/phishing-feed
 # License: CC BY 4.0
-# Last modified: 2026-11-07T21:45:54Z
+# Last modified: 2026-11-08T05:56:35Z
 # Expires: 6 hours
-# Number of entries: 699
+# Number of entries: 732
 #
 589329-login-binance.com
 accounts.mica-login.fiscal-binance.com
@@ -15,6 +15,7 @@ akbank.obenan.tech
 api-trendyol.patai.tech
 api.mica-login.fiscal-binance.com
 api.staging.onlinesbi-ziraatbank-vipps.ph
+app-bbva.amazon-garantibbva-santanderukamazon.ph
 app-bbva.bool-myhermes-garantibbva.ph
 app.api.hepsiburada-dbss-accessbankplc.com.ph
 araba--paribu.live
@@ -30,6 +31,7 @@ bbav.dropbox-garantibbva.ph
 bbav.elcorteingles-mailersend-garantibbva.com.ph
 bbav.fedexsubdelivery-bnpparibas-garantibbva.com.ph
 bbav.garantibbva-dropbox.ph
+bbav.garantibbva-ocbc-goodsforbusine.com.ph
 bbav.lloydsbank-garantibbva-winnipegfringe.com.ph
 bbav.n26-nab-garantibbva.com.ph
 bbav.p21-nab-garantibbva.ph
@@ -40,9 +42,13 @@ bbva.bnpparibas-garantibbva-aok.com.ph
 bbva.bool-myhermes-garantibbva.ph
 bbva.dropbox-garantibbva-incometax.ph
 bbva.dropbox-garantibbva.ph
+bbva.elcorteingles-mailersend-garantibbva.com.ph
 bbva.fedexsubdelivery-bnpparibas-garantibbva.com.ph
 bbva.garantibbva-dropbox.ph
+bbva.garantibbva-minishowcase-abnamro.ph
 bbva.garantibbva-ocbc-goodsforbusine.com.ph
+bbva.lloydsbank-garantibbva-winnipegfringe.com.ph
+bbva.n26-nab-garantibbva.com.ph
 bet-garanti.betpas-toplu-giris.icu
 bet-garanti.resmi-giris.cam
 bet-garanti.setrabetresmi-giris.icu
@@ -86,13 +92,17 @@ edevlet-system.live
 edevletplatformu.sbs
 emniyet.playsuperseed.online
 empreasas.amazon-garantibbva-santanderukamazon.ph
+empreasas.bnpparibas-garantibbva-aok.com.ph
 empreasas.bool-myhermes-garantibbva.ph
 empreasas.dropbox-garantibbva.ph
+empreasas.elcorteingles-mailersend-garantibbva.com.ph
 empreasas.garantibbva-dropbox.ph
 empreasas.garantibbva-elcorteingles.ph
+empreasas.lloydsbank-garantibbva-winnipegfringe.com.ph
 empreasas.n26-nab-garantibbva.com.ph
 empresas.amazon-garantibbva-santanderamazon.ph
 empresas.amazon-garantibbva-santanderukamazon.ph
+empresas.bnpparibas-garantibbva-aok.com.ph
 empresas.bool-myhermes-garantibbva.ph
 empresas.dropbox-garantibbva.ph
 empresas.elcorteingles-mailersend-garantibbva.com.ph
@@ -119,15 +129,22 @@ en.garantibbva4all.ro
 es-bbva.amazon-garantibbva-santanderamazon.ph
 es-bbva.amazon-garantibbva-santanderukamazon.ph
 es-bbva.bnpparibas-garantibbva-aok.com.ph
+es-bbva.bool-myhermes-garantibbva.ph
+es-bbva.dropbox-garantibbva-incometax.ph
 es-bbva.dropbox-garantibbva.ph
+es-bbva.elcorteingles-mailersend-garantibbva.com.ph
+es-bbva.fedexsubdelivery-bnpparibas-garantibbva.com.ph
+es-bbva.garantibbva-dropbox.ph
 es-bbva.garantibbva-elcorteingles.ph
 es-bbva.garantibbva-minishowcase-abnamro.ph
 es-bbva.garantibbva-ocbc-goodsforbusine.com.ph
 es-bbva.lloydsbank-garantibbva-winnipegfringe.com.ph
 es.amazon-garantibbva-santanderamazon.ph
 es.bnpparibas-garantibbva-aok.com.ph
+es.bool-myhermes-garantibbva.ph
 es.dropbox-garantibbva-incometax.ph
 es.elcorteingles-mailersend-garantibbva.com.ph
+es.garantibbva-dropbox.ph
 es.garantibbva-elcorteingles.ph
 es.garantibbva-minishowcase-abnamro.ph
 es.garantibbva-ocbc-goodsforbusine.com.ph
@@ -153,9 +170,11 @@ garantibbva-cibeg-ria.ph
 garantibbva-ctbcbank.com.ph
 garantibbva-noreply.com
 garantibbva4all.ro
+garantikolaydestek.cloud
 geliridaresibaskanligi.org
 getir.kibrisciceksepetim.com
 giris-garanti.com
+glovoapp-garantibbva.com.ph
 guncel-garanti.cam
 guvenlik-binance.com
 halkbank-fqsvla.rest
@@ -190,6 +209,7 @@ hizli-garanti-kredi.cloud
 iletisim-yapikredi.com
 info-secure-binance.com
 ingbank.doc-share.online
+intolaw-garantibbva-hermes.com.ph
 isbank-miths-password.ph
 isbank.deepin.space
 isbank.obenan.tech
@@ -203,13 +223,17 @@ liverpool-garantibbva-falabella.com.ph
 login-binance.app
 login.abc-binance.com.cn
 login.amazon-garantibbva-santanderamazon.ph
+login.amazon-garantibbva-santanderukamazon.ph
+login.binance-logins.com
 login.bnpparibas-garantibbva-aok.com.ph
 login.bool-myhermes-garantibbva.ph
 login.dropbox-garantibbva-incometax.ph
+login.dropbox-garantibbva.ph
 login.fedexsubdelivery-bnpparibas-garantibbva.com.ph
 login.garantibbva-dropbox.ph
 login.garantibbva-elcorteingles.ph
 login.garantibbva-minishowcase-abnamro.ph
+login.garantibbva-ocbc-goodsforbusine.com.ph
 login.k-binance.com.cn
 login.lloydsbank-garantibbva-winnipegfringe.com.ph
 login.oop-binance.com.cn
@@ -239,6 +263,7 @@ mhrs-yenidenoo.sbs
 mobilpapara.app
 momo-garantibbva.ph
 mta-sts.halkbank-intl.com
+ns2.dropbox-garantibbva-incometax.ph
 occ-turkcell-bnpparibas.org.ph
 odeme-btcturk.com
 online-garanti-kredi-basvuru.net
@@ -340,6 +365,7 @@ paribusponsorlugundacekilisim.online
 paribusponsorlugundacekils.online
 paribusponsorluhediyekampanyalari.online
 paribusponsporlucekilisi.live
+pay.dropbox-garantibbva-incometax.ph
 pazarama-bireysel-siparisim.com
 pazarama-hemen-siparis.com
 pazarama-online-siparis.com
@@ -369,6 +395,8 @@ portalbbua.bnpparibas-garantibbva-aok.com.ph
 portalbbua.bool-myhermes-garantibbva.ph
 portalbbua.dropbox-garantibbva-incometax.ph
 portalbbua.fedexsubdelivery-bnpparibas-garantibbva.com.ph
+portalbbua.garantibbva-dropbox.ph
+portalbbua.garantibbva-elcorteingles.ph
 portalbbua.garantibbva-minishowcase-abnamro.ph
 portalbbua.garantibbva-ocbc-goodsforbusine.com.ph
 portalbbua.p21-nab-garantibbva.ph
@@ -592,6 +620,7 @@ www.finansbank-iadeonline.ph
 www.garantibbva-accounts-trip.com.ph
 www.garantibbva-bitget-wallet.ph
 www.garantibbva-commerzbank.ph
+www.garantibbva-gtbank.ph
 www.garantibbva-minishowcase-abnamro.ph
 www.garantibbva-noreply.com
 www.halifax-medicareonline-ziraatbank.com.ph
@@ -599,10 +628,12 @@ www.halkbank-girisimci.kosgebkrediler.com
 www.halkbank-intl.com
 www.halkbank-ticari.kosgebkrediler.com
 www.hepsiburada.cyon.site
+www.iadeodemesi-denizbank.com.ph
 www.iletisim-yapikredi.com
 www.info-secure-binance.com
 www.internetsube-giris-enpara.ph
 www.isbankasi24.com
+www.limit-ingbank.ph
 www.lloydsbank-garantibbva-winnipegfringe.com.ph
 www.mhrs-art.fun
 www.mobilsube-akbank.xyz
@@ -661,6 +692,7 @@ www.turktelekom-tenis.shop
 www.vakifbank-ticari.kosgebkrediler.com
 www.vodafone-master.limit-cash.com
 www.ware-trendyol.shop
+www.wechat-googleplauey-garantibbva.ph
 www.wms-trendyol.shop
 www.ziraat-ticari.kosgebkrediler.com
 www.ziraatbank-kktc.com
@@ -700,6 +732,7 @@ ziraat-mobil.online
 ziraat-ticari.kosgebkrediler.com
 ziraatbank-kktc.com
 ziraatbank-kosova.com
+ziraatbank-pinduoduo.ph
 ziraatbank-sa.com
 ziraatbank-sy.com
 ziraatbank-sy.org
