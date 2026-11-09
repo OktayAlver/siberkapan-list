@@ -5,13 +5,14 @@
 !   Brand-owned domains, MISP warninglists and shared hosting platforms are excluded.
 ! Homepage: https://siberkapan.org/phishing-feed
 ! License: CC BY 4.0
-! Last modified: 2026-11-09T06:18:33Z
+! Last modified: 2026-11-09T22:17:07Z
 ! Expires: 6 hours
-! Number of entries: 746
+! Number of entries: 728
 !
 ||589329-login-binance.com^
 ||accor-garantibbva-suspendeddomai.com.ph^
 ||accounts.mica-login.fiscal-binance.com^
+||akbank-tr.live^
 ||akbank.obenan.tech^
 ||api-trendyol.patai.tech^
 ||api.mica-login.fiscal-binance.com^
@@ -40,12 +41,10 @@
 ||bbavnet.amazon-garantibbva-santanderukamazon.ph^
 ||bbavnet.bool-myhermes-garantibbva.ph^
 ||bbva.bnpparibas-garantibbva-aok.com.ph^
-||bbva.bool-myhermes-garantibbva.ph^
 ||bbva.dropbox-garantibbva-incometax.ph^
 ||bbva.dropbox-garantibbva.ph^
 ||bbva.elcorteingles-mailersend-garantibbva.com.ph^
 ||bbva.garantibbva-dropbox.ph^
-||bbva.garantibbva-minishowcase-abnamro.ph^
 ||bbva.garantibbva-ocbc-goodsforbusine.com.ph^
 ||bbva.lloydsbank-garantibbva-winnipegfringe.com.ph^
 ||bbva.n26-nab-garantibbva.com.ph^
@@ -84,7 +83,6 @@
 ||denizbank-frankfurt.de^
 ||dev.brm-denizbank-api.linktera.xyz^
 ||dev.brm-denizbank.linktera.xyz^
-||dev.staging.hepsiburada-dbss-accessbankplc.com.ph^
 ||docomo-alrajhibank-garantibbva.com.ph^
 ||edevlet-ai.com^
 ||edevlet-hesap.com^
@@ -97,19 +95,13 @@
 ||empreasas.elcorteingles-mailersend-garantibbva.com.ph^
 ||empreasas.garantibbva-dropbox.ph^
 ||empreasas.garantibbva-elcorteingles.ph^
-||empreasas.lloydsbank-garantibbva-winnipegfringe.com.ph^
-||empreasas.n26-nab-garantibbva.com.ph^
 ||empresas.amazon-garantibbva-santanderamazon.ph^
 ||empresas.amazon-garantibbva-santanderukamazon.ph^
 ||empresas.bnpparibas-garantibbva-aok.com.ph^
-||empresas.bool-myhermes-garantibbva.ph^
 ||empresas.dropbox-garantibbva.ph^
-||empresas.elcorteingles-mailersend-garantibbva.com.ph^
-||empresas.fedexsubdelivery-bnpparibas-garantibbva.com.ph^
 ||empresas.garantibbva-dropbox.ph^
 ||empresas.garantibbva-elcorteingles.ph^
 ||empresas.garantibbva-minishowcase-abnamro.ph^
-||empresas.garantibbva-ocbc-goodsforbusine.com.ph^
 ||empresas.lloydsbank-garantibbva-winnipegfringe.com.ph^
 ||empresas.p21-nab-garantibbva.ph^
 ||empresasbbavnet.amazon-garantibbva-santanderamazon.ph^
@@ -118,19 +110,15 @@
 ||empresasbbavnet.bool-myhermes-garantibbva.ph^
 ||empresasbbavnet.dropbox-garantibbva-incometax.ph^
 ||empresasbbavnet.dropbox-garantibbva.ph^
-||empresasbbavnet.elcorteingles-mailersend-garantibbva.com.ph^
-||empresasbbavnet.fedexsubdelivery-bnpparibas-garantibbva.com.ph^
 ||empresasbbavnet.garantibbva-elcorteingles.ph^
 ||empresasbbavnet.garantibbva-minishowcase-abnamro.ph^
 ||empresasbbavnet.garantibbva-ocbc-goodsforbusine.com.ph^
 ||empresasbbavnet.lloydsbank-garantibbva-winnipegfringe.com.ph^
 ||en.garantibbva4all.ro^
-||es-bbva.amazon-garantibbva-santanderamazon.ph^
 ||es-bbva.amazon-garantibbva-santanderukamazon.ph^
 ||es-bbva.bnpparibas-garantibbva-aok.com.ph^
 ||es-bbva.dropbox-garantibbva-incometax.ph^
 ||es-bbva.dropbox-garantibbva.ph^
-||es-bbva.elcorteingles-mailersend-garantibbva.com.ph^
 ||es-bbva.fedexsubdelivery-bnpparibas-garantibbva.com.ph^
 ||es-bbva.garantibbva-dropbox.ph^
 ||es-bbva.garantibbva-elcorteingles.ph^
@@ -140,8 +128,6 @@
 ||es.amazon-garantibbva-santanderamazon.ph^
 ||es.bnpparibas-garantibbva-aok.com.ph^
 ||es.bool-myhermes-garantibbva.ph^
-||es.dropbox-garantibbva-incometax.ph^
-||es.elcorteingles-mailersend-garantibbva.com.ph^
 ||es.garantibbva-dropbox.ph^
 ||es.garantibbva-elcorteingles.ph^
 ||es.garantibbva-minishowcase-abnamro.ph^
@@ -165,14 +151,13 @@
 ||garanti.aidatim.pro^
 ||garantibbva-audienceuphols-marksandspence.ph^
 ||garantibbva-cibeg-ria.ph^
-||garantibbva-ctbcbank.com.ph^
 ||garantibbva-noreply.com^
+||garantibbva-royalmail.ph^
 ||garantibbva4all.ro^
 ||garantikolaydestek.cloud^
 ||geliridaresibaskanligi.org^
 ||getir.kibrisciceksepetim.com^
 ||giris-garanti.com^
-||glovoapp-garantibbva.com.ph^
 ||guncel-garanti.cam^
 ||guvenlik-binance.com^
 ||halkbank-fqsvla.rest^
@@ -193,6 +178,7 @@
 ||hepsiburada.islemlerinmobil-15.sbs^
 ||hepsiburada.islemlerinmobil-17.sbs^
 ||hepsiburada.islemsepetler-15.sbs^
+||hepsiburada.islemsepetler-20.sbs^
 ||hepsiburada.jetilanservisim.online^
 ||hepsiburada.servisepetin-10.sbs^
 ||hepsiburada.servisepetin-15.sbs^
@@ -227,13 +213,11 @@
 ||login.bool-myhermes-garantibbva.ph^
 ||login.dropbox-garantibbva-incometax.ph^
 ||login.dropbox-garantibbva.ph^
-||login.fedexsubdelivery-bnpparibas-garantibbva.com.ph^
 ||login.garantibbva-dropbox.ph^
 ||login.garantibbva-elcorteingles.ph^
 ||login.garantibbva-minishowcase-abnamro.ph^
 ||login.garantibbva-ocbc-goodsforbusine.com.ph^
 ||login.k-binance.com.cn^
-||login.lloydsbank-garantibbva-winnipegfringe.com.ph^
 ||login.oop-binance.com.cn^
 ||login.p21-nab-garantibbva.ph^
 ||login.ppq-binance.com.cn^
@@ -243,12 +227,11 @@
 ||login.vodafone-topangebote.com^
 ||login.vodafone-topangebote.de^
 ||loginbinance-tr.online^
-||mail.dropbox-garantibbva-incometax.ph^
+||loginuser-ingbank.com.ph^
 ||mail.enpara-banka.com^
 ||mail.halkbank-intl.com^
 ||mail.hepsiburada.cyon.site^
 ||mail.ziraatbank-bh.com^
-||manage.dropbox-garantibbva-incometax.ph^
 ||market.dropbox-garantibbva-incometax.ph^
 ||marketplace.dropbox-garantibbva-incometax.ph^
 ||marketplaces.dropbox-garantibbva-incometax.ph^
@@ -313,7 +296,6 @@
 ||paribu-sponsorlucekilis.online^
 ||paribu-sponsorlucekilisleri.online^
 ||paribu-sponsorlucekils.online^
-||paribu-sponsorlugunda-cekilis.live^
 ||paribu-sponsorlugunda-cekilis.online^
 ||paribu-sponsorlugunda-cekilisi.online^
 ||paribu-sponsorlugunda-cekils.online^
@@ -389,7 +371,6 @@
 ||pazaramakapinda.com^
 ||portalbbua.amazon-garantibbva-santanderamazon.ph^
 ||portalbbua.amazon-garantibbva-santanderukamazon.ph^
-||portalbbua.bnpparibas-garantibbva-aok.com.ph^
 ||portalbbua.bool-myhermes-garantibbva.ph^
 ||portalbbua.dropbox-garantibbva-incometax.ph^
 ||portalbbua.fedexsubdelivery-bnpparibas-garantibbva.com.ph^
@@ -418,6 +399,7 @@
 ||sahibinden-get.islemlerinmobil-15.sbs^
 ||sahibinden-get.islemlerinmobil-17.sbs^
 ||sahibinden-get.islemsepetler-15.sbs^
+||sahibinden-get.islemsepetler-20.sbs^
 ||sahibinden-get.mobilservisler-8.sbs^
 ||sahibinden-get.servisepetin-10.sbs^
 ||sahibinden-get.servisepetin-15.sbs^
@@ -433,7 +415,6 @@
 ||sahibinden-ilan.ileservishzmetleri.sbs^
 ||sahibinden-mobil.xyz^
 ||sahibinden-online-sozlesme.sartlarimiz.sbs^
-||sahibinden-sepet.guvendeticaretnet.store^
 ||sahibinden-sepet.onlinesepetimde.shop^
 ||sahibinden-sepet.sepetimonaycom.surf^
 ||sahibinden-sepet.sepetteonline.click^
@@ -483,7 +464,6 @@
 ||sponsorlu-paribu.live^
 ||spotify-ziraatbank.ph^
 ||staging.qnb-update-iz.com^
-||support.dropbox-garantibbva-incometax.ph^
 ||tr-binancelogin.net^
 ||tracker-trendyol.live^
 ||trendyol.13brave.online^
@@ -541,6 +521,7 @@
 ||turkcell.islemlerinmobil-14.sbs^
 ||turkcell.islemlerinmobil-17.sbs^
 ||turkcell.islemsepetler-15.sbs^
+||turkcell.islemsepetler-20.sbs^
 ||turkcell.servisepetin-10.sbs^
 ||turkcell.servisepetin-15.sbs^
 ||turkcell.servisepetin-20.sbs^
@@ -565,6 +546,7 @@
 ||turktelekom.islemlerinmobil-15.sbs^
 ||turktelekom.islemlerinmobil-17.sbs^
 ||turktelekom.islemsepetler-15.sbs^
+||turktelekom.islemsepetler-20.sbs^
 ||turktelekom.jetilanservisim.online^
 ||turktelekom.montajdestek.com^
 ||turktelekom.servisepetin-10.sbs^
@@ -600,6 +582,7 @@
 ||vodafone.islemlerinmobil-15.sbs^
 ||vodafone.islemlerinmobil-17.sbs^
 ||vodafone.islemsepetler-15.sbs^
+||vodafone.islemsepetler-20.sbs^
 ||vodafone.servisepetin-10.sbs^
 ||vodafone.servisepetin-20.sbs^
 ||vodafone.servisinguvenli-15.sbs^
@@ -615,7 +598,6 @@
 ||www.binance-bonus-code.com^
 ||www.binance-secure-wallet.com^
 ||www.binance-verify-us.com^
-||www.bnaa-garantibbva-dvla.com.ph^
 ||www.cepsube-finansbank.ph^
 ||www.confirm-22e3f8c0-1b2a-4d5e-9f3a-8b6c7d9e0f1a-binance.su-en.sbs^
 ||www.denizbank-frankfurt.de^
@@ -625,15 +607,14 @@
 ||www.egov-online-ziraatbank.com.ph^
 ||www.en.garantibbva4all.ro^
 ||www.finansbank-iadeonline.ph^
+||www.fnbb-agoda-ziraatbank.com.ph^
 ||www.garanti-iadelerinize-firsatlar.ph^
-||www.garanti-kampanya-katil.com.ph^
-||www.garantibbva-accounts-trip.com.ph^
 ||www.garantibbva-bitget-wallet.ph^
 ||www.garantibbva-commerzbank.ph^
+||www.garantibbva-googleplauey-papara.ph^
 ||www.garantibbva-gtbank.ph^
 ||www.garantibbva-minishowcase-abnamro.ph^
 ||www.garantibbva-noreply.com^
-||www.garantigyo-hesap.ph^
 ||www.halifax-medicareonline-ziraatbank.com.ph^
 ||www.halkbank-girisimci.kosgebkrediler.com^
 ||www.halkbank-intl.com^
@@ -647,6 +628,7 @@
 ||www.japanpost-garantibbva-banorte.ph^
 ||www.limit-ingbank.ph^
 ||www.lloydsbank-garantibbva-winnipegfringe.com.ph^
+||www.loginuser-ingbank.com.ph^
 ||www.mhrs-art.fun^
 ||www.mobilsube-akbank.xyz^
 ||www.odeme-btcturk.com^
