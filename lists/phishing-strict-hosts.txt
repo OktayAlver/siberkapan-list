@@ -5,14 +5,14 @@
 #   Brand-owned domains, MISP warninglists and shared hosting platforms are excluded.
 # Homepage: https://siberkapan.org/phishing-feed
 # License: CC BY 4.0
-# Last modified: 2026-11-11T14:13:51Z
+# Last modified: 2026-11-12T00:38:13Z
 # Expires: 6 hours
-# Number of entries: 588
+# Number of entries: 595
 #
 0.0.0.0 589329-login-binance.com
 0.0.0.0 accounts.mica-login.fiscal-binance.com
-0.0.0.0 akbank-tr.live
 0.0.0.0 akbank-tr.pro
+0.0.0.0 akbank-trkiye.top
 0.0.0.0 akbank.obenan.tech
 0.0.0.0 api-trendyol.patai.tech
 0.0.0.0 api.mica-login.fiscal-binance.com
@@ -305,8 +305,10 @@
 0.0.0.0 sahibinden-ilan.ileservishzmetleri.sbs
 0.0.0.0 sahibinden-mobil.xyz
 0.0.0.0 sahibinden-online-sozlesme.sartlarimiz.sbs
+0.0.0.0 sahibinden-param-guvende-get-lin.limandeniz.site
 0.0.0.0 sahibinden-paramguvende-al-get.limandeniz.site
 0.0.0.0 sahibinden-paramguvende.limandeniz.site
+0.0.0.0 sahibinden-sepet.guvendesepetimnet.shop
 0.0.0.0 sahibinden-sepet.onlinesepetimde.shop
 0.0.0.0 sahibinden-sepet.sepetimonaycom.surf
 0.0.0.0 sahibinden-sepet.sepetteonline.click
@@ -356,7 +358,9 @@
 0.0.0.0 sekerbankfinance.com
 0.0.0.0 sponsorlu-cekilis-paribu.online
 0.0.0.0 sponsorlu-paribu.live
+0.0.0.0 staging.qnb-update-dv.com
 0.0.0.0 staging.qnb-update-iz.com
+0.0.0.0 test.qnb-new-update.com
 0.0.0.0 tr-binancelogin.net
 0.0.0.0 trendyol.13brave.online
 0.0.0.0 trendyol.alisverisepet-islem-10.sbs
@@ -404,6 +408,7 @@
 0.0.0.0 turkcell-tr.cfd
 0.0.0.0 turkcell.alisverisepet-islem-10.sbs
 0.0.0.0 turkcell.alisverisepetler-10.sbs
+0.0.0.0 turkcell.imperum.online
 0.0.0.0 turkcell.islemlerin-sepet-10.sbs
 0.0.0.0 turkcell.islemlerin-sepet-15.sbs
 0.0.0.0 turkcell.islemlerin-sepet-25.sbs
@@ -454,6 +459,7 @@
 0.0.0.0 vakifbank-ticari.kosgebkrediler.com
 0.0.0.0 verify-binance.com
 0.0.0.0 verify-binance.us
+0.0.0.0 verify.binance-reverify.com
 0.0.0.0 verify.vodafone-topangebote.com
 0.0.0.0 verify.vodafone-topangebote.net
 0.0.0.0 vodafone-facturen.login-service.nl
@@ -560,6 +566,7 @@
 0.0.0.0 www.ziraatbank-sy.com
 0.0.0.0 www.ziraatbank-sy.org
 0.0.0.0 yapikredi.obenan.tech
+0.0.0.0 yurtici-app.btstaging.online
 0.0.0.0 yurtici-kargo.alisverisepet-islem-10.sbs
 0.0.0.0 yurtici-kargo.alisverisepetler-10.sbs
 0.0.0.0 yurtici-kargo.islemlerin-sepet-10.sbs

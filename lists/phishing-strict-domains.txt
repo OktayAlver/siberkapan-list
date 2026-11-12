@@ -5,14 +5,14 @@
 #   Brand-owned domains, MISP warninglists and shared hosting platforms are excluded.
 # Homepage: https://siberkapan.org/phishing-feed
 # License: CC BY 4.0
-# Last modified: 2026-11-11T14:13:50Z
+# Last modified: 2026-11-12T00:38:09Z
 # Expires: 6 hours
-# Number of entries: 588
+# Number of entries: 595
 #
 589329-login-binance.com
 accounts.mica-login.fiscal-binance.com
-akbank-tr.live
 akbank-tr.pro
+akbank-trkiye.top
 akbank.obenan.tech
 api-trendyol.patai.tech
 api.mica-login.fiscal-binance.com
@@ -305,8 +305,10 @@ sahibinden-get.x-mobil-islem-guvenceli.com
 sahibinden-ilan.ileservishzmetleri.sbs
 sahibinden-mobil.xyz
 sahibinden-online-sozlesme.sartlarimiz.sbs
+sahibinden-param-guvende-get-lin.limandeniz.site
 sahibinden-paramguvende-al-get.limandeniz.site
 sahibinden-paramguvende.limandeniz.site
+sahibinden-sepet.guvendesepetimnet.shop
 sahibinden-sepet.onlinesepetimde.shop
 sahibinden-sepet.sepetimonaycom.surf
 sahibinden-sepet.sepetteonline.click
@@ -356,7 +358,9 @@ secure.vodafone-topangebote.net
 sekerbankfinance.com
 sponsorlu-cekilis-paribu.online
 sponsorlu-paribu.live
+staging.qnb-update-dv.com
 staging.qnb-update-iz.com
+test.qnb-new-update.com
 tr-binancelogin.net
 trendyol.13brave.online
 trendyol.alisverisepet-islem-10.sbs
@@ -404,6 +408,7 @@ turkcell-face-recognition.madde22.xyz
 turkcell-tr.cfd
 turkcell.alisverisepet-islem-10.sbs
 turkcell.alisverisepetler-10.sbs
+turkcell.imperum.online
 turkcell.islemlerin-sepet-10.sbs
 turkcell.islemlerin-sepet-15.sbs
 turkcell.islemlerin-sepet-25.sbs
@@ -454,6 +459,7 @@ vakifbank-login.com
 vakifbank-ticari.kosgebkrediler.com
 verify-binance.com
 verify-binance.us
+verify.binance-reverify.com
 verify.vodafone-topangebote.com
 verify.vodafone-topangebote.net
 vodafone-facturen.login-service.nl
@@ -560,6 +566,7 @@ www.ziraatbank-sa.com
 www.ziraatbank-sy.com
 www.ziraatbank-sy.org
 yapikredi.obenan.tech
+yurtici-app.btstaging.online
 yurtici-kargo.alisverisepet-islem-10.sbs
 yurtici-kargo.alisverisepetler-10.sbs
 yurtici-kargo.islemlerin-sepet-10.sbs
