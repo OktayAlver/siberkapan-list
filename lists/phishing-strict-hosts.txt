@@ -5,13 +5,12 @@
 #   Brand-owned domains, MISP warninglists and shared hosting platforms are excluded.
 # Homepage: https://siberkapan.org/phishing-feed
 # License: CC BY 4.0
-# Last modified: 2026-11-12T00:38:13Z
+# Last modified: 2026-11-12T15:06:48Z
 # Expires: 6 hours
-# Number of entries: 595
+# Number of entries: 598
 #
 0.0.0.0 589329-login-binance.com
 0.0.0.0 accounts.mica-login.fiscal-binance.com
-0.0.0.0 akbank-tr.pro
 0.0.0.0 akbank-trkiye.top
 0.0.0.0 akbank.obenan.tech
 0.0.0.0 api-trendyol.patai.tech
@@ -163,6 +162,7 @@
 0.0.0.0 paribu-araba-cekilis.online
 0.0.0.0 paribu-araba-cekilisi.live
 0.0.0.0 paribu-araba-cekilisi.online
+0.0.0.0 paribu-araba.live
 0.0.0.0 paribu-araba.online
 0.0.0.0 paribu-arababurada.info
 0.0.0.0 paribu-cark.com
@@ -342,6 +342,7 @@
 0.0.0.0 sahibindenguvenli.click
 0.0.0.0 sahibindenkargo.click
 0.0.0.0 sahibindenkaskodestek.com
+0.0.0.0 sahibindensatici.live
 0.0.0.0 sahibindensatis.live
 0.0.0.0 sahibindensatis.xyz
 0.0.0.0 sahibindensigorta.click
@@ -361,7 +362,9 @@
 0.0.0.0 staging.qnb-update-dv.com
 0.0.0.0 staging.qnb-update-iz.com
 0.0.0.0 test.qnb-new-update.com
+0.0.0.0 test.qnb-update-cards.com
 0.0.0.0 tr-binancelogin.net
+0.0.0.0 tracker-trendyol.live
 0.0.0.0 trendyol.13brave.online
 0.0.0.0 trendyol.alisverisepet-islem-10.sbs
 0.0.0.0 trendyol.alisverisepetler-10.sbs

@@ -5,13 +5,12 @@
 !   Brand-owned domains, MISP warninglists and shared hosting platforms are excluded.
 ! Homepage: https://siberkapan.org/phishing-feed
 ! License: CC BY 4.0
-! Last modified: 2026-11-12T00:38:11Z
+! Last modified: 2026-11-12T15:06:47Z
 ! Expires: 6 hours
-! Number of entries: 595
+! Number of entries: 598
 !
 ||589329-login-binance.com^
 ||accounts.mica-login.fiscal-binance.com^
-||akbank-tr.pro^
 ||akbank-trkiye.top^
 ||akbank.obenan.tech^
 ||api-trendyol.patai.tech^
@@ -163,6 +162,7 @@
 ||paribu-araba-cekilis.online^
 ||paribu-araba-cekilisi.live^
 ||paribu-araba-cekilisi.online^
+||paribu-araba.live^
 ||paribu-araba.online^
 ||paribu-arababurada.info^
 ||paribu-cark.com^
@@ -342,6 +342,7 @@
 ||sahibindenguvenli.click^
 ||sahibindenkargo.click^
 ||sahibindenkaskodestek.com^
+||sahibindensatici.live^
 ||sahibindensatis.live^
 ||sahibindensatis.xyz^
 ||sahibindensigorta.click^
@@ -361,7 +362,9 @@
 ||staging.qnb-update-dv.com^
 ||staging.qnb-update-iz.com^
 ||test.qnb-new-update.com^
+||test.qnb-update-cards.com^
 ||tr-binancelogin.net^
+||tracker-trendyol.live^
 ||trendyol.13brave.online^
 ||trendyol.alisverisepet-islem-10.sbs^
 ||trendyol.alisverisepetler-10.sbs^
