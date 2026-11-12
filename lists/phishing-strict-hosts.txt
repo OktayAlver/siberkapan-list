@@ -5,9 +5,9 @@
 #   Brand-owned domains, MISP warninglists and shared hosting platforms are excluded.
 # Homepage: https://siberkapan.org/phishing-feed
 # License: CC BY 4.0
-# Last modified: 2026-11-12T15:06:48Z
+# Last modified: 2026-11-12T23:34:36Z
 # Expires: 6 hours
-# Number of entries: 598
+# Number of entries: 600
 #
 0.0.0.0 589329-login-binance.com
 0.0.0.0 accounts.mica-login.fiscal-binance.com
@@ -290,6 +290,7 @@
 0.0.0.0 sahibinden-get.islemlerinmobil-17.sbs
 0.0.0.0 sahibinden-get.islemsepetler-15.sbs
 0.0.0.0 sahibinden-get.islemsepetler-20.sbs
+0.0.0.0 sahibinden-get.islemsepetler-25.sbs
 0.0.0.0 sahibinden-get.mobilservisler-8.sbs
 0.0.0.0 sahibinden-get.servisepetin-10.sbs
 0.0.0.0 sahibinden-get.servisepetin-15.sbs
@@ -389,6 +390,7 @@
 0.0.0.0 trendyol.islemlerinmobil-17.sbs
 0.0.0.0 trendyol.islemsepetler-15.sbs
 0.0.0.0 trendyol.islemsepetler-20.sbs
+0.0.0.0 trendyol.islemsepetler-25.sbs
 0.0.0.0 trendyol.ladyistanbul.shop
 0.0.0.0 trendyol.onlinealisveris.live
 0.0.0.0 trendyol.patai.tech
@@ -423,6 +425,7 @@
 0.0.0.0 turkcell.islemlerinmobil-17.sbs
 0.0.0.0 turkcell.islemsepetler-15.sbs
 0.0.0.0 turkcell.islemsepetler-20.sbs
+0.0.0.0 turkcell.islemsepetler-25.sbs
 0.0.0.0 turkcell.servisepetin-10.sbs
 0.0.0.0 turkcell.servisepetin-15.sbs
 0.0.0.0 turkcell.servisepetin-20.sbs
@@ -432,7 +435,6 @@
 0.0.0.0 turkcell.servisinguvenli-80.sbs
 0.0.0.0 turkcellpasajmagazm.store
 0.0.0.0 turktelekom-basvuru.vip
-0.0.0.0 turktelekom-iptal-7041691440.com
 0.0.0.0 turktelekom-tenis.shop
 0.0.0.0 turktelekom.alisverisepet-islem-10.sbs
 0.0.0.0 turktelekom.guvenlialimhizmetleriniz.online
@@ -448,6 +450,7 @@
 0.0.0.0 turktelekom.islemlerinmobil-17.sbs
 0.0.0.0 turktelekom.islemsepetler-15.sbs
 0.0.0.0 turktelekom.islemsepetler-20.sbs
+0.0.0.0 turktelekom.islemsepetler-25.sbs
 0.0.0.0 turktelekom.jetilanservisim.online
 0.0.0.0 turktelekom.montajdestek.com
 0.0.0.0 turktelekom.servisepetin-10.sbs
@@ -483,6 +486,7 @@
 0.0.0.0 vodafone.islemlerinmobil-17.sbs
 0.0.0.0 vodafone.islemsepetler-15.sbs
 0.0.0.0 vodafone.islemsepetler-20.sbs
+0.0.0.0 vodafone.islemsepetler-25.sbs
 0.0.0.0 vodafone.servisepetin-10.sbs
 0.0.0.0 vodafone.servisepetin-20.sbs
 0.0.0.0 vodafone.servisinguvenli-15.sbs
@@ -541,8 +545,6 @@
 0.0.0.0 www.paribu-sponsorlugundacekilisi.online
 0.0.0.0 www.paribu-sponsorlugundacekilisleri.online
 0.0.0.0 www.paribu-sponsorlugundacekils.online
-0.0.0.0 www.paribu-tr.click
-0.0.0.0 www.paribu-tr.site
 0.0.0.0 www.s-sahibinden.xyz
 0.0.0.0 www.sa-trendyol.shop
 0.0.0.0 www.sahibinden-get.mobilservisler-8.sbs
@@ -556,7 +558,6 @@
 0.0.0.0 www.trendyol.sitecin.rest
 0.0.0.0 www.trendyol.wefood.info
 0.0.0.0 www.turktelekom-basvuru.vip
-0.0.0.0 www.turktelekom-iptal-7041691440.com
 0.0.0.0 www.turktelekom-tenis.shop
 0.0.0.0 www.vakifbank-ticari.kosgebkrediler.com
 0.0.0.0 www.vodafone-master.limit-cash.com
@@ -582,6 +583,7 @@
 0.0.0.0 yurtici-kargo.islemlerinmobil-15.sbs
 0.0.0.0 yurtici-kargo.islemlerinmobil-17.sbs
 0.0.0.0 yurtici-kargo.islemsepetler-15.sbs
+0.0.0.0 yurtici-kargo.islemsepetler-25.sbs
 0.0.0.0 yurtici-kargo.servisepetin-10.sbs
 0.0.0.0 yurtici-kargo.servisepetin-15.sbs
 0.0.0.0 yurtici-kargo.servisepetin-20.sbs
