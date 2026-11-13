@@ -5,9 +5,9 @@
 #   Brand-owned domains, MISP warninglists and shared hosting platforms are excluded.
 # Homepage: https://siberkapan.org/phishing-feed
 # License: CC BY 4.0
-# Last modified: 2026-11-13T06:37:06Z
+# Last modified: 2026-11-13T19:33:52Z
 # Expires: 6 hours
-# Number of entries: 600
+# Number of entries: 605
 #
 0.0.0.0 589329-login-binance.com
 0.0.0.0 accounts.mica-login.fiscal-binance.com
@@ -338,6 +338,7 @@
 0.0.0.0 sahibinden.secure-ilan.com
 0.0.0.0 sahibinden.sepetimdealisveris.online
 0.0.0.0 sahibinden.sepetimdeonline.shop
+0.0.0.0 sahibinden.servishizmetleri.sbs
 0.0.0.0 sahibinden.sozlesme-islemleri-online.com
 0.0.0.0 sahibinden.vatandas-yonlendirme.online
 0.0.0.0 sahibindenguvenli.click
@@ -397,6 +398,7 @@
 0.0.0.0 trendyol.servisepetin-10.sbs
 0.0.0.0 trendyol.servisepetin-15.sbs
 0.0.0.0 trendyol.servisepetin-20.sbs
+0.0.0.0 trendyol.servishizmetleri.sbs
 0.0.0.0 trendyol.servisinguvenli-15.sbs
 0.0.0.0 trendyol.servisinguvenli-67.sbs
 0.0.0.0 trendyol.servisinguvenli-75.sbs
@@ -463,6 +465,7 @@
 0.0.0.0 update.vodafone-topangebote.de
 0.0.0.0 vakifbank-login.com
 0.0.0.0 vakifbank-ticari.kosgebkrediler.com
+0.0.0.0 vakifbank-tr.net
 0.0.0.0 verify-binance.com
 0.0.0.0 verify-binance.us
 0.0.0.0 verify.binance-reverify.com
@@ -510,6 +513,7 @@
 0.0.0.0 www.hepsiburada.cyon.site
 0.0.0.0 www.iletisim-yapikredi.com
 0.0.0.0 www.info-secure-binance.com
+0.0.0.0 www.internetbireysel-sube-acikdenizv2denizbank.com
 0.0.0.0 www.isbankasi24.com
 0.0.0.0 www.mhrs-art.fun
 0.0.0.0 www.mobilsube-akbank.xyz
@@ -605,6 +609,7 @@
 0.0.0.0 ziraatbank-sy.com
 0.0.0.0 ziraatbank-sy.org
 0.0.0.0 ziraatbankasi.digital
+0.0.0.0 ziraatbankasiai-de.live
 0.0.0.0 ziraatbankasiprojesi.click
 0.0.0.0 ziraatbankkasi.sbs
 0.0.0.0 ziraatkatilim.ai

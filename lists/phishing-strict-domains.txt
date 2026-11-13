@@ -5,9 +5,9 @@
 #   Brand-owned domains, MISP warninglists and shared hosting platforms are excluded.
 # Homepage: https://siberkapan.org/phishing-feed
 # License: CC BY 4.0
-# Last modified: 2026-11-13T06:37:04Z
+# Last modified: 2026-11-13T19:33:52Z
 # Expires: 6 hours
-# Number of entries: 600
+# Number of entries: 605
 #
 589329-login-binance.com
 accounts.mica-login.fiscal-binance.com
@@ -338,6 +338,7 @@ sahibinden.ruhat2.online
 sahibinden.secure-ilan.com
 sahibinden.sepetimdealisveris.online
 sahibinden.sepetimdeonline.shop
+sahibinden.servishizmetleri.sbs
 sahibinden.sozlesme-islemleri-online.com
 sahibinden.vatandas-yonlendirme.online
 sahibindenguvenli.click
@@ -397,6 +398,7 @@ trendyol.patai.tech
 trendyol.servisepetin-10.sbs
 trendyol.servisepetin-15.sbs
 trendyol.servisepetin-20.sbs
+trendyol.servishizmetleri.sbs
 trendyol.servisinguvenli-15.sbs
 trendyol.servisinguvenli-67.sbs
 trendyol.servisinguvenli-75.sbs
@@ -463,6 +465,7 @@ turktelekom.servisinguvenli-80.sbs
 update.vodafone-topangebote.de
 vakifbank-login.com
 vakifbank-ticari.kosgebkrediler.com
+vakifbank-tr.net
 verify-binance.com
 verify-binance.us
 verify.binance-reverify.com
@@ -510,6 +513,7 @@ www.halkbank-ticari.kosgebkrediler.com
 www.hepsiburada.cyon.site
 www.iletisim-yapikredi.com
 www.info-secure-binance.com
+www.internetbireysel-sube-acikdenizv2denizbank.com
 www.isbankasi24.com
 www.mhrs-art.fun
 www.mobilsube-akbank.xyz
@@ -605,6 +609,7 @@ ziraatbank-sa.com
 ziraatbank-sy.com
 ziraatbank-sy.org
 ziraatbankasi.digital
+ziraatbankasiai-de.live
 ziraatbankasiprojesi.click
 ziraatbankkasi.sbs
 ziraatkatilim.ai
