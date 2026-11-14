@@ -5,9 +5,9 @@
 !   Brand-owned domains, MISP warninglists and shared hosting platforms are excluded.
 ! Homepage: https://siberkapan.org/phishing-feed
 ! License: CC BY 4.0
-! Last modified: 2026-11-14T06:14:10Z
+! Last modified: 2026-11-14T13:33:15Z
 ! Expires: 6 hours
-! Number of entries: 605
+! Number of entries: 604
 !
 ||589329-login-binance.com^
 ||accounts.mica-login.fiscal-binance.com^
@@ -38,7 +38,6 @@
 ||binance-tr-cekilis.com^
 ||binance-us-verify.com^
 ||binance-verify-us.com^
-||binance-verify.com^
 ||binance.wallet-login.com^
 ||binancecekilisi.com^
 ||binancetrcekilis.com^
@@ -362,7 +361,6 @@
 ||sponsorlu-cekilis-paribu.online^
 ||sponsorlu-paribu.live^
 ||staging.qnb-update-dv.com^
-||staging.qnb-update-iz.com^
 ||test.qnb-new-update.com^
 ||test.qnb-update-cards.com^
 ||tr-binancelogin.net^
@@ -498,6 +496,7 @@
 ||vodafone.servisinguvenli-80.sbs^
 ||vodafone.update-hub.com^
 ||webmail.enpara-banka.com^
+||ww-fibabanka.ph^
 ||www.bet-garanti.setrabetresmi-giris.icu^
 ||www.bet-paribu2025.site^
 ||www.binance-bonus-code.com^
