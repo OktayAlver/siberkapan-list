@@ -5,9 +5,9 @@
 !   Brand-owned domains, MISP warninglists and shared hosting platforms are excluded.
 ! Homepage: https://siberkapan.org/phishing-feed
 ! License: CC BY 4.0
-! Last modified: 2026-11-15T06:21:39Z
+! Last modified: 2026-11-15T18:47:44Z
 ! Expires: 6 hours
-! Number of entries: 604
+! Number of entries: 615
 !
 ||589329-login-binance.com^
 ||accounts.mica-login.fiscal-binance.com^
@@ -273,6 +273,8 @@
 ||s-sahibinden.xyz^
 ||sa-trendyol.shop^
 ||sahibinden-cmqvns.info^
+||sahibinden-get.alisveris-sepet-guvende-15.sbs^
+||sahibinden-get.alisveris-sepetinde-10.sbs^
 ||sahibinden-get.alisverisepet-islem-10.sbs^
 ||sahibinden-get.alisverisepetler-10.sbs^
 ||sahibinden-get.bireyselonlineservisler.com^
@@ -367,6 +369,8 @@
 ||tr-binancelogin.net^
 ||tracker-trendyol.live^
 ||trendyol.13brave.online^
+||trendyol.alisveris-sepet-guvende-15.sbs^
+||trendyol.alisveris-sepetinde-10.sbs^
 ||trendyol.alisverisepet-islem-10.sbs^
 ||trendyol.alisverisepetler-10.sbs^
 ||trendyol.apps.tecof.site^
@@ -411,6 +415,8 @@
 ||turkcell-ekranim-backoffice.madde22.xyz^
 ||turkcell-face-recognition.madde22.xyz^
 ||turkcell-tr.cfd^
+||turkcell.alisveris-sepet-guvende-15.sbs^
+||turkcell.alisveris-sepetinde-10.sbs^
 ||turkcell.alisverisepet-islem-10.sbs^
 ||turkcell.alisverisepetler-10.sbs^
 ||turkcell.imperum.online^
@@ -436,6 +442,7 @@
 ||turkcellpasajmagazm.store^
 ||turktelekom-basvuru.vip^
 ||turktelekom-tenis.shop^
+||turktelekom.alisveris-sepetinde-10.sbs^
 ||turktelekom.alisverisepet-islem-10.sbs^
 ||turktelekom.guvenlialimhizmetleriniz.online^
 ||turktelekom.islemlerin-sepet-10.sbs^
@@ -472,6 +479,8 @@
 ||vodafone-facturen.login-service.nl^
 ||vodafone-master.limit-cash.com^
 ||vodafone-term.secure-reviews.com^
+||vodafone.alisveris-sepet-guvende-15.sbs^
+||vodafone.alisveris-sepetinde-10.sbs^
 ||vodafone.alisverisepet-islem-10.sbs^
 ||vodafone.alisverisepetler-10.sbs^
 ||vodafone.hediyemo.com^
@@ -574,6 +583,8 @@
 ||www.ziraatbank-sy.org^
 ||yapikredi.obenan.tech^
 ||yurtici-app.btstaging.online^
+||yurtici-kargo.alisveris-sepet-guvende-15.sbs^
+||yurtici-kargo.alisveris-sepetinde-10.sbs^
 ||yurtici-kargo.alisverisepet-islem-10.sbs^
 ||yurtici-kargo.alisverisepetler-10.sbs^
 ||yurtici-kargo.islemlerin-sepet-10.sbs^

@@ -5,9 +5,9 @@
 #   Brand-owned domains, MISP warninglists and shared hosting platforms are excluded.
 # Homepage: https://siberkapan.org/phishing-feed
 # License: CC BY 4.0
-# Last modified: 2026-11-15T06:21:39Z
+# Last modified: 2026-11-15T18:47:44Z
 # Expires: 6 hours
-# Number of entries: 604
+# Number of entries: 615
 #
 0.0.0.0 589329-login-binance.com
 0.0.0.0 accounts.mica-login.fiscal-binance.com
@@ -273,6 +273,8 @@
 0.0.0.0 s-sahibinden.xyz
 0.0.0.0 sa-trendyol.shop
 0.0.0.0 sahibinden-cmqvns.info
+0.0.0.0 sahibinden-get.alisveris-sepet-guvende-15.sbs
+0.0.0.0 sahibinden-get.alisveris-sepetinde-10.sbs
 0.0.0.0 sahibinden-get.alisverisepet-islem-10.sbs
 0.0.0.0 sahibinden-get.alisverisepetler-10.sbs
 0.0.0.0 sahibinden-get.bireyselonlineservisler.com
@@ -367,6 +369,8 @@
 0.0.0.0 tr-binancelogin.net
 0.0.0.0 tracker-trendyol.live
 0.0.0.0 trendyol.13brave.online
+0.0.0.0 trendyol.alisveris-sepet-guvende-15.sbs
+0.0.0.0 trendyol.alisveris-sepetinde-10.sbs
 0.0.0.0 trendyol.alisverisepet-islem-10.sbs
 0.0.0.0 trendyol.alisverisepetler-10.sbs
 0.0.0.0 trendyol.apps.tecof.site
@@ -411,6 +415,8 @@
 0.0.0.0 turkcell-ekranim-backoffice.madde22.xyz
 0.0.0.0 turkcell-face-recognition.madde22.xyz
 0.0.0.0 turkcell-tr.cfd
+0.0.0.0 turkcell.alisveris-sepet-guvende-15.sbs
+0.0.0.0 turkcell.alisveris-sepetinde-10.sbs
 0.0.0.0 turkcell.alisverisepet-islem-10.sbs
 0.0.0.0 turkcell.alisverisepetler-10.sbs
 0.0.0.0 turkcell.imperum.online
@@ -436,6 +442,7 @@
 0.0.0.0 turkcellpasajmagazm.store
 0.0.0.0 turktelekom-basvuru.vip
 0.0.0.0 turktelekom-tenis.shop
+0.0.0.0 turktelekom.alisveris-sepetinde-10.sbs
 0.0.0.0 turktelekom.alisverisepet-islem-10.sbs
 0.0.0.0 turktelekom.guvenlialimhizmetleriniz.online
 0.0.0.0 turktelekom.islemlerin-sepet-10.sbs
@@ -472,6 +479,8 @@
 0.0.0.0 vodafone-facturen.login-service.nl
 0.0.0.0 vodafone-master.limit-cash.com
 0.0.0.0 vodafone-term.secure-reviews.com
+0.0.0.0 vodafone.alisveris-sepet-guvende-15.sbs
+0.0.0.0 vodafone.alisveris-sepetinde-10.sbs
 0.0.0.0 vodafone.alisverisepet-islem-10.sbs
 0.0.0.0 vodafone.alisverisepetler-10.sbs
 0.0.0.0 vodafone.hediyemo.com
@@ -574,6 +583,8 @@
 0.0.0.0 www.ziraatbank-sy.org
 0.0.0.0 yapikredi.obenan.tech
 0.0.0.0 yurtici-app.btstaging.online
+0.0.0.0 yurtici-kargo.alisveris-sepet-guvende-15.sbs
+0.0.0.0 yurtici-kargo.alisveris-sepetinde-10.sbs
 0.0.0.0 yurtici-kargo.alisverisepet-islem-10.sbs
 0.0.0.0 yurtici-kargo.alisverisepetler-10.sbs
 0.0.0.0 yurtici-kargo.islemlerin-sepet-10.sbs
