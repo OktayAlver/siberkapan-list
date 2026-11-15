@@ -5,7 +5,7 @@
 #   Brand-owned domains, MISP warninglists and shared hosting platforms are excluded.
 # Homepage: https://siberkapan.org/phishing-feed
 # License: CC BY 4.0
-# Last modified: 2026-11-14T22:19:20Z
+# Last modified: 2026-11-15T06:21:39Z
 # Expires: 6 hours
 # Number of entries: 604
 #
@@ -38,6 +38,7 @@ binance-secure-wallet.com
 binance-tr-cekilis.com
 binance-us-verify.com
 binance-verify-us.com
+binance-verify.com
 binance.wallet-login.com
 binancecekilisi.com
 binancetrcekilis.com
@@ -334,7 +335,6 @@ sahibinden.paranguvende-get.sbs
 sahibinden.paranguvende-getodeme.my
 sahibinden.paranizguvende.sbs
 sahibinden.ruhat2.online
-sahibinden.secure-ilan.com
 sahibinden.sepetimdealisveris.online
 sahibinden.sepetimdeonline.shop
 sahibinden.servishizmetleri.sbs
@@ -361,6 +361,7 @@ sekerbankfinance.com
 sponsorlu-cekilis-paribu.online
 sponsorlu-paribu.live
 staging.qnb-update-dv.com
+staging.qnb-update-iz.com
 test.qnb-new-update.com
 test.qnb-update-cards.com
 tr-binancelogin.net
@@ -406,7 +407,6 @@ trendyol.ukus.site
 trendyol.wefood.info
 trendyol.x-mobil-islem-guvenceli.com
 trendyol0.sbs
-turkcell-com-tr.top
 turkcell-ekranim-api.madde22.xyz
 turkcell-ekranim-backoffice.madde22.xyz
 turkcell-face-recognition.madde22.xyz
