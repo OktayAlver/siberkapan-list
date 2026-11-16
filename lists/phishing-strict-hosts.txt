@@ -5,9 +5,9 @@
 #   Brand-owned domains, MISP warninglists and shared hosting platforms are excluded.
 # Homepage: https://siberkapan.org/phishing-feed
 # License: CC BY 4.0
-# Last modified: 2026-11-15T18:47:44Z
+# Last modified: 2026-11-16T06:20:51Z
 # Expires: 6 hours
-# Number of entries: 615
+# Number of entries: 616
 #
 0.0.0.0 589329-login-binance.com
 0.0.0.0 accounts.mica-login.fiscal-binance.com
@@ -312,6 +312,7 @@
 0.0.0.0 sahibinden-paramguvende-al-get.limandeniz.site
 0.0.0.0 sahibinden-paramguvende.limandeniz.site
 0.0.0.0 sahibinden-sepet.guvendesepetimnet.shop
+0.0.0.0 sahibinden-sepet.guvendesistemnet.store
 0.0.0.0 sahibinden-sepet.onlinesepetimde.shop
 0.0.0.0 sahibinden-sepet.sepetimonaycom.surf
 0.0.0.0 sahibinden-sepet.sepetteonline.click
