@@ -5,12 +5,13 @@
 #   Brand-owned domains, MISP warninglists and shared hosting platforms are excluded.
 # Homepage: https://siberkapan.org/phishing-feed
 # License: CC BY 4.0
-# Last modified: 2026-11-16T06:20:51Z
+# Last modified: 2026-11-16T21:58:18Z
 # Expires: 6 hours
-# Number of entries: 616
+# Number of entries: 618
 #
 0.0.0.0 589329-login-binance.com
 0.0.0.0 accounts.mica-login.fiscal-binance.com
+0.0.0.0 akbank-odeme.online
 0.0.0.0 akbank-trkiye.top
 0.0.0.0 akbank.obenan.tech
 0.0.0.0 api-trendyol.patai.tech
@@ -19,7 +20,6 @@
 0.0.0.0 araskargo.apps.tecof.site
 0.0.0.0 araskargo.sol.site
 0.0.0.0 araskargo.svetw.top
-0.0.0.0 autodiscover.ziraatbank-bh.com
 0.0.0.0 ay4-yurtici.yarisma.online
 0.0.0.0 bet-garanti.betpas-toplu-giris.icu
 0.0.0.0 bet-garanti.resmi-giris.cam
@@ -86,6 +86,7 @@
 0.0.0.0 halkbank-intl.com
 0.0.0.0 halkbank-ticari.kosgebkrediler.com
 0.0.0.0 hepsiburada.alisveris-odemesepetim.com
+0.0.0.0 hepsiburada.alisveris-sepet-guvende-15.sbs
 0.0.0.0 hepsiburada.alisverisepet-islem-10.sbs
 0.0.0.0 hepsiburada.alisverisepetler-10.sbs
 0.0.0.0 hepsiburada.apps.tecof.site
@@ -110,7 +111,6 @@
 0.0.0.0 hepsiburada.servisinguvenli-80.sbs
 0.0.0.0 hepsiburada.x-mobil-islem-guvenceli.com
 0.0.0.0 hepsiburada1cdn.website
-0.0.0.0 hesap.paparazzi-pro.ru
 0.0.0.0 hizli-garanti-kredi.cloud
 0.0.0.0 iletisim-yapikredi.com
 0.0.0.0 info-secure-binance.com
@@ -137,7 +137,6 @@
 0.0.0.0 mail.enpara-banka.com
 0.0.0.0 mail.halkbank-intl.com
 0.0.0.0 mail.hepsiburada.cyon.site
-0.0.0.0 mail.ziraatbank-bh.com
 0.0.0.0 mhrs-art.fun
 0.0.0.0 mhrs-frager.sbs
 0.0.0.0 mhrs-gecelrburas.sbs
@@ -274,6 +273,7 @@
 0.0.0.0 sa-trendyol.shop
 0.0.0.0 sahibinden-cmqvns.info
 0.0.0.0 sahibinden-get.alisveris-sepet-guvende-15.sbs
+0.0.0.0 sahibinden-get.alisveris-sepet-guvende-20.sbs
 0.0.0.0 sahibinden-get.alisveris-sepetinde-10.sbs
 0.0.0.0 sahibinden-get.alisverisepet-islem-10.sbs
 0.0.0.0 sahibinden-get.alisverisepetler-10.sbs
@@ -336,13 +336,13 @@
 0.0.0.0 sahibinden.paramguvende-banaozel.sbs
 0.0.0.0 sahibinden.paranguvende-get.sbs
 0.0.0.0 sahibinden.paranguvende-getodeme.my
-0.0.0.0 sahibinden.paranizguvende.sbs
 0.0.0.0 sahibinden.ruhat2.online
 0.0.0.0 sahibinden.sepetimdealisveris.online
 0.0.0.0 sahibinden.sepetimdeonline.shop
 0.0.0.0 sahibinden.servishizmetleri.sbs
 0.0.0.0 sahibinden.sozlesme-islemleri-online.com
 0.0.0.0 sahibinden.vatandas-yonlendirme.online
+0.0.0.0 sahibindendestekkasko.com
 0.0.0.0 sahibindenguvenli.click
 0.0.0.0 sahibindenkargo.click
 0.0.0.0 sahibindenkaskodestek.com
@@ -371,6 +371,7 @@
 0.0.0.0 tracker-trendyol.live
 0.0.0.0 trendyol.13brave.online
 0.0.0.0 trendyol.alisveris-sepet-guvende-15.sbs
+0.0.0.0 trendyol.alisveris-sepet-guvende-20.sbs
 0.0.0.0 trendyol.alisveris-sepetinde-10.sbs
 0.0.0.0 trendyol.alisverisepet-islem-10.sbs
 0.0.0.0 trendyol.alisverisepetler-10.sbs
@@ -417,6 +418,7 @@
 0.0.0.0 turkcell-face-recognition.madde22.xyz
 0.0.0.0 turkcell-tr.cfd
 0.0.0.0 turkcell.alisveris-sepet-guvende-15.sbs
+0.0.0.0 turkcell.alisveris-sepet-guvende-20.sbs
 0.0.0.0 turkcell.alisveris-sepetinde-10.sbs
 0.0.0.0 turkcell.alisverisepet-islem-10.sbs
 0.0.0.0 turkcell.alisverisepetler-10.sbs
@@ -443,6 +445,7 @@
 0.0.0.0 turkcellpasajmagazm.store
 0.0.0.0 turktelekom-basvuru.vip
 0.0.0.0 turktelekom-tenis.shop
+0.0.0.0 turktelekom.alisveris-sepet-guvende-20.sbs
 0.0.0.0 turktelekom.alisveris-sepetinde-10.sbs
 0.0.0.0 turktelekom.alisverisepet-islem-10.sbs
 0.0.0.0 turktelekom.guvenlialimhizmetleriniz.online
@@ -506,7 +509,6 @@
 0.0.0.0 vodafone.servisinguvenli-80.sbs
 0.0.0.0 vodafone.update-hub.com
 0.0.0.0 webmail.enpara-banka.com
-0.0.0.0 ww-fibabanka.ph
 0.0.0.0 www.bet-garanti.setrabetresmi-giris.icu
 0.0.0.0 www.bet-paribu2025.site
 0.0.0.0 www.binance-bonus-code.com
@@ -543,7 +545,6 @@
 0.0.0.0 www.paribu-sponsorlu-cekilis.online
 0.0.0.0 www.paribu-sponsorlu-cekilisi.live
 0.0.0.0 www.paribu-sponsorlu-cekilisi.online
-0.0.0.0 www.paribu-sponsorlu-cekilisler.live
 0.0.0.0 www.paribu-sponsorlu-cekils.online
 0.0.0.0 www.paribu-sponsorlu.online
 0.0.0.0 www.paribu-sponsorlucekilis.live
@@ -607,6 +608,7 @@
 0.0.0.0 yurtici-kargo.servisinguvenli-75.sbs
 0.0.0.0 yurtici-kargo.servisinguvenli-80.sbs
 0.0.0.0 yurtici.gvnliodemeniz.com
+0.0.0.0 ziraat-bank-giris.online
 0.0.0.0 ziraat-bankas.com
 0.0.0.0 ziraat-bankas.info
 0.0.0.0 ziraat-bankas.live

@@ -5,12 +5,13 @@
 !   Brand-owned domains, MISP warninglists and shared hosting platforms are excluded.
 ! Homepage: https://siberkapan.org/phishing-feed
 ! License: CC BY 4.0
-! Last modified: 2026-11-16T06:20:50Z
+! Last modified: 2026-11-16T21:58:17Z
 ! Expires: 6 hours
-! Number of entries: 616
+! Number of entries: 618
 !
 ||589329-login-binance.com^
 ||accounts.mica-login.fiscal-binance.com^
+||akbank-odeme.online^
 ||akbank-trkiye.top^
 ||akbank.obenan.tech^
 ||api-trendyol.patai.tech^
@@ -19,7 +20,6 @@
 ||araskargo.apps.tecof.site^
 ||araskargo.sol.site^
 ||araskargo.svetw.top^
-||autodiscover.ziraatbank-bh.com^
 ||ay4-yurtici.yarisma.online^
 ||bet-garanti.betpas-toplu-giris.icu^
 ||bet-garanti.resmi-giris.cam^
@@ -86,6 +86,7 @@
 ||halkbank-intl.com^
 ||halkbank-ticari.kosgebkrediler.com^
 ||hepsiburada.alisveris-odemesepetim.com^
+||hepsiburada.alisveris-sepet-guvende-15.sbs^
 ||hepsiburada.alisverisepet-islem-10.sbs^
 ||hepsiburada.alisverisepetler-10.sbs^
 ||hepsiburada.apps.tecof.site^
@@ -110,7 +111,6 @@
 ||hepsiburada.servisinguvenli-80.sbs^
 ||hepsiburada.x-mobil-islem-guvenceli.com^
 ||hepsiburada1cdn.website^
-||hesap.paparazzi-pro.ru^
 ||hizli-garanti-kredi.cloud^
 ||iletisim-yapikredi.com^
 ||info-secure-binance.com^
@@ -137,7 +137,6 @@
 ||mail.enpara-banka.com^
 ||mail.halkbank-intl.com^
 ||mail.hepsiburada.cyon.site^
-||mail.ziraatbank-bh.com^
 ||mhrs-art.fun^
 ||mhrs-frager.sbs^
 ||mhrs-gecelrburas.sbs^
@@ -274,6 +273,7 @@
 ||sa-trendyol.shop^
 ||sahibinden-cmqvns.info^
 ||sahibinden-get.alisveris-sepet-guvende-15.sbs^
+||sahibinden-get.alisveris-sepet-guvende-20.sbs^
 ||sahibinden-get.alisveris-sepetinde-10.sbs^
 ||sahibinden-get.alisverisepet-islem-10.sbs^
 ||sahibinden-get.alisverisepetler-10.sbs^
@@ -336,13 +336,13 @@
 ||sahibinden.paramguvende-banaozel.sbs^
 ||sahibinden.paranguvende-get.sbs^
 ||sahibinden.paranguvende-getodeme.my^
-||sahibinden.paranizguvende.sbs^
 ||sahibinden.ruhat2.online^
 ||sahibinden.sepetimdealisveris.online^
 ||sahibinden.sepetimdeonline.shop^
 ||sahibinden.servishizmetleri.sbs^
 ||sahibinden.sozlesme-islemleri-online.com^
 ||sahibinden.vatandas-yonlendirme.online^
+||sahibindendestekkasko.com^
 ||sahibindenguvenli.click^
 ||sahibindenkargo.click^
 ||sahibindenkaskodestek.com^
@@ -371,6 +371,7 @@
 ||tracker-trendyol.live^
 ||trendyol.13brave.online^
 ||trendyol.alisveris-sepet-guvende-15.sbs^
+||trendyol.alisveris-sepet-guvende-20.sbs^
 ||trendyol.alisveris-sepetinde-10.sbs^
 ||trendyol.alisverisepet-islem-10.sbs^
 ||trendyol.alisverisepetler-10.sbs^
@@ -417,6 +418,7 @@
 ||turkcell-face-recognition.madde22.xyz^
 ||turkcell-tr.cfd^
 ||turkcell.alisveris-sepet-guvende-15.sbs^
+||turkcell.alisveris-sepet-guvende-20.sbs^
 ||turkcell.alisveris-sepetinde-10.sbs^
 ||turkcell.alisverisepet-islem-10.sbs^
 ||turkcell.alisverisepetler-10.sbs^
@@ -443,6 +445,7 @@
 ||turkcellpasajmagazm.store^
 ||turktelekom-basvuru.vip^
 ||turktelekom-tenis.shop^
+||turktelekom.alisveris-sepet-guvende-20.sbs^
 ||turktelekom.alisveris-sepetinde-10.sbs^
 ||turktelekom.alisverisepet-islem-10.sbs^
 ||turktelekom.guvenlialimhizmetleriniz.online^
@@ -506,7 +509,6 @@
 ||vodafone.servisinguvenli-80.sbs^
 ||vodafone.update-hub.com^
 ||webmail.enpara-banka.com^
-||ww-fibabanka.ph^
 ||www.bet-garanti.setrabetresmi-giris.icu^
 ||www.bet-paribu2025.site^
 ||www.binance-bonus-code.com^
@@ -543,7 +545,6 @@
 ||www.paribu-sponsorlu-cekilis.online^
 ||www.paribu-sponsorlu-cekilisi.live^
 ||www.paribu-sponsorlu-cekilisi.online^
-||www.paribu-sponsorlu-cekilisler.live^
 ||www.paribu-sponsorlu-cekils.online^
 ||www.paribu-sponsorlu.online^
 ||www.paribu-sponsorlucekilis.live^
@@ -607,6 +608,7 @@
 ||yurtici-kargo.servisinguvenli-75.sbs^
 ||yurtici-kargo.servisinguvenli-80.sbs^
 ||yurtici.gvnliodemeniz.com^
+||ziraat-bank-giris.online^
 ||ziraat-bankas.com^
 ||ziraat-bankas.info^
 ||ziraat-bankas.live^
