@@ -5,9 +5,9 @@
 #   Brand-owned domains, MISP warninglists and shared hosting platforms are excluded.
 # Homepage: https://siberkapan.org/phishing-feed
 # License: CC BY 4.0
-# Last modified: 2026-11-17T07:50:18Z
+# Last modified: 2026-11-17T20:53:09Z
 # Expires: 6 hours
-# Number of entries: 626
+# Number of entries: 628
 #
 589329-login-binance.com
 accounts.mica-login.fiscal-binance.com
@@ -75,10 +75,12 @@ garanti-yatirim-destek.cloud
 garanti.aidatim.pro
 garantibbva-kredi-firsati2.cloud
 garantibbva-kredi-firsati3.cloud
+garantibbva-kredi-firsati4.cloud
 garantibbva-noreply.com
 garantibbva4all.ro
 garantidenkredifirsati.cloud
 garantidenkrediler.cloud
+garantidenonlinekredi.cloud
 garantidestekfinans.cloud
 garantikolaydestek.cloud
 geliridaresibaskanligi.org
@@ -524,6 +526,7 @@ www.denizbank-frankfurt.de
 www.en.garantibbva4all.ro
 www.garantibbva-kredi-firsati2.cloud
 www.garantibbva-kredi-firsati3.cloud
+www.garantibbva-kredi-firsati4.cloud
 www.garantibbva-noreply.com
 www.halkbank-girisimci.kosgebkrediler.com
 www.halkbank-intl.com
@@ -542,7 +545,6 @@ www.paribu-arabahediyem.info
 www.paribu-arabahediyen.info
 www.paribu-arabayakala.info
 www.paribu-cekilisim.live
-www.paribu-cekilislerim.live
 www.paribu-destek.org
 www.paribu-pepe-cekilis.info
 www.paribu-pepecekilis.info

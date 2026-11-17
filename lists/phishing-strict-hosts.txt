@@ -5,9 +5,9 @@
 #   Brand-owned domains, MISP warninglists and shared hosting platforms are excluded.
 # Homepage: https://siberkapan.org/phishing-feed
 # License: CC BY 4.0
-# Last modified: 2026-11-17T07:50:19Z
+# Last modified: 2026-11-17T20:53:10Z
 # Expires: 6 hours
-# Number of entries: 626
+# Number of entries: 628
 #
 0.0.0.0 589329-login-binance.com
 0.0.0.0 accounts.mica-login.fiscal-binance.com
@@ -75,10 +75,12 @@
 0.0.0.0 garanti.aidatim.pro
 0.0.0.0 garantibbva-kredi-firsati2.cloud
 0.0.0.0 garantibbva-kredi-firsati3.cloud
+0.0.0.0 garantibbva-kredi-firsati4.cloud
 0.0.0.0 garantibbva-noreply.com
 0.0.0.0 garantibbva4all.ro
 0.0.0.0 garantidenkredifirsati.cloud
 0.0.0.0 garantidenkrediler.cloud
+0.0.0.0 garantidenonlinekredi.cloud
 0.0.0.0 garantidestekfinans.cloud
 0.0.0.0 garantikolaydestek.cloud
 0.0.0.0 geliridaresibaskanligi.org
@@ -524,6 +526,7 @@
 0.0.0.0 www.en.garantibbva4all.ro
 0.0.0.0 www.garantibbva-kredi-firsati2.cloud
 0.0.0.0 www.garantibbva-kredi-firsati3.cloud
+0.0.0.0 www.garantibbva-kredi-firsati4.cloud
 0.0.0.0 www.garantibbva-noreply.com
 0.0.0.0 www.halkbank-girisimci.kosgebkrediler.com
 0.0.0.0 www.halkbank-intl.com
@@ -542,7 +545,6 @@
 0.0.0.0 www.paribu-arabahediyen.info
 0.0.0.0 www.paribu-arabayakala.info
 0.0.0.0 www.paribu-cekilisim.live
-0.0.0.0 www.paribu-cekilislerim.live
 0.0.0.0 www.paribu-destek.org
 0.0.0.0 www.paribu-pepe-cekilis.info
 0.0.0.0 www.paribu-pepecekilis.info
