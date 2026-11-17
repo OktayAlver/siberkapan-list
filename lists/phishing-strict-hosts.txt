@@ -5,9 +5,9 @@
 #   Brand-owned domains, MISP warninglists and shared hosting platforms are excluded.
 # Homepage: https://siberkapan.org/phishing-feed
 # License: CC BY 4.0
-# Last modified: 2026-11-16T21:58:18Z
+# Last modified: 2026-11-17T07:50:19Z
 # Expires: 6 hours
-# Number of entries: 618
+# Number of entries: 626
 #
 0.0.0.0 589329-login-binance.com
 0.0.0.0 accounts.mica-login.fiscal-binance.com
@@ -73,8 +73,12 @@
 0.0.0.0 garanti-oto-servis.xyz
 0.0.0.0 garanti-yatirim-destek.cloud
 0.0.0.0 garanti.aidatim.pro
+0.0.0.0 garantibbva-kredi-firsati2.cloud
+0.0.0.0 garantibbva-kredi-firsati3.cloud
 0.0.0.0 garantibbva-noreply.com
 0.0.0.0 garantibbva4all.ro
+0.0.0.0 garantidenkredifirsati.cloud
+0.0.0.0 garantidenkrediler.cloud
 0.0.0.0 garantidestekfinans.cloud
 0.0.0.0 garantikolaydestek.cloud
 0.0.0.0 geliridaresibaskanligi.org
@@ -509,6 +513,7 @@
 0.0.0.0 vodafone.servisinguvenli-80.sbs
 0.0.0.0 vodafone.update-hub.com
 0.0.0.0 webmail.enpara-banka.com
+0.0.0.0 ww-fibabanka.ph
 0.0.0.0 www.bet-garanti.setrabetresmi-giris.icu
 0.0.0.0 www.bet-paribu2025.site
 0.0.0.0 www.binance-bonus-code.com
@@ -517,6 +522,8 @@
 0.0.0.0 www.confirm-22e3f8c0-1b2a-4d5e-9f3a-8b6c7d9e0f1a-binance.su-en.sbs
 0.0.0.0 www.denizbank-frankfurt.de
 0.0.0.0 www.en.garantibbva4all.ro
+0.0.0.0 www.garantibbva-kredi-firsati2.cloud
+0.0.0.0 www.garantibbva-kredi-firsati3.cloud
 0.0.0.0 www.garantibbva-noreply.com
 0.0.0.0 www.halkbank-girisimci.kosgebkrediler.com
 0.0.0.0 www.halkbank-intl.com
@@ -545,6 +552,7 @@
 0.0.0.0 www.paribu-sponsorlu-cekilis.online
 0.0.0.0 www.paribu-sponsorlu-cekilisi.live
 0.0.0.0 www.paribu-sponsorlu-cekilisi.online
+0.0.0.0 www.paribu-sponsorlu-cekilisler.live
 0.0.0.0 www.paribu-sponsorlu-cekils.online
 0.0.0.0 www.paribu-sponsorlu.online
 0.0.0.0 www.paribu-sponsorlucekilis.live

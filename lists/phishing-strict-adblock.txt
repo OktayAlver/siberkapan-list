@@ -5,9 +5,9 @@
 !   Brand-owned domains, MISP warninglists and shared hosting platforms are excluded.
 ! Homepage: https://siberkapan.org/phishing-feed
 ! License: CC BY 4.0
-! Last modified: 2026-11-16T21:58:17Z
+! Last modified: 2026-11-17T07:50:18Z
 ! Expires: 6 hours
-! Number of entries: 618
+! Number of entries: 626
 !
 ||589329-login-binance.com^
 ||accounts.mica-login.fiscal-binance.com^
@@ -73,8 +73,12 @@
 ||garanti-oto-servis.xyz^
 ||garanti-yatirim-destek.cloud^
 ||garanti.aidatim.pro^
+||garantibbva-kredi-firsati2.cloud^
+||garantibbva-kredi-firsati3.cloud^
 ||garantibbva-noreply.com^
 ||garantibbva4all.ro^
+||garantidenkredifirsati.cloud^
+||garantidenkrediler.cloud^
 ||garantidestekfinans.cloud^
 ||garantikolaydestek.cloud^
 ||geliridaresibaskanligi.org^
@@ -509,6 +513,7 @@
 ||vodafone.servisinguvenli-80.sbs^
 ||vodafone.update-hub.com^
 ||webmail.enpara-banka.com^
+||ww-fibabanka.ph^
 ||www.bet-garanti.setrabetresmi-giris.icu^
 ||www.bet-paribu2025.site^
 ||www.binance-bonus-code.com^
@@ -517,6 +522,8 @@
 ||www.confirm-22e3f8c0-1b2a-4d5e-9f3a-8b6c7d9e0f1a-binance.su-en.sbs^
 ||www.denizbank-frankfurt.de^
 ||www.en.garantibbva4all.ro^
+||www.garantibbva-kredi-firsati2.cloud^
+||www.garantibbva-kredi-firsati3.cloud^
 ||www.garantibbva-noreply.com^
 ||www.halkbank-girisimci.kosgebkrediler.com^
 ||www.halkbank-intl.com^
@@ -545,6 +552,7 @@
 ||www.paribu-sponsorlu-cekilis.online^
 ||www.paribu-sponsorlu-cekilisi.live^
 ||www.paribu-sponsorlu-cekilisi.online^
+||www.paribu-sponsorlu-cekilisler.live^
 ||www.paribu-sponsorlu-cekils.online^
 ||www.paribu-sponsorlu.online^
 ||www.paribu-sponsorlucekilis.live^
