@@ -5,14 +5,13 @@
 #   Brand-owned domains, MISP warninglists and shared hosting platforms are excluded.
 # Homepage: https://siberkapan.org/phishing-feed
 # License: CC BY 4.0
-# Last modified: 2026-11-18T07:21:17Z
+# Last modified: 2026-11-18T20:27:01Z
 # Expires: 6 hours
-# Number of entries: 627
+# Number of entries: 626
 #
 0.0.0.0 589329-login-binance.com
 0.0.0.0 accounts.mica-login.fiscal-binance.com
 0.0.0.0 akbank-odeme.online
-0.0.0.0 akbank-tr.info
 0.0.0.0 akbank-trkiye.top
 0.0.0.0 akbank.obenan.tech
 0.0.0.0 api-trendyol.patai.tech
