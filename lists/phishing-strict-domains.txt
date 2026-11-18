@@ -5,13 +5,14 @@
 #   Brand-owned domains, MISP warninglists and shared hosting platforms are excluded.
 # Homepage: https://siberkapan.org/phishing-feed
 # License: CC BY 4.0
-# Last modified: 2026-11-17T20:53:09Z
+# Last modified: 2026-11-18T07:21:17Z
 # Expires: 6 hours
-# Number of entries: 628
+# Number of entries: 627
 #
 589329-login-binance.com
 accounts.mica-login.fiscal-binance.com
 akbank-odeme.online
+akbank-tr.info
 akbank-trkiye.top
 akbank.obenan.tech
 api-trendyol.patai.tech
@@ -140,14 +141,12 @@ login.vodafone-dsl-flatrates.de
 login.vodafone-topangebote.com
 login.vodafone-topangebote.de
 loginbinance-tr.online
-mail.enpara-banka.com
 mail.halkbank-intl.com
 mail.hepsiburada.cyon.site
 mhrs-art.fun
 mhrs-frager.sbs
 mhrs-gecelrburas.sbs
 mhrs-onlinerndvu.sbs
-mhrs-onlnexda.sbs
 mhrs-poliklinik-randevu.cfd
 mhrs-yenidenoo.sbs
 mobilpapara.app
@@ -514,7 +513,6 @@ vodafone.servisinguvenli-67.sbs
 vodafone.servisinguvenli-75.sbs
 vodafone.servisinguvenli-80.sbs
 vodafone.update-hub.com
-webmail.enpara-banka.com
 ww-fibabanka.ph
 www.bet-garanti.setrabetresmi-giris.icu
 www.bet-paribu2025.site
@@ -545,6 +543,7 @@ www.paribu-arabahediyem.info
 www.paribu-arabahediyen.info
 www.paribu-arabayakala.info
 www.paribu-cekilisim.live
+www.paribu-cekilislerim.live
 www.paribu-destek.org
 www.paribu-pepe-cekilis.info
 www.paribu-pepecekilis.info

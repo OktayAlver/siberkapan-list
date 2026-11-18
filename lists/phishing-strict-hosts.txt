@@ -5,13 +5,14 @@
 #   Brand-owned domains, MISP warninglists and shared hosting platforms are excluded.
 # Homepage: https://siberkapan.org/phishing-feed
 # License: CC BY 4.0
-# Last modified: 2026-11-17T20:53:10Z
+# Last modified: 2026-11-18T07:21:17Z
 # Expires: 6 hours
-# Number of entries: 628
+# Number of entries: 627
 #
 0.0.0.0 589329-login-binance.com
 0.0.0.0 accounts.mica-login.fiscal-binance.com
 0.0.0.0 akbank-odeme.online
+0.0.0.0 akbank-tr.info
 0.0.0.0 akbank-trkiye.top
 0.0.0.0 akbank.obenan.tech
 0.0.0.0 api-trendyol.patai.tech
@@ -140,14 +141,12 @@
 0.0.0.0 login.vodafone-topangebote.com
 0.0.0.0 login.vodafone-topangebote.de
 0.0.0.0 loginbinance-tr.online
-0.0.0.0 mail.enpara-banka.com
 0.0.0.0 mail.halkbank-intl.com
 0.0.0.0 mail.hepsiburada.cyon.site
 0.0.0.0 mhrs-art.fun
 0.0.0.0 mhrs-frager.sbs
 0.0.0.0 mhrs-gecelrburas.sbs
 0.0.0.0 mhrs-onlinerndvu.sbs
-0.0.0.0 mhrs-onlnexda.sbs
 0.0.0.0 mhrs-poliklinik-randevu.cfd
 0.0.0.0 mhrs-yenidenoo.sbs
 0.0.0.0 mobilpapara.app
@@ -514,7 +513,6 @@
 0.0.0.0 vodafone.servisinguvenli-75.sbs
 0.0.0.0 vodafone.servisinguvenli-80.sbs
 0.0.0.0 vodafone.update-hub.com
-0.0.0.0 webmail.enpara-banka.com
 0.0.0.0 ww-fibabanka.ph
 0.0.0.0 www.bet-garanti.setrabetresmi-giris.icu
 0.0.0.0 www.bet-paribu2025.site
@@ -545,6 +543,7 @@
 0.0.0.0 www.paribu-arabahediyen.info
 0.0.0.0 www.paribu-arabayakala.info
 0.0.0.0 www.paribu-cekilisim.live
+0.0.0.0 www.paribu-cekilislerim.live
 0.0.0.0 www.paribu-destek.org
 0.0.0.0 www.paribu-pepe-cekilis.info
 0.0.0.0 www.paribu-pepecekilis.info
