@@ -5,9 +5,9 @@
 #   Brand-owned domains, MISP warninglists and shared hosting platforms are excluded.
 # Homepage: https://siberkapan.org/phishing-feed
 # License: CC BY 4.0
-# Last modified: 2026-11-18T20:27:01Z
+# Last modified: 2026-11-19T07:18:44Z
 # Expires: 6 hours
-# Number of entries: 626
+# Number of entries: 629
 #
 0.0.0.0 589329-login-binance.com
 0.0.0.0 accounts.mica-login.fiscal-binance.com
@@ -51,6 +51,7 @@
 0.0.0.0 cekilisbinance.com
 0.0.0.0 ciceksepeti.rabaty.site
 0.0.0.0 denizbank-frankfurt.de
+0.0.0.0 denizbank.bonusbasvur.cfd
 0.0.0.0 dev.brm-denizbank-api.linktera.xyz
 0.0.0.0 dev.brm-denizbank.linktera.xyz
 0.0.0.0 edevlet-ai.com
@@ -86,6 +87,7 @@
 0.0.0.0 geliridaresibaskanligi.org
 0.0.0.0 getir.kibrisciceksepetim.com
 0.0.0.0 giris-garanti.com
+0.0.0.0 giris.mobil-ziraat.org
 0.0.0.0 guncel-garanti.cam
 0.0.0.0 guvenlik-binance.com
 0.0.0.0 halkbank-fqsvla.rest
@@ -148,6 +150,7 @@
 0.0.0.0 mhrs-onlinerndvu.sbs
 0.0.0.0 mhrs-poliklinik-randevu.cfd
 0.0.0.0 mhrs-yenidenoo.sbs
+0.0.0.0 mobil-ziraat.org
 0.0.0.0 mobilpapara.app
 0.0.0.0 mta-sts.halkbank-intl.com
 0.0.0.0 odeme-btcturk.com
