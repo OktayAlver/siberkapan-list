@@ -5,9 +5,9 @@
 #   Brand-owned domains, MISP warninglists and shared hosting platforms are excluded.
 # Homepage: https://siberkapan.org/phishing-feed
 # License: CC BY 4.0
-# Last modified: 2026-11-19T07:18:42Z
+# Last modified: 2026-11-19T20:30:14Z
 # Expires: 6 hours
-# Number of entries: 629
+# Number of entries: 635
 #
 589329-login-binance.com
 accounts.mica-login.fiscal-binance.com
@@ -52,6 +52,7 @@ cekilisbinance.com
 ciceksepeti.rabaty.site
 denizbank-frankfurt.de
 denizbank.bonusbasvur.cfd
+denizbank.turkiyecep.cfd
 dev.brm-denizbank-api.linktera.xyz
 dev.brm-denizbank.linktera.xyz
 edevlet-ai.com
@@ -132,6 +133,7 @@ kuveytturk-vision.optade.online
 kuveytturk.optade.online
 login-binance.app
 login.abc-binance.com.cn
+login.binance-kalp.com
 login.binance-logins.com
 login.k-binance.com.cn
 login.oop-binance.com.cn
@@ -144,6 +146,7 @@ login.vodafone-topangebote.de
 loginbinance-tr.online
 mail.halkbank-intl.com
 mail.hepsiburada.cyon.site
+maliye-ingbank.ph
 mhrs-art.fun
 mhrs-frager.sbs
 mhrs-gecelrburas.sbs
@@ -191,7 +194,6 @@ paribu-pepecekilisin.info
 paribu-site.cyou
 paribu-sitesi.cyou
 paribu-sponsorcekilisi.live
-paribu-sponsorlu-cekilis.live
 paribu-sponsorlu-cekilis.online
 paribu-sponsorlu-cekilisi.live
 paribu-sponsorlu-cekilisi.online
@@ -312,6 +314,7 @@ sahibinden-get.siparisguvende.com
 sahibinden-get.siparisimhizli.com
 sahibinden-get.siparisislemleri.com
 sahibinden-get.x-mobil-islem-guvenceli.com
+sahibinden-getilan.tr-webalisverisler-tr-getalisveris.online
 sahibinden-ilan.ileservishzmetleri.sbs
 sahibinden-mobil.xyz
 sahibinden-online-sozlesme.sartlarimiz.sbs
@@ -335,6 +338,7 @@ sahibinden.guvenli-odemeler.online
 sahibinden.guvenliodeme-get.online
 sahibinden.guvenliodemeget.online
 sahibinden.gvnliodemeniz.com
+sahibinden.hemen-al-islem.sbs
 sahibinden.ileservishizmetleri.com
 sahibinden.islem-siparisver.com
 sahibinden.muhasebedepartmani.shop
@@ -359,6 +363,7 @@ sahibindensatis.xyz
 sahibindensigorta.click
 sahibindensigorta.quest
 secure-vault-binance.com
+secure-wallet-binance.com
 secure-web3-binance.com
 secure.prix-garanti.com
 secure.vodafone-dsl-flat.de
@@ -388,6 +393,7 @@ trendyol.guvendealisveris.shop
 trendyol.guvendesiparis.online
 trendyol.guvenlihizmet.shop
 trendyol.gvnliodemeniz.com
+trendyol.hemen-al-islem.sbs
 trendyol.ilanservis-odemehizmetler.online
 trendyol.ileservishzmetleri.sbs
 trendyol.ishhar.site
@@ -423,7 +429,6 @@ trendyol0.sbs
 turkcell-ekranim-api.madde22.xyz
 turkcell-ekranim-backoffice.madde22.xyz
 turkcell-face-recognition.madde22.xyz
-turkcell-tr.cfd
 turkcell.alisveris-sepet-guvende-15.sbs
 turkcell.alisveris-sepet-guvende-20.sbs
 turkcell.alisveris-sepetinde-10.sbs
@@ -573,6 +578,7 @@ www.paribu-sponsorlugundacekils.online
 www.s-sahibinden.xyz
 www.sa-trendyol.shop
 www.sahibinden-get.mobilservisler-8.sbs
+www.sahibinden-getilan.tr-webalisverisler-tr-getalisveris.online
 www.sahibinden.mobilsepetin-tr.online
 www.sahibinden.odeme-sepet-1920.com
 www.secure-web3-binance.com

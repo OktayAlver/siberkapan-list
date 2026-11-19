@@ -5,9 +5,9 @@
 #   Brand-owned domains, MISP warninglists and shared hosting platforms are excluded.
 # Homepage: https://siberkapan.org/phishing-feed
 # License: CC BY 4.0
-# Last modified: 2026-11-19T07:18:44Z
+# Last modified: 2026-11-19T20:30:14Z
 # Expires: 6 hours
-# Number of entries: 629
+# Number of entries: 635
 #
 0.0.0.0 589329-login-binance.com
 0.0.0.0 accounts.mica-login.fiscal-binance.com
@@ -52,6 +52,7 @@
 0.0.0.0 ciceksepeti.rabaty.site
 0.0.0.0 denizbank-frankfurt.de
 0.0.0.0 denizbank.bonusbasvur.cfd
+0.0.0.0 denizbank.turkiyecep.cfd
 0.0.0.0 dev.brm-denizbank-api.linktera.xyz
 0.0.0.0 dev.brm-denizbank.linktera.xyz
 0.0.0.0 edevlet-ai.com
@@ -132,6 +133,7 @@
 0.0.0.0 kuveytturk.optade.online
 0.0.0.0 login-binance.app
 0.0.0.0 login.abc-binance.com.cn
+0.0.0.0 login.binance-kalp.com
 0.0.0.0 login.binance-logins.com
 0.0.0.0 login.k-binance.com.cn
 0.0.0.0 login.oop-binance.com.cn
@@ -144,6 +146,7 @@
 0.0.0.0 loginbinance-tr.online
 0.0.0.0 mail.halkbank-intl.com
 0.0.0.0 mail.hepsiburada.cyon.site
+0.0.0.0 maliye-ingbank.ph
 0.0.0.0 mhrs-art.fun
 0.0.0.0 mhrs-frager.sbs
 0.0.0.0 mhrs-gecelrburas.sbs
@@ -191,7 +194,6 @@
 0.0.0.0 paribu-site.cyou
 0.0.0.0 paribu-sitesi.cyou
 0.0.0.0 paribu-sponsorcekilisi.live
-0.0.0.0 paribu-sponsorlu-cekilis.live
 0.0.0.0 paribu-sponsorlu-cekilis.online
 0.0.0.0 paribu-sponsorlu-cekilisi.live
 0.0.0.0 paribu-sponsorlu-cekilisi.online
@@ -312,6 +314,7 @@
 0.0.0.0 sahibinden-get.siparisimhizli.com
 0.0.0.0 sahibinden-get.siparisislemleri.com
 0.0.0.0 sahibinden-get.x-mobil-islem-guvenceli.com
+0.0.0.0 sahibinden-getilan.tr-webalisverisler-tr-getalisveris.online
 0.0.0.0 sahibinden-ilan.ileservishzmetleri.sbs
 0.0.0.0 sahibinden-mobil.xyz
 0.0.0.0 sahibinden-online-sozlesme.sartlarimiz.sbs
@@ -335,6 +338,7 @@
 0.0.0.0 sahibinden.guvenliodeme-get.online
 0.0.0.0 sahibinden.guvenliodemeget.online
 0.0.0.0 sahibinden.gvnliodemeniz.com
+0.0.0.0 sahibinden.hemen-al-islem.sbs
 0.0.0.0 sahibinden.ileservishizmetleri.com
 0.0.0.0 sahibinden.islem-siparisver.com
 0.0.0.0 sahibinden.muhasebedepartmani.shop
@@ -359,6 +363,7 @@
 0.0.0.0 sahibindensigorta.click
 0.0.0.0 sahibindensigorta.quest
 0.0.0.0 secure-vault-binance.com
+0.0.0.0 secure-wallet-binance.com
 0.0.0.0 secure-web3-binance.com
 0.0.0.0 secure.prix-garanti.com
 0.0.0.0 secure.vodafone-dsl-flat.de
@@ -388,6 +393,7 @@
 0.0.0.0 trendyol.guvendesiparis.online
 0.0.0.0 trendyol.guvenlihizmet.shop
 0.0.0.0 trendyol.gvnliodemeniz.com
+0.0.0.0 trendyol.hemen-al-islem.sbs
 0.0.0.0 trendyol.ilanservis-odemehizmetler.online
 0.0.0.0 trendyol.ileservishzmetleri.sbs
 0.0.0.0 trendyol.ishhar.site
@@ -423,7 +429,6 @@
 0.0.0.0 turkcell-ekranim-api.madde22.xyz
 0.0.0.0 turkcell-ekranim-backoffice.madde22.xyz
 0.0.0.0 turkcell-face-recognition.madde22.xyz
-0.0.0.0 turkcell-tr.cfd
 0.0.0.0 turkcell.alisveris-sepet-guvende-15.sbs
 0.0.0.0 turkcell.alisveris-sepet-guvende-20.sbs
 0.0.0.0 turkcell.alisveris-sepetinde-10.sbs
@@ -573,6 +578,7 @@
 0.0.0.0 www.s-sahibinden.xyz
 0.0.0.0 www.sa-trendyol.shop
 0.0.0.0 www.sahibinden-get.mobilservisler-8.sbs
+0.0.0.0 www.sahibinden-getilan.tr-webalisverisler-tr-getalisveris.online
 0.0.0.0 www.sahibinden.mobilsepetin-tr.online
 0.0.0.0 www.sahibinden.odeme-sepet-1920.com
 0.0.0.0 www.secure-web3-binance.com
