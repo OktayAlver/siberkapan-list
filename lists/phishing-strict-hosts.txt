@@ -5,9 +5,9 @@
 #   Brand-owned domains, MISP warninglists and shared hosting platforms are excluded.
 # Homepage: https://siberkapan.org/phishing-feed
 # License: CC BY 4.0
-# Last modified: 2026-11-20T07:08:00Z
+# Last modified: 2026-11-20T20:08:29Z
 # Expires: 6 hours
-# Number of entries: 638
+# Number of entries: 646
 #
 0.0.0.0 589329-login-binance.com
 0.0.0.0 accounts.mica-login.fiscal-binance.com
@@ -16,7 +16,6 @@
 0.0.0.0 akbank.obenan.tech
 0.0.0.0 api-trendyol.patai.tech
 0.0.0.0 api.mica-login.fiscal-binance.com
-0.0.0.0 araba--paribu.live
 0.0.0.0 araskargo.apps.tecof.site
 0.0.0.0 araskargo.sol.site
 0.0.0.0 araskargo.svetw.top
@@ -88,6 +87,7 @@
 0.0.0.0 geliridaresibaskanligi.org
 0.0.0.0 getir.kibrisciceksepetim.com
 0.0.0.0 giris-garanti.com
+0.0.0.0 giris-ziraatmobile.com
 0.0.0.0 giris.mobil-ziraat.org
 0.0.0.0 guncel-garanti.cam
 0.0.0.0 guvenlik-binance.com
@@ -97,6 +97,7 @@
 0.0.0.0 hepsiburada-bool.com.ph
 0.0.0.0 hepsiburada.alisveris-odemesepetim.com
 0.0.0.0 hepsiburada.alisveris-sepet-guvende-15.sbs
+0.0.0.0 hepsiburada.alisveris-sepeti-guvende-20.sbs
 0.0.0.0 hepsiburada.alisverisepet-islem-10.sbs
 0.0.0.0 hepsiburada.alisverisepetler-10.sbs
 0.0.0.0 hepsiburada.apps.tecof.site
@@ -281,6 +282,7 @@
 0.0.0.0 pazarama.siparislerkapida.com
 0.0.0.0 pazarama.siparislerkapimda.com
 0.0.0.0 pazaramakapinda.com
+0.0.0.0 pttkargo-app.btstaging.online
 0.0.0.0 s-sahibinden.xyz
 0.0.0.0 sa-trendyol.shop
 0.0.0.0 sahibinden-cmqvns.info
@@ -325,6 +327,7 @@
 0.0.0.0 sahibinden-paramguvende-al-get.limandeniz.site
 0.0.0.0 sahibinden-paramguvende.limandeniz.site
 0.0.0.0 sahibinden-sepet.guvendesepetimnet.shop
+0.0.0.0 sahibinden-sepet.guvendesistemnet.shop
 0.0.0.0 sahibinden-sepet.guvendesistemnet.store
 0.0.0.0 sahibinden-sepet.onlinesepetimde.shop
 0.0.0.0 sahibinden-sepet.sepetimonaycom.surf
@@ -387,6 +390,7 @@
 0.0.0.0 trendyol.13brave.online
 0.0.0.0 trendyol.alisveris-sepet-guvende-15.sbs
 0.0.0.0 trendyol.alisveris-sepet-guvende-20.sbs
+0.0.0.0 trendyol.alisveris-sepeti-guvende-20.sbs
 0.0.0.0 trendyol.alisveris-sepetinde-10.sbs
 0.0.0.0 trendyol.alisverisepet-islem-10.sbs
 0.0.0.0 trendyol.alisverisepetler-10.sbs
@@ -434,6 +438,7 @@
 0.0.0.0 turkcell-face-recognition.madde22.xyz
 0.0.0.0 turkcell.alisveris-sepet-guvende-15.sbs
 0.0.0.0 turkcell.alisveris-sepet-guvende-20.sbs
+0.0.0.0 turkcell.alisveris-sepeti-guvende-20.sbs
 0.0.0.0 turkcell.alisveris-sepetinde-10.sbs
 0.0.0.0 turkcell.alisverisepet-islem-10.sbs
 0.0.0.0 turkcell.alisverisepetler-10.sbs
@@ -461,6 +466,7 @@
 0.0.0.0 turktelekom-basvuru.vip
 0.0.0.0 turktelekom-tenis.shop
 0.0.0.0 turktelekom.alisveris-sepet-guvende-20.sbs
+0.0.0.0 turktelekom.alisveris-sepeti-guvende-20.sbs
 0.0.0.0 turktelekom.alisveris-sepetinde-10.sbs
 0.0.0.0 turktelekom.alisverisepet-islem-10.sbs
 0.0.0.0 turktelekom.guvenlialimhizmetleriniz.online
@@ -499,6 +505,7 @@
 0.0.0.0 vodafone-master.limit-cash.com
 0.0.0.0 vodafone-term.secure-reviews.com
 0.0.0.0 vodafone.alisveris-sepet-guvende-15.sbs
+0.0.0.0 vodafone.alisveris-sepeti-guvende-20.sbs
 0.0.0.0 vodafone.alisveris-sepetinde-10.sbs
 0.0.0.0 vodafone.alisverisepet-islem-10.sbs
 0.0.0.0 vodafone.alisverisepetler-10.sbs
@@ -606,6 +613,7 @@
 0.0.0.0 yapikredi.obenan.tech
 0.0.0.0 yurtici-app.btstaging.online
 0.0.0.0 yurtici-kargo.alisveris-sepet-guvende-15.sbs
+0.0.0.0 yurtici-kargo.alisveris-sepeti-guvende-20.sbs
 0.0.0.0 yurtici-kargo.alisveris-sepetinde-10.sbs
 0.0.0.0 yurtici-kargo.alisverisepet-islem-10.sbs
 0.0.0.0 yurtici-kargo.alisverisepetler-10.sbs

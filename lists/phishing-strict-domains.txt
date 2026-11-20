@@ -5,9 +5,9 @@
 #   Brand-owned domains, MISP warninglists and shared hosting platforms are excluded.
 # Homepage: https://siberkapan.org/phishing-feed
 # License: CC BY 4.0
-# Last modified: 2026-11-20T07:07:59Z
+# Last modified: 2026-11-20T20:08:28Z
 # Expires: 6 hours
-# Number of entries: 638
+# Number of entries: 646
 #
 589329-login-binance.com
 accounts.mica-login.fiscal-binance.com
@@ -16,7 +16,6 @@ akbank-trkiye.top
 akbank.obenan.tech
 api-trendyol.patai.tech
 api.mica-login.fiscal-binance.com
-araba--paribu.live
 araskargo.apps.tecof.site
 araskargo.sol.site
 araskargo.svetw.top
@@ -88,6 +87,7 @@ garantikolaydestek.cloud
 geliridaresibaskanligi.org
 getir.kibrisciceksepetim.com
 giris-garanti.com
+giris-ziraatmobile.com
 giris.mobil-ziraat.org
 guncel-garanti.cam
 guvenlik-binance.com
@@ -97,6 +97,7 @@ halkbank-ticari.kosgebkrediler.com
 hepsiburada-bool.com.ph
 hepsiburada.alisveris-odemesepetim.com
 hepsiburada.alisveris-sepet-guvende-15.sbs
+hepsiburada.alisveris-sepeti-guvende-20.sbs
 hepsiburada.alisverisepet-islem-10.sbs
 hepsiburada.alisverisepetler-10.sbs
 hepsiburada.apps.tecof.site
@@ -281,6 +282,7 @@ pazarama.siparisislemleri.com
 pazarama.siparislerkapida.com
 pazarama.siparislerkapimda.com
 pazaramakapinda.com
+pttkargo-app.btstaging.online
 s-sahibinden.xyz
 sa-trendyol.shop
 sahibinden-cmqvns.info
@@ -325,6 +327,7 @@ sahibinden-param-guvende-get-lin.limandeniz.site
 sahibinden-paramguvende-al-get.limandeniz.site
 sahibinden-paramguvende.limandeniz.site
 sahibinden-sepet.guvendesepetimnet.shop
+sahibinden-sepet.guvendesistemnet.shop
 sahibinden-sepet.guvendesistemnet.store
 sahibinden-sepet.onlinesepetimde.shop
 sahibinden-sepet.sepetimonaycom.surf
@@ -387,6 +390,7 @@ tracker-trendyol.live
 trendyol.13brave.online
 trendyol.alisveris-sepet-guvende-15.sbs
 trendyol.alisveris-sepet-guvende-20.sbs
+trendyol.alisveris-sepeti-guvende-20.sbs
 trendyol.alisveris-sepetinde-10.sbs
 trendyol.alisverisepet-islem-10.sbs
 trendyol.alisverisepetler-10.sbs
@@ -434,6 +438,7 @@ turkcell-ekranim-backoffice.madde22.xyz
 turkcell-face-recognition.madde22.xyz
 turkcell.alisveris-sepet-guvende-15.sbs
 turkcell.alisveris-sepet-guvende-20.sbs
+turkcell.alisveris-sepeti-guvende-20.sbs
 turkcell.alisveris-sepetinde-10.sbs
 turkcell.alisverisepet-islem-10.sbs
 turkcell.alisverisepetler-10.sbs
@@ -461,6 +466,7 @@ turkcellpasajmagazm.store
 turktelekom-basvuru.vip
 turktelekom-tenis.shop
 turktelekom.alisveris-sepet-guvende-20.sbs
+turktelekom.alisveris-sepeti-guvende-20.sbs
 turktelekom.alisveris-sepetinde-10.sbs
 turktelekom.alisverisepet-islem-10.sbs
 turktelekom.guvenlialimhizmetleriniz.online
@@ -499,6 +505,7 @@ vodafone-facturen.login-service.nl
 vodafone-master.limit-cash.com
 vodafone-term.secure-reviews.com
 vodafone.alisveris-sepet-guvende-15.sbs
+vodafone.alisveris-sepeti-guvende-20.sbs
 vodafone.alisveris-sepetinde-10.sbs
 vodafone.alisverisepet-islem-10.sbs
 vodafone.alisverisepetler-10.sbs
@@ -606,6 +613,7 @@ www.ziraatbank-sy.org
 yapikredi.obenan.tech
 yurtici-app.btstaging.online
 yurtici-kargo.alisveris-sepet-guvende-15.sbs
+yurtici-kargo.alisveris-sepeti-guvende-20.sbs
 yurtici-kargo.alisveris-sepetinde-10.sbs
 yurtici-kargo.alisverisepet-islem-10.sbs
 yurtici-kargo.alisverisepetler-10.sbs
