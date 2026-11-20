@@ -5,9 +5,9 @@
 #   Brand-owned domains, MISP warninglists and shared hosting platforms are excluded.
 # Homepage: https://siberkapan.org/phishing-feed
 # License: CC BY 4.0
-# Last modified: 2026-11-19T20:30:14Z
+# Last modified: 2026-11-20T07:08:00Z
 # Expires: 6 hours
-# Number of entries: 635
+# Number of entries: 638
 #
 0.0.0.0 589329-login-binance.com
 0.0.0.0 accounts.mica-login.fiscal-binance.com
@@ -94,6 +94,7 @@
 0.0.0.0 halkbank-fqsvla.rest
 0.0.0.0 halkbank-intl.com
 0.0.0.0 halkbank-ticari.kosgebkrediler.com
+0.0.0.0 hepsiburada-bool.com.ph
 0.0.0.0 hepsiburada.alisveris-odemesepetim.com
 0.0.0.0 hepsiburada.alisveris-sepet-guvende-15.sbs
 0.0.0.0 hepsiburada.alisverisepet-islem-10.sbs
@@ -127,6 +128,7 @@
 0.0.0.0 isbank.deepin.space
 0.0.0.0 isbank.obenan.tech
 0.0.0.0 isbankasi24.com
+0.0.0.0 isbanksoft.shop
 0.0.0.0 kep-hepsiburada.com
 0.0.0.0 kuveytturk-api.nightwatch.live
 0.0.0.0 kuveytturk-vision.optade.online
@@ -194,6 +196,7 @@
 0.0.0.0 paribu-site.cyou
 0.0.0.0 paribu-sitesi.cyou
 0.0.0.0 paribu-sponsorcekilisi.live
+0.0.0.0 paribu-sponsorlu-cekilis.live
 0.0.0.0 paribu-sponsorlu-cekilis.online
 0.0.0.0 paribu-sponsorlu-cekilisi.live
 0.0.0.0 paribu-sponsorlu-cekilisi.online
