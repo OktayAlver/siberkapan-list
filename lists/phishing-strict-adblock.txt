@@ -5,9 +5,9 @@
 !   Brand-owned domains, MISP warninglists and shared hosting platforms are excluded.
 ! Homepage: https://siberkapan.org/phishing-feed
 ! License: CC BY 4.0
-! Last modified: 2026-11-21T06:59:58Z
+! Last modified: 2026-11-21T19:10:10Z
 ! Expires: 6 hours
-! Number of entries: 648
+! Number of entries: 660
 !
 ||589329-login-binance.com^
 ||accounts.mica-login.fiscal-binance.com^
@@ -49,6 +49,7 @@
 ||btcturkcekilisi.co^
 ||cekilis--binance.com^
 ||cekilisbinance.com^
+||ciceksepeti-app.btstaging.online^
 ||ciceksepeti.rabaty.site^
 ||denizbank-frankfurt.de^
 ||denizbank.bonusbasvur.cfd^
@@ -99,6 +100,7 @@
 ||hepsiburada.alisveris-odemesepetim.com^
 ||hepsiburada.alisveris-sepet-guvende-15.sbs^
 ||hepsiburada.alisveris-sepeti-guvende-20.sbs^
+||hepsiburada.alisveris-sepeti-guvende-25.sbs^
 ||hepsiburada.alisverisepet-islem-10.sbs^
 ||hepsiburada.alisverisepetler-10.sbs^
 ||hepsiburada.apps.tecof.site^
@@ -260,6 +262,7 @@
 ||paribusponsorlugundacekils.online^
 ||paribusponsorluhediyekampanyalari.online^
 ||paribusponsporlucekilisi.live^
+||pazarama-app.btstaging.online^
 ||pazarama-bireysel-siparisim.com^
 ||pazarama-hemen-siparis.com^
 ||pazarama-online-siparis.com^
@@ -290,6 +293,7 @@
 ||sahibinden-cmqvns.info^
 ||sahibinden-get.alisveris-sepet-guvende-15.sbs^
 ||sahibinden-get.alisveris-sepet-guvende-20.sbs^
+||sahibinden-get.alisveris-sepeti-guvende-25.sbs^
 ||sahibinden-get.alisveris-sepetinde-10.sbs^
 ||sahibinden-get.alisverisepet-islem-10.sbs^
 ||sahibinden-get.alisverisepetler-10.sbs^
@@ -321,6 +325,7 @@
 ||sahibinden-get.siparisimhizli.com^
 ||sahibinden-get.siparisislemleri.com^
 ||sahibinden-get.x-mobil-islem-guvenceli.com^
+||sahibinden-getilan.tr-web-islemler-tr-getalisveris.online^
 ||sahibinden-getilan.tr-webalisverisler-tr-getalisveris.online^
 ||sahibinden-ilan.ileservishzmetleri.sbs^
 ||sahibinden-mobil.xyz^
@@ -393,6 +398,7 @@
 ||trendyol.alisveris-sepet-guvende-15.sbs^
 ||trendyol.alisveris-sepet-guvende-20.sbs^
 ||trendyol.alisveris-sepeti-guvende-20.sbs^
+||trendyol.alisveris-sepeti-guvende-25.sbs^
 ||trendyol.alisveris-sepetinde-10.sbs^
 ||trendyol.alisverisepet-islem-10.sbs^
 ||trendyol.alisverisepetler-10.sbs^
@@ -441,6 +447,7 @@
 ||turkcell.alisveris-sepet-guvende-15.sbs^
 ||turkcell.alisveris-sepet-guvende-20.sbs^
 ||turkcell.alisveris-sepeti-guvende-20.sbs^
+||turkcell.alisveris-sepeti-guvende-25.sbs^
 ||turkcell.alisveris-sepetinde-10.sbs^
 ||turkcell.alisverisepet-islem-10.sbs^
 ||turkcell.alisverisepetler-10.sbs^
@@ -469,6 +476,7 @@
 ||turktelekom-tenis.shop^
 ||turktelekom.alisveris-sepet-guvende-20.sbs^
 ||turktelekom.alisveris-sepeti-guvende-20.sbs^
+||turktelekom.alisveris-sepeti-guvende-25.sbs^
 ||turktelekom.alisveris-sepetinde-10.sbs^
 ||turktelekom.alisverisepet-islem-10.sbs^
 ||turktelekom.guvenlialimhizmetleriniz.online^
@@ -508,6 +516,7 @@
 ||vodafone-term.secure-reviews.com^
 ||vodafone.alisveris-sepet-guvende-15.sbs^
 ||vodafone.alisveris-sepeti-guvende-20.sbs^
+||vodafone.alisveris-sepeti-guvende-25.sbs^
 ||vodafone.alisveris-sepetinde-10.sbs^
 ||vodafone.alisverisepet-islem-10.sbs^
 ||vodafone.alisverisepetler-10.sbs^
@@ -590,7 +599,9 @@
 ||www.s-sahibinden.xyz^
 ||www.sa-trendyol.shop^
 ||www.sahibinden-get.mobilservisler-8.sbs^
+||www.sahibinden-getilan.tr-web-islemler-tr-getalisveris.online^
 ||www.sahibinden-getilan.tr-webalisverisler-tr-getalisveris.online^
+||www.sahibinden.mobil-odemesepeti822.com^
 ||www.sahibinden.mobilsepetin-tr.online^
 ||www.sahibinden.odeme-sepet-1920.com^
 ||www.secure-web3-binance.com^
@@ -616,6 +627,7 @@
 ||yurtici-app.btstaging.online^
 ||yurtici-kargo.alisveris-sepet-guvende-15.sbs^
 ||yurtici-kargo.alisveris-sepeti-guvende-20.sbs^
+||yurtici-kargo.alisveris-sepeti-guvende-25.sbs^
 ||yurtici-kargo.alisveris-sepetinde-10.sbs^
 ||yurtici-kargo.alisverisepet-islem-10.sbs^
 ||yurtici-kargo.alisverisepetler-10.sbs^

@@ -5,9 +5,9 @@
 #   Brand-owned domains, MISP warninglists and shared hosting platforms are excluded.
 # Homepage: https://siberkapan.org/phishing-feed
 # License: CC BY 4.0
-# Last modified: 2026-11-21T06:59:58Z
+# Last modified: 2026-11-21T19:10:11Z
 # Expires: 6 hours
-# Number of entries: 648
+# Number of entries: 660
 #
 0.0.0.0 589329-login-binance.com
 0.0.0.0 accounts.mica-login.fiscal-binance.com
@@ -49,6 +49,7 @@
 0.0.0.0 btcturkcekilisi.co
 0.0.0.0 cekilis--binance.com
 0.0.0.0 cekilisbinance.com
+0.0.0.0 ciceksepeti-app.btstaging.online
 0.0.0.0 ciceksepeti.rabaty.site
 0.0.0.0 denizbank-frankfurt.de
 0.0.0.0 denizbank.bonusbasvur.cfd
@@ -99,6 +100,7 @@
 0.0.0.0 hepsiburada.alisveris-odemesepetim.com
 0.0.0.0 hepsiburada.alisveris-sepet-guvende-15.sbs
 0.0.0.0 hepsiburada.alisveris-sepeti-guvende-20.sbs
+0.0.0.0 hepsiburada.alisveris-sepeti-guvende-25.sbs
 0.0.0.0 hepsiburada.alisverisepet-islem-10.sbs
 0.0.0.0 hepsiburada.alisverisepetler-10.sbs
 0.0.0.0 hepsiburada.apps.tecof.site
@@ -260,6 +262,7 @@
 0.0.0.0 paribusponsorlugundacekils.online
 0.0.0.0 paribusponsorluhediyekampanyalari.online
 0.0.0.0 paribusponsporlucekilisi.live
+0.0.0.0 pazarama-app.btstaging.online
 0.0.0.0 pazarama-bireysel-siparisim.com
 0.0.0.0 pazarama-hemen-siparis.com
 0.0.0.0 pazarama-online-siparis.com
@@ -290,6 +293,7 @@
 0.0.0.0 sahibinden-cmqvns.info
 0.0.0.0 sahibinden-get.alisveris-sepet-guvende-15.sbs
 0.0.0.0 sahibinden-get.alisveris-sepet-guvende-20.sbs
+0.0.0.0 sahibinden-get.alisveris-sepeti-guvende-25.sbs
 0.0.0.0 sahibinden-get.alisveris-sepetinde-10.sbs
 0.0.0.0 sahibinden-get.alisverisepet-islem-10.sbs
 0.0.0.0 sahibinden-get.alisverisepetler-10.sbs
@@ -321,6 +325,7 @@
 0.0.0.0 sahibinden-get.siparisimhizli.com
 0.0.0.0 sahibinden-get.siparisislemleri.com
 0.0.0.0 sahibinden-get.x-mobil-islem-guvenceli.com
+0.0.0.0 sahibinden-getilan.tr-web-islemler-tr-getalisveris.online
 0.0.0.0 sahibinden-getilan.tr-webalisverisler-tr-getalisveris.online
 0.0.0.0 sahibinden-ilan.ileservishzmetleri.sbs
 0.0.0.0 sahibinden-mobil.xyz
@@ -393,6 +398,7 @@
 0.0.0.0 trendyol.alisveris-sepet-guvende-15.sbs
 0.0.0.0 trendyol.alisveris-sepet-guvende-20.sbs
 0.0.0.0 trendyol.alisveris-sepeti-guvende-20.sbs
+0.0.0.0 trendyol.alisveris-sepeti-guvende-25.sbs
 0.0.0.0 trendyol.alisveris-sepetinde-10.sbs
 0.0.0.0 trendyol.alisverisepet-islem-10.sbs
 0.0.0.0 trendyol.alisverisepetler-10.sbs
@@ -441,6 +447,7 @@
 0.0.0.0 turkcell.alisveris-sepet-guvende-15.sbs
 0.0.0.0 turkcell.alisveris-sepet-guvende-20.sbs
 0.0.0.0 turkcell.alisveris-sepeti-guvende-20.sbs
+0.0.0.0 turkcell.alisveris-sepeti-guvende-25.sbs
 0.0.0.0 turkcell.alisveris-sepetinde-10.sbs
 0.0.0.0 turkcell.alisverisepet-islem-10.sbs
 0.0.0.0 turkcell.alisverisepetler-10.sbs
@@ -469,6 +476,7 @@
 0.0.0.0 turktelekom-tenis.shop
 0.0.0.0 turktelekom.alisveris-sepet-guvende-20.sbs
 0.0.0.0 turktelekom.alisveris-sepeti-guvende-20.sbs
+0.0.0.0 turktelekom.alisveris-sepeti-guvende-25.sbs
 0.0.0.0 turktelekom.alisveris-sepetinde-10.sbs
 0.0.0.0 turktelekom.alisverisepet-islem-10.sbs
 0.0.0.0 turktelekom.guvenlialimhizmetleriniz.online
@@ -508,6 +516,7 @@
 0.0.0.0 vodafone-term.secure-reviews.com
 0.0.0.0 vodafone.alisveris-sepet-guvende-15.sbs
 0.0.0.0 vodafone.alisveris-sepeti-guvende-20.sbs
+0.0.0.0 vodafone.alisveris-sepeti-guvende-25.sbs
 0.0.0.0 vodafone.alisveris-sepetinde-10.sbs
 0.0.0.0 vodafone.alisverisepet-islem-10.sbs
 0.0.0.0 vodafone.alisverisepetler-10.sbs
@@ -590,7 +599,9 @@
 0.0.0.0 www.s-sahibinden.xyz
 0.0.0.0 www.sa-trendyol.shop
 0.0.0.0 www.sahibinden-get.mobilservisler-8.sbs
+0.0.0.0 www.sahibinden-getilan.tr-web-islemler-tr-getalisveris.online
 0.0.0.0 www.sahibinden-getilan.tr-webalisverisler-tr-getalisveris.online
+0.0.0.0 www.sahibinden.mobil-odemesepeti822.com
 0.0.0.0 www.sahibinden.mobilsepetin-tr.online
 0.0.0.0 www.sahibinden.odeme-sepet-1920.com
 0.0.0.0 www.secure-web3-binance.com
@@ -616,6 +627,7 @@
 0.0.0.0 yurtici-app.btstaging.online
 0.0.0.0 yurtici-kargo.alisveris-sepet-guvende-15.sbs
 0.0.0.0 yurtici-kargo.alisveris-sepeti-guvende-20.sbs
+0.0.0.0 yurtici-kargo.alisveris-sepeti-guvende-25.sbs
 0.0.0.0 yurtici-kargo.alisveris-sepetinde-10.sbs
 0.0.0.0 yurtici-kargo.alisverisepet-islem-10.sbs
 0.0.0.0 yurtici-kargo.alisverisepetler-10.sbs
