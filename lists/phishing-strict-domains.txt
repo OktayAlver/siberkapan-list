@@ -5,9 +5,9 @@
 #   Brand-owned domains, MISP warninglists and shared hosting platforms are excluded.
 # Homepage: https://siberkapan.org/phishing-feed
 # License: CC BY 4.0
-# Last modified: 2026-11-20T20:08:28Z
+# Last modified: 2026-11-21T06:59:57Z
 # Expires: 6 hours
-# Number of entries: 646
+# Number of entries: 648
 #
 589329-login-binance.com
 accounts.mica-login.fiscal-binance.com
@@ -16,6 +16,7 @@ akbank-trkiye.top
 akbank.obenan.tech
 api-trendyol.patai.tech
 api.mica-login.fiscal-binance.com
+araba--paribu.live
 araskargo.apps.tecof.site
 araskargo.sol.site
 araskargo.svetw.top
@@ -125,15 +126,16 @@ hepsiburada1cdn.website
 hizli-garanti-kredi.cloud
 iletisim-yapikredi.com
 info-secure-binance.com
+ingbank-rewards.top
 ingbank.doc-share.online
 isbank.deepin.space
 isbank.obenan.tech
 isbankasi24.com
-isbanksoft.shop
 kep-hepsiburada.com
 kuveytturk-api.nightwatch.live
 kuveytturk-vision.optade.online
 kuveytturk.optade.online
+kuveytturkdestek.com
 login-binance.app
 login.abc-binance.com.cn
 login.binance-kalp.com
