@@ -5,9 +5,9 @@
 #   Brand-owned domains, MISP warninglists and shared hosting platforms are excluded.
 # Homepage: https://siberkapan.org/phishing-feed
 # License: CC BY 4.0
-# Last modified: 2026-11-21T19:10:11Z
+# Last modified: 2026-11-22T06:40:57Z
 # Expires: 6 hours
-# Number of entries: 660
+# Number of entries: 656
 #
 0.0.0.0 589329-login-binance.com
 0.0.0.0 accounts.mica-login.fiscal-binance.com
@@ -138,6 +138,7 @@
 0.0.0.0 kuveytturk-vision.optade.online
 0.0.0.0 kuveytturk.optade.online
 0.0.0.0 kuveytturkdestek.com
+0.0.0.0 lcwaikikii.shop
 0.0.0.0 login-binance.app
 0.0.0.0 login.abc-binance.com.cn
 0.0.0.0 login.binance-kalp.com
@@ -355,7 +356,6 @@
 0.0.0.0 sahibinden.ileservishizmetleri.com
 0.0.0.0 sahibinden.islem-siparisver.com
 0.0.0.0 sahibinden.muhasebedepartmani.shop
-0.0.0.0 sahibinden.odeme-sepet-1920.com
 0.0.0.0 sahibinden.onlinealisveris.live
 0.0.0.0 sahibinden.paramguvende-banaozel.sbs
 0.0.0.0 sahibinden.paranguvende-get.sbs
@@ -363,7 +363,6 @@
 0.0.0.0 sahibinden.ruhat2.online
 0.0.0.0 sahibinden.sepetimdealisveris.online
 0.0.0.0 sahibinden.sepetimdeonline.shop
-0.0.0.0 sahibinden.servishizmetleri.sbs
 0.0.0.0 sahibinden.sozlesme-islemleri-online.com
 0.0.0.0 sahibinden.vatandas-yonlendirme.online
 0.0.0.0 sahibindendestekkasko.com
@@ -431,7 +430,6 @@
 0.0.0.0 trendyol.servisepetin-10.sbs
 0.0.0.0 trendyol.servisepetin-15.sbs
 0.0.0.0 trendyol.servisepetin-20.sbs
-0.0.0.0 trendyol.servishizmetleri.sbs
 0.0.0.0 trendyol.servisinguvenli-15.sbs
 0.0.0.0 trendyol.servisinguvenli-67.sbs
 0.0.0.0 trendyol.servisinguvenli-75.sbs
@@ -543,7 +541,6 @@
 0.0.0.0 vodafone.update-hub.com
 0.0.0.0 ww-fibabanka.ph
 0.0.0.0 www.bet-garanti.setrabetresmi-giris.icu
-0.0.0.0 www.bet-paribu2025.site
 0.0.0.0 www.binance-bonus-code.com
 0.0.0.0 www.binance-secure-wallet.com
 0.0.0.0 www.binance-verify-us.com
@@ -603,7 +600,6 @@
 0.0.0.0 www.sahibinden-getilan.tr-webalisverisler-tr-getalisveris.online
 0.0.0.0 www.sahibinden.mobil-odemesepeti822.com
 0.0.0.0 www.sahibinden.mobilsepetin-tr.online
-0.0.0.0 www.sahibinden.odeme-sepet-1920.com
 0.0.0.0 www.secure-web3-binance.com
 0.0.0.0 www.seller-trendyol.shop
 0.0.0.0 www.sponsorlu-paribu.live

@@ -5,9 +5,9 @@
 #   Brand-owned domains, MISP warninglists and shared hosting platforms are excluded.
 # Homepage: https://siberkapan.org/phishing-feed
 # License: CC BY 4.0
-# Last modified: 2026-11-21T19:10:10Z
+# Last modified: 2026-11-22T06:40:56Z
 # Expires: 6 hours
-# Number of entries: 660
+# Number of entries: 656
 #
 589329-login-binance.com
 accounts.mica-login.fiscal-binance.com
@@ -138,6 +138,7 @@ kuveytturk-api.nightwatch.live
 kuveytturk-vision.optade.online
 kuveytturk.optade.online
 kuveytturkdestek.com
+lcwaikikii.shop
 login-binance.app
 login.abc-binance.com.cn
 login.binance-kalp.com
@@ -355,7 +356,6 @@ sahibinden.hemen-al-islem.sbs
 sahibinden.ileservishizmetleri.com
 sahibinden.islem-siparisver.com
 sahibinden.muhasebedepartmani.shop
-sahibinden.odeme-sepet-1920.com
 sahibinden.onlinealisveris.live
 sahibinden.paramguvende-banaozel.sbs
 sahibinden.paranguvende-get.sbs
@@ -363,7 +363,6 @@ sahibinden.paranguvende-getodeme.my
 sahibinden.ruhat2.online
 sahibinden.sepetimdealisveris.online
 sahibinden.sepetimdeonline.shop
-sahibinden.servishizmetleri.sbs
 sahibinden.sozlesme-islemleri-online.com
 sahibinden.vatandas-yonlendirme.online
 sahibindendestekkasko.com
@@ -431,7 +430,6 @@ trendyol.patai.tech
 trendyol.servisepetin-10.sbs
 trendyol.servisepetin-15.sbs
 trendyol.servisepetin-20.sbs
-trendyol.servishizmetleri.sbs
 trendyol.servisinguvenli-15.sbs
 trendyol.servisinguvenli-67.sbs
 trendyol.servisinguvenli-75.sbs
@@ -543,7 +541,6 @@ vodafone.servisinguvenli-80.sbs
 vodafone.update-hub.com
 ww-fibabanka.ph
 www.bet-garanti.setrabetresmi-giris.icu
-www.bet-paribu2025.site
 www.binance-bonus-code.com
 www.binance-secure-wallet.com
 www.binance-verify-us.com
@@ -603,7 +600,6 @@ www.sahibinden-getilan.tr-web-islemler-tr-getalisveris.online
 www.sahibinden-getilan.tr-webalisverisler-tr-getalisveris.online
 www.sahibinden.mobil-odemesepeti822.com
 www.sahibinden.mobilsepetin-tr.online
-www.sahibinden.odeme-sepet-1920.com
 www.secure-web3-binance.com
 www.seller-trendyol.shop
 www.sponsorlu-paribu.live
