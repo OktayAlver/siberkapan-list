@@ -5,7 +5,7 @@
 #   Brand-owned domains, MISP warninglists and shared hosting platforms are excluded.
 # Homepage: https://siberkapan.org/phishing-feed
 # License: CC BY 4.0
-# Last modified: 2026-11-22T06:40:57Z
+# Last modified: 2026-11-22T19:32:16Z
 # Expires: 6 hours
 # Number of entries: 656
 #
@@ -67,6 +67,7 @@
 0.0.0.0 garanti-finans-basvuru.cloud
 0.0.0.0 garanti-finansal-destek.cloud
 0.0.0.0 garanti-hesap-uzmani.cloud
+0.0.0.0 garanti-hesap.izzetwaterson.poke.site
 0.0.0.0 garanti-kredi-basvurusu.cloud
 0.0.0.0 garanti-nakit-destek.cloud
 0.0.0.0 garanti-odeme-destegi.cloud
@@ -154,7 +155,6 @@
 0.0.0.0 loginbinance-tr.online
 0.0.0.0 mail.halkbank-intl.com
 0.0.0.0 mail.hepsiburada.cyon.site
-0.0.0.0 maliye-ingbank.ph
 0.0.0.0 mhrs-art.fun
 0.0.0.0 mhrs-frager.sbs
 0.0.0.0 mhrs-gecelrburas.sbs
