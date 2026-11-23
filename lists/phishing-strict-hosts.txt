@@ -5,7 +5,7 @@
 #   Brand-owned domains, MISP warninglists and shared hosting platforms are excluded.
 # Homepage: https://siberkapan.org/phishing-feed
 # License: CC BY 4.0
-# Last modified: 2026-11-22T19:32:16Z
+# Last modified: 2026-11-23T07:29:15Z
 # Expires: 6 hours
 # Number of entries: 656
 #
@@ -353,6 +353,7 @@
 0.0.0.0 sahibinden.guvenliodemeget.online
 0.0.0.0 sahibinden.gvnliodemeniz.com
 0.0.0.0 sahibinden.hemen-al-islem.sbs
+0.0.0.0 sahibinden.ilan-siparishzmetleri.sbs
 0.0.0.0 sahibinden.ileservishizmetleri.com
 0.0.0.0 sahibinden.islem-siparisver.com
 0.0.0.0 sahibinden.muhasebedepartmani.shop
@@ -620,7 +621,6 @@
 0.0.0.0 www.ziraatbank-sy.com
 0.0.0.0 www.ziraatbank-sy.org
 0.0.0.0 yapikredi.obenan.tech
-0.0.0.0 yurtici-app.btstaging.online
 0.0.0.0 yurtici-kargo.alisveris-sepet-guvende-15.sbs
 0.0.0.0 yurtici-kargo.alisveris-sepeti-guvende-20.sbs
 0.0.0.0 yurtici-kargo.alisveris-sepeti-guvende-25.sbs
