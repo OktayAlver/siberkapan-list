@@ -5,9 +5,9 @@
 #   Brand-owned domains, MISP warninglists and shared hosting platforms are excluded.
 # Homepage: https://siberkapan.org/phishing-feed
 # License: CC BY 4.0
-# Last modified: 2026-11-23T07:29:15Z
+# Last modified: 2026-11-23T23:49:45Z
 # Expires: 6 hours
-# Number of entries: 656
+# Number of entries: 657
 #
 0.0.0.0 589329-login-binance.com
 0.0.0.0 accounts.mica-login.fiscal-binance.com
@@ -47,9 +47,9 @@
 0.0.0.0 btcturk-cekilisi.com
 0.0.0.0 btcturk.mixapi.store
 0.0.0.0 btcturkcekilisi.co
+0.0.0.0 c.btcturk-cekilis.co
 0.0.0.0 cekilis--binance.com
 0.0.0.0 cekilisbinance.com
-0.0.0.0 ciceksepeti-app.btstaging.online
 0.0.0.0 ciceksepeti.rabaty.site
 0.0.0.0 denizbank-frankfurt.de
 0.0.0.0 denizbank.bonusbasvur.cfd
@@ -263,7 +263,7 @@
 0.0.0.0 paribusponsorlugundacekils.online
 0.0.0.0 paribusponsorluhediyekampanyalari.online
 0.0.0.0 paribusponsporlucekilisi.live
-0.0.0.0 pazarama-app.btstaging.online
+0.0.0.0 pazarama-app.btstaging.site
 0.0.0.0 pazarama-bireysel-siparisim.com
 0.0.0.0 pazarama-hemen-siparis.com
 0.0.0.0 pazarama-online-siparis.com
@@ -288,7 +288,7 @@
 0.0.0.0 pazarama.siparislerkapida.com
 0.0.0.0 pazarama.siparislerkapimda.com
 0.0.0.0 pazaramakapinda.com
-0.0.0.0 pttkargo-app.btstaging.online
+0.0.0.0 pttkargo-app.btstaging.site
 0.0.0.0 s-sahibinden.xyz
 0.0.0.0 sa-trendyol.shop
 0.0.0.0 sahibinden-cmqvns.info
@@ -347,6 +347,7 @@
 0.0.0.0 sahibinden-verification.cfd
 0.0.0.0 sahibinden-verification.sbs
 0.0.0.0 sahibinden.get-guvenliodeme.online
+0.0.0.0 sahibinden.guvende-secure.xyz
 0.0.0.0 sahibinden.guvendealimlarimiz.com
 0.0.0.0 sahibinden.guvenli-odemeler.online
 0.0.0.0 sahibinden.guvenliodeme-get.online
@@ -376,7 +377,6 @@
 0.0.0.0 sahibindensigorta.click
 0.0.0.0 sahibindensigorta.quest
 0.0.0.0 secure-vault-binance.com
-0.0.0.0 secure-wallet-binance.com
 0.0.0.0 secure-web3-binance.com
 0.0.0.0 secure.prix-garanti.com
 0.0.0.0 secure.vodafone-dsl-flat.de
@@ -540,7 +540,6 @@
 0.0.0.0 vodafone.servisinguvenli-75.sbs
 0.0.0.0 vodafone.servisinguvenli-80.sbs
 0.0.0.0 vodafone.update-hub.com
-0.0.0.0 ww-fibabanka.ph
 0.0.0.0 www.bet-garanti.setrabetresmi-giris.icu
 0.0.0.0 www.binance-bonus-code.com
 0.0.0.0 www.binance-secure-wallet.com
@@ -611,6 +610,7 @@
 0.0.0.0 www.turktelekom-basvuru.vip
 0.0.0.0 www.turktelekom-tenis.shop
 0.0.0.0 www.vakifbank-ticari.kosgebkrediler.com
+0.0.0.0 www.vakifbank-tr.com
 0.0.0.0 www.vodafone-master.limit-cash.com
 0.0.0.0 www.ware-trendyol.shop
 0.0.0.0 www.wms-trendyol.shop
@@ -621,6 +621,7 @@
 0.0.0.0 www.ziraatbank-sy.com
 0.0.0.0 www.ziraatbank-sy.org
 0.0.0.0 yapikredi.obenan.tech
+0.0.0.0 yurtici-app.btstaging.site
 0.0.0.0 yurtici-kargo.alisveris-sepet-guvende-15.sbs
 0.0.0.0 yurtici-kargo.alisveris-sepeti-guvende-20.sbs
 0.0.0.0 yurtici-kargo.alisveris-sepeti-guvende-25.sbs

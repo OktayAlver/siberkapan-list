@@ -5,9 +5,9 @@
 #   Brand-owned domains, MISP warninglists and shared hosting platforms are excluded.
 # Homepage: https://siberkapan.org/phishing-feed
 # License: CC BY 4.0
-# Last modified: 2026-11-23T07:29:14Z
+# Last modified: 2026-11-23T23:49:43Z
 # Expires: 6 hours
-# Number of entries: 656
+# Number of entries: 657
 #
 589329-login-binance.com
 accounts.mica-login.fiscal-binance.com
@@ -47,9 +47,9 @@ btcturk-cekilis.co
 btcturk-cekilisi.com
 btcturk.mixapi.store
 btcturkcekilisi.co
+c.btcturk-cekilis.co
 cekilis--binance.com
 cekilisbinance.com
-ciceksepeti-app.btstaging.online
 ciceksepeti.rabaty.site
 denizbank-frankfurt.de
 denizbank.bonusbasvur.cfd
@@ -263,7 +263,7 @@ paribusponsorlugundacekilisim.online
 paribusponsorlugundacekils.online
 paribusponsorluhediyekampanyalari.online
 paribusponsporlucekilisi.live
-pazarama-app.btstaging.online
+pazarama-app.btstaging.site
 pazarama-bireysel-siparisim.com
 pazarama-hemen-siparis.com
 pazarama-online-siparis.com
@@ -288,7 +288,7 @@ pazarama.siparisislemleri.com
 pazarama.siparislerkapida.com
 pazarama.siparislerkapimda.com
 pazaramakapinda.com
-pttkargo-app.btstaging.online
+pttkargo-app.btstaging.site
 s-sahibinden.xyz
 sa-trendyol.shop
 sahibinden-cmqvns.info
@@ -347,6 +347,7 @@ sahibinden-siparis.guvendesepetim.online
 sahibinden-verification.cfd
 sahibinden-verification.sbs
 sahibinden.get-guvenliodeme.online
+sahibinden.guvende-secure.xyz
 sahibinden.guvendealimlarimiz.com
 sahibinden.guvenli-odemeler.online
 sahibinden.guvenliodeme-get.online
@@ -376,7 +377,6 @@ sahibindensatis.xyz
 sahibindensigorta.click
 sahibindensigorta.quest
 secure-vault-binance.com
-secure-wallet-binance.com
 secure-web3-binance.com
 secure.prix-garanti.com
 secure.vodafone-dsl-flat.de
@@ -540,7 +540,6 @@ vodafone.servisinguvenli-67.sbs
 vodafone.servisinguvenli-75.sbs
 vodafone.servisinguvenli-80.sbs
 vodafone.update-hub.com
-ww-fibabanka.ph
 www.bet-garanti.setrabetresmi-giris.icu
 www.binance-bonus-code.com
 www.binance-secure-wallet.com
@@ -611,6 +610,7 @@ www.trendyol.wefood.info
 www.turktelekom-basvuru.vip
 www.turktelekom-tenis.shop
 www.vakifbank-ticari.kosgebkrediler.com
+www.vakifbank-tr.com
 www.vodafone-master.limit-cash.com
 www.ware-trendyol.shop
 www.wms-trendyol.shop
@@ -621,6 +621,7 @@ www.ziraatbank-sa.com
 www.ziraatbank-sy.com
 www.ziraatbank-sy.org
 yapikredi.obenan.tech
+yurtici-app.btstaging.site
 yurtici-kargo.alisveris-sepet-guvende-15.sbs
 yurtici-kargo.alisveris-sepeti-guvende-20.sbs
 yurtici-kargo.alisveris-sepeti-guvende-25.sbs
