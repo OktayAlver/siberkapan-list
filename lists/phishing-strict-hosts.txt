@@ -5,9 +5,9 @@
 #   Brand-owned domains, MISP warninglists and shared hosting platforms are excluded.
 # Homepage: https://siberkapan.org/phishing-feed
 # License: CC BY 4.0
-# Last modified: 2026-11-24T09:49:14Z
+# Last modified: 2026-11-24T22:21:56Z
 # Expires: 6 hours
-# Number of entries: 656
+# Number of entries: 666
 #
 0.0.0.0 589329-login-binance.com
 0.0.0.0 accounts.mica-login.fiscal-binance.com
@@ -102,6 +102,8 @@
 0.0.0.0 hepsiburada.alisveris-sepet-guvende-15.sbs
 0.0.0.0 hepsiburada.alisveris-sepeti-guvende-20.sbs
 0.0.0.0 hepsiburada.alisveris-sepeti-guvende-25.sbs
+0.0.0.0 hepsiburada.alisveris-sepeti-guvende-30.sbs
+0.0.0.0 hepsiburada.alisveris-sepeti-guvende-35.sbs
 0.0.0.0 hepsiburada.alisverisepet-islem-10.sbs
 0.0.0.0 hepsiburada.alisverisepetler-10.sbs
 0.0.0.0 hepsiburada.apps.tecof.site
@@ -129,7 +131,6 @@
 0.0.0.0 hizli-garanti-kredi.cloud
 0.0.0.0 iletisim-yapikredi.com
 0.0.0.0 info-secure-binance.com
-0.0.0.0 ingbank-rewards.top
 0.0.0.0 ingbank.doc-share.online
 0.0.0.0 isbank.deepin.space
 0.0.0.0 isbank.obenan.tech
@@ -295,6 +296,7 @@
 0.0.0.0 sahibinden-get.alisveris-sepet-guvende-15.sbs
 0.0.0.0 sahibinden-get.alisveris-sepet-guvende-20.sbs
 0.0.0.0 sahibinden-get.alisveris-sepeti-guvende-25.sbs
+0.0.0.0 sahibinden-get.alisveris-sepeti-guvende-30.sbs
 0.0.0.0 sahibinden-get.alisveris-sepetinde-10.sbs
 0.0.0.0 sahibinden-get.alisverisepet-islem-10.sbs
 0.0.0.0 sahibinden-get.alisverisepetler-10.sbs
@@ -399,6 +401,7 @@
 0.0.0.0 trendyol.alisveris-sepet-guvende-20.sbs
 0.0.0.0 trendyol.alisveris-sepeti-guvende-20.sbs
 0.0.0.0 trendyol.alisveris-sepeti-guvende-25.sbs
+0.0.0.0 trendyol.alisveris-sepeti-guvende-35.sbs
 0.0.0.0 trendyol.alisveris-sepetinde-10.sbs
 0.0.0.0 trendyol.alisverisepet-islem-10.sbs
 0.0.0.0 trendyol.alisverisepetler-10.sbs
@@ -425,6 +428,7 @@
 0.0.0.0 trendyol.islemsepetler-15.sbs
 0.0.0.0 trendyol.islemsepetler-20.sbs
 0.0.0.0 trendyol.islemsepetler-25.sbs
+0.0.0.0 trendyol.kargo-takip.site
 0.0.0.0 trendyol.ladyistanbul.shop
 0.0.0.0 trendyol.onlinealisveris.live
 0.0.0.0 trendyol.patai.tech
@@ -447,6 +451,8 @@
 0.0.0.0 turkcell.alisveris-sepet-guvende-20.sbs
 0.0.0.0 turkcell.alisveris-sepeti-guvende-20.sbs
 0.0.0.0 turkcell.alisveris-sepeti-guvende-25.sbs
+0.0.0.0 turkcell.alisveris-sepeti-guvende-30.sbs
+0.0.0.0 turkcell.alisveris-sepeti-guvende-35.sbs
 0.0.0.0 turkcell.alisveris-sepetinde-10.sbs
 0.0.0.0 turkcell.alisverisepet-islem-10.sbs
 0.0.0.0 turkcell.alisverisepetler-10.sbs
@@ -476,6 +482,7 @@
 0.0.0.0 turktelekom.alisveris-sepet-guvende-20.sbs
 0.0.0.0 turktelekom.alisveris-sepeti-guvende-20.sbs
 0.0.0.0 turktelekom.alisveris-sepeti-guvende-25.sbs
+0.0.0.0 turktelekom.alisveris-sepeti-guvende-35.sbs
 0.0.0.0 turktelekom.alisveris-sepetinde-10.sbs
 0.0.0.0 turktelekom.alisverisepet-islem-10.sbs
 0.0.0.0 turktelekom.guvenlialimhizmetleriniz.online
@@ -515,6 +522,8 @@
 0.0.0.0 vodafone.alisveris-sepet-guvende-15.sbs
 0.0.0.0 vodafone.alisveris-sepeti-guvende-20.sbs
 0.0.0.0 vodafone.alisveris-sepeti-guvende-25.sbs
+0.0.0.0 vodafone.alisveris-sepeti-guvende-30.sbs
+0.0.0.0 vodafone.alisveris-sepeti-guvende-35.sbs
 0.0.0.0 vodafone.alisveris-sepetinde-10.sbs
 0.0.0.0 vodafone.alisverisepet-islem-10.sbs
 0.0.0.0 vodafone.alisverisepetler-10.sbs
@@ -543,7 +552,6 @@
 0.0.0.0 www.binance-bonus-code.com
 0.0.0.0 www.binance-secure-wallet.com
 0.0.0.0 www.binance-verify-us.com
-0.0.0.0 www.confirm-22e3f8c0-1b2a-4d5e-9f3a-8b6c7d9e0f1a-binance.su-en.sbs
 0.0.0.0 www.denizbank-frankfurt.de
 0.0.0.0 www.en.garantibbva4all.ro
 0.0.0.0 www.garantibbva-kredi-firsati2.cloud
@@ -624,6 +632,8 @@
 0.0.0.0 yurtici-kargo.alisveris-sepet-guvende-15.sbs
 0.0.0.0 yurtici-kargo.alisveris-sepeti-guvende-20.sbs
 0.0.0.0 yurtici-kargo.alisveris-sepeti-guvende-25.sbs
+0.0.0.0 yurtici-kargo.alisveris-sepeti-guvende-30.sbs
+0.0.0.0 yurtici-kargo.alisveris-sepeti-guvende-35.sbs
 0.0.0.0 yurtici-kargo.alisveris-sepetinde-10.sbs
 0.0.0.0 yurtici-kargo.alisverisepet-islem-10.sbs
 0.0.0.0 yurtici-kargo.alisverisepetler-10.sbs
