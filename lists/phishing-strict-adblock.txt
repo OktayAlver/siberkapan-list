@@ -5,9 +5,9 @@
 !   Brand-owned domains, MISP warninglists and shared hosting platforms are excluded.
 ! Homepage: https://siberkapan.org/phishing-feed
 ! License: CC BY 4.0
-! Last modified: 2026-11-23T23:49:44Z
+! Last modified: 2026-11-24T09:49:14Z
 ! Expires: 6 hours
-! Number of entries: 657
+! Number of entries: 656
 !
 ||589329-login-binance.com^
 ||accounts.mica-login.fiscal-binance.com^
@@ -507,7 +507,6 @@
 ||vakifbank-tr.net^
 ||verify-binance.com^
 ||verify-binance.us^
-||verify.binance-reverify.com^
 ||verify.vodafone-topangebote.com^
 ||verify.vodafone-topangebote.net^
 ||vodafone-facturen.login-service.nl^
