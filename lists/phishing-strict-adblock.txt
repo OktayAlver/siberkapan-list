@@ -5,9 +5,9 @@
 !   Brand-owned domains, MISP warninglists and shared hosting platforms are excluded.
 ! Homepage: https://siberkapan.org/phishing-feed
 ! License: CC BY 4.0
-! Last modified: 2026-11-25T08:25:03Z
+! Last modified: 2026-11-25T21:38:17Z
 ! Expires: 6 hours
-! Number of entries: 666
+! Number of entries: 667
 !
 ||589329-login-binance.com^
 ||accounts.mica-login.fiscal-binance.com^
@@ -136,6 +136,7 @@
 ||isbank.obenan.tech^
 ||isbankasi24.com^
 ||kep-hepsiburada.com^
+||kurumsal-ziraatbank.com^
 ||kuveytturk-api.nightwatch.live^
 ||kuveytturk-vision.optade.online^
 ||kuveytturk.optade.online^
@@ -145,6 +146,7 @@
 ||login.abc-binance.com.cn^
 ||login.binance-kalp.com^
 ||login.binance-logins.com^
+||login.binance3.com^
 ||login.k-binance.com.cn^
 ||login.oop-binance.com.cn^
 ||login.ppq-binance.com.cn^
@@ -349,7 +351,6 @@
 ||sahibinden-verification.cfd^
 ||sahibinden-verification.sbs^
 ||sahibinden.get-guvenliodeme.online^
-||sahibinden.guvende-secure.xyz^
 ||sahibinden.guvendealimlarimiz.com^
 ||sahibinden.guvenli-odemeler.online^
 ||sahibinden.guvenliodeme-get.online^
@@ -361,6 +362,7 @@
 ||sahibinden.islem-siparisver.com^
 ||sahibinden.muhasebedepartmani.shop^
 ||sahibinden.onlinealisveris.live^
+||sahibinden.param-guvende-secured.com^
 ||sahibinden.paramguvende-banaozel.sbs^
 ||sahibinden.paranguvende-get.sbs^
 ||sahibinden.paranguvende-getodeme.my^
@@ -368,12 +370,10 @@
 ||sahibinden.sepetimdealisveris.online^
 ||sahibinden.sepetimdeonline.shop^
 ||sahibinden.sozlesme-islemleri-online.com^
-||sahibinden.vatandas-yonlendirme.online^
 ||sahibindendestekkasko.com^
 ||sahibindenguvenli.click^
 ||sahibindenkargo.click^
 ||sahibindenkaskodestek.com^
-||sahibindensatici.live^
 ||sahibindensatis.live^
 ||sahibindensatis.xyz^
 ||sahibindensigorta.click^
@@ -566,6 +566,7 @@
 ||www.info-secure-binance.com^
 ||www.internetbireysel-sube-acikdenizv2denizbank.com^
 ||www.isbankasi24.com^
+||www.kurumsal-ziraatbank.com^
 ||www.mhrs-art.fun^
 ||www.mobilsube-akbank.xyz^
 ||www.odeme-btcturk.com^

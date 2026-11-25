@@ -5,9 +5,9 @@
 #   Brand-owned domains, MISP warninglists and shared hosting platforms are excluded.
 # Homepage: https://siberkapan.org/phishing-feed
 # License: CC BY 4.0
-# Last modified: 2026-11-25T08:25:03Z
+# Last modified: 2026-11-25T21:38:17Z
 # Expires: 6 hours
-# Number of entries: 666
+# Number of entries: 667
 #
 0.0.0.0 589329-login-binance.com
 0.0.0.0 accounts.mica-login.fiscal-binance.com
@@ -136,6 +136,7 @@
 0.0.0.0 isbank.obenan.tech
 0.0.0.0 isbankasi24.com
 0.0.0.0 kep-hepsiburada.com
+0.0.0.0 kurumsal-ziraatbank.com
 0.0.0.0 kuveytturk-api.nightwatch.live
 0.0.0.0 kuveytturk-vision.optade.online
 0.0.0.0 kuveytturk.optade.online
@@ -145,6 +146,7 @@
 0.0.0.0 login.abc-binance.com.cn
 0.0.0.0 login.binance-kalp.com
 0.0.0.0 login.binance-logins.com
+0.0.0.0 login.binance3.com
 0.0.0.0 login.k-binance.com.cn
 0.0.0.0 login.oop-binance.com.cn
 0.0.0.0 login.ppq-binance.com.cn
@@ -349,7 +351,6 @@
 0.0.0.0 sahibinden-verification.cfd
 0.0.0.0 sahibinden-verification.sbs
 0.0.0.0 sahibinden.get-guvenliodeme.online
-0.0.0.0 sahibinden.guvende-secure.xyz
 0.0.0.0 sahibinden.guvendealimlarimiz.com
 0.0.0.0 sahibinden.guvenli-odemeler.online
 0.0.0.0 sahibinden.guvenliodeme-get.online
@@ -361,6 +362,7 @@
 0.0.0.0 sahibinden.islem-siparisver.com
 0.0.0.0 sahibinden.muhasebedepartmani.shop
 0.0.0.0 sahibinden.onlinealisveris.live
+0.0.0.0 sahibinden.param-guvende-secured.com
 0.0.0.0 sahibinden.paramguvende-banaozel.sbs
 0.0.0.0 sahibinden.paranguvende-get.sbs
 0.0.0.0 sahibinden.paranguvende-getodeme.my
@@ -368,12 +370,10 @@
 0.0.0.0 sahibinden.sepetimdealisveris.online
 0.0.0.0 sahibinden.sepetimdeonline.shop
 0.0.0.0 sahibinden.sozlesme-islemleri-online.com
-0.0.0.0 sahibinden.vatandas-yonlendirme.online
 0.0.0.0 sahibindendestekkasko.com
 0.0.0.0 sahibindenguvenli.click
 0.0.0.0 sahibindenkargo.click
 0.0.0.0 sahibindenkaskodestek.com
-0.0.0.0 sahibindensatici.live
 0.0.0.0 sahibindensatis.live
 0.0.0.0 sahibindensatis.xyz
 0.0.0.0 sahibindensigorta.click
@@ -566,6 +566,7 @@
 0.0.0.0 www.info-secure-binance.com
 0.0.0.0 www.internetbireysel-sube-acikdenizv2denizbank.com
 0.0.0.0 www.isbankasi24.com
+0.0.0.0 www.kurumsal-ziraatbank.com
 0.0.0.0 www.mhrs-art.fun
 0.0.0.0 www.mobilsube-akbank.xyz
 0.0.0.0 www.odeme-btcturk.com
