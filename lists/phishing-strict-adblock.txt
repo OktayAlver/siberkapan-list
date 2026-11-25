@@ -5,7 +5,7 @@
 !   Brand-owned domains, MISP warninglists and shared hosting platforms are excluded.
 ! Homepage: https://siberkapan.org/phishing-feed
 ! License: CC BY 4.0
-! Last modified: 2026-11-24T22:21:55Z
+! Last modified: 2026-11-25T08:25:03Z
 ! Expires: 6 hours
 ! Number of entries: 666
 !
