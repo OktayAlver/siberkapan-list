@@ -5,9 +5,9 @@
 #   Brand-owned domains, MISP warninglists and shared hosting platforms are excluded.
 # Homepage: https://siberkapan.org/phishing-feed
 # License: CC BY 4.0
-# Last modified: 2026-11-26T08:10:22Z
+# Last modified: 2026-11-26T21:17:53Z
 # Expires: 6 hours
-# Number of entries: 669
+# Number of entries: 666
 #
 589329-login-binance.com
 accounts.mica-login.fiscal-binance.com
@@ -91,13 +91,11 @@ geliridaresibaskanligi.org
 getir.kibrisciceksepetim.com
 giris-garanti.com
 giris-ziraatmobile.com
-giris.mobil-ziraat.org
 guncel-garanti.cam
 guvenlik-binance.com
 halkbank-fqsvla.rest
 halkbank-intl.com
 halkbank-ticari.kosgebkrediler.com
-hepsiburada-bool.com.ph
 hepsiburada.alisveris-odemesepetim.com
 hepsiburada.alisveris-sepet-guvende-15.sbs
 hepsiburada.alisveris-sepeti-guvende-20.sbs
@@ -140,7 +138,6 @@ kurumsal-ziraatbank.com
 kuveytturk-api.nightwatch.live
 kuveytturk-vision.optade.online
 kuveytturk.optade.online
-kuveytturkdestek.com
 lcwaikikii.shop
 login-binance.app
 login.abc-binance.com.cn
@@ -164,7 +161,6 @@ mhrs-gecelrburas.sbs
 mhrs-onlinerndvu.sbs
 mhrs-poliklinik-randevu.cfd
 mhrs-yenidenoo.sbs
-mobil-ziraat.org
 mobilpapara.app
 mta-sts.halkbank-intl.com
 odeme-btcturk.com
@@ -582,6 +578,7 @@ www.paribu-cekilislerim.live
 www.paribu-destek.org
 www.paribu-pepe-cekilis.info
 www.paribu-pepecekilis.info
+www.paribu-pepecekilisim.info
 www.paribu-pepecekilisin.info
 www.paribu-sponsorcekilisi.live
 www.paribu-sponsorlu-cekilis.live
