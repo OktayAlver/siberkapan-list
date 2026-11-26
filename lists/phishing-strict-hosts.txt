@@ -5,9 +5,9 @@
 #   Brand-owned domains, MISP warninglists and shared hosting platforms are excluded.
 # Homepage: https://siberkapan.org/phishing-feed
 # License: CC BY 4.0
-# Last modified: 2026-11-25T21:38:17Z
+# Last modified: 2026-11-26T08:10:22Z
 # Expires: 6 hours
-# Number of entries: 667
+# Number of entries: 669
 #
 0.0.0.0 589329-login-binance.com
 0.0.0.0 accounts.mica-login.fiscal-binance.com
@@ -374,6 +374,7 @@
 0.0.0.0 sahibindenguvenli.click
 0.0.0.0 sahibindenkargo.click
 0.0.0.0 sahibindenkaskodestek.com
+0.0.0.0 sahibindensatici.live
 0.0.0.0 sahibindensatis.live
 0.0.0.0 sahibindensatis.xyz
 0.0.0.0 sahibindensigorta.click
@@ -465,6 +466,7 @@
 0.0.0.0 turkcell.islemlerinmobil-12.sbs
 0.0.0.0 turkcell.islemlerinmobil-13.sbs
 0.0.0.0 turkcell.islemlerinmobil-14.sbs
+0.0.0.0 turkcell.islemlerinmobil-15.sbs
 0.0.0.0 turkcell.islemlerinmobil-17.sbs
 0.0.0.0 turkcell.islemsepetler-15.sbs
 0.0.0.0 turkcell.islemsepetler-20.sbs
