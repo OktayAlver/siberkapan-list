@@ -5,9 +5,9 @@
 #   Brand-owned domains, MISP warninglists and shared hosting platforms are excluded.
 # Homepage: https://siberkapan.org/phishing-feed
 # License: CC BY 4.0
-# Last modified: 2026-11-27T08:21:11Z
+# Last modified: 2026-11-27T21:11:34Z
 # Expires: 6 hours
-# Number of entries: 675
+# Number of entries: 680
 #
 0.0.0.0 589329-login-binance.com
 0.0.0.0 accounts.mica-login.fiscal-binance.com
@@ -56,6 +56,7 @@
 0.0.0.0 denizbank-frankfurt.de
 0.0.0.0 denizbank.bonusbasvur.cfd
 0.0.0.0 denizbank.turkiyecep.cfd
+0.0.0.0 destek-binance.com
 0.0.0.0 dev.brm-denizbank-api.linktera.xyz
 0.0.0.0 dev.brm-denizbank.linktera.xyz
 0.0.0.0 edevlet-ai.com
@@ -110,6 +111,7 @@
 0.0.0.0 hepsiburada.apps.tecof.site
 0.0.0.0 hepsiburada.cyon.site
 0.0.0.0 hepsiburada.e-hizmetler-35.sbs
+0.0.0.0 hepsiburada.e-hizmetler-40.sbs
 0.0.0.0 hepsiburada.islemlerin-sepet-10.sbs
 0.0.0.0 hepsiburada.islemlerin-sepet-15.sbs
 0.0.0.0 hepsiburada.islemlerin-sepet-25.sbs
@@ -304,6 +306,7 @@
 0.0.0.0 sahibinden-get.alisverisepetler-10.sbs
 0.0.0.0 sahibinden-get.bireyselonlineservisler.com
 0.0.0.0 sahibinden-get.e-hizmetler-35.sbs
+0.0.0.0 sahibinden-get.e-hizmetler-40.sbs
 0.0.0.0 sahibinden-get.hementeslimatlar.com
 0.0.0.0 sahibinden-get.hizlikargolama.com
 0.0.0.0 sahibinden-get.islemlerin-sepet-10.sbs
@@ -371,11 +374,9 @@
 0.0.0.0 sahibinden.sepetimdealisveris.online
 0.0.0.0 sahibinden.sepetimdeonline.shop
 0.0.0.0 sahibinden.sozlesme-islemleri-online.com
-0.0.0.0 sahibindendestekkasko.com
 0.0.0.0 sahibindenguvenli.click
 0.0.0.0 sahibindenkargo.click
 0.0.0.0 sahibindenkaskodestek.com
-0.0.0.0 sahibindensatici.live
 0.0.0.0 sahibindensatis.live
 0.0.0.0 sahibindensatis.xyz
 0.0.0.0 sahibindensigorta.click
@@ -410,6 +411,7 @@
 0.0.0.0 trendyol.apps.tecof.site
 0.0.0.0 trendyol.bilgi.sbs
 0.0.0.0 trendyol.e-hizmetler-35.sbs
+0.0.0.0 trendyol.e-hizmetler-40.sbs
 0.0.0.0 trendyol.guvendealisveris.shop
 0.0.0.0 trendyol.guvendesiparis.online
 0.0.0.0 trendyol.guvenlihizmet.shop
@@ -460,6 +462,7 @@
 0.0.0.0 turkcell.alisverisepet-islem-10.sbs
 0.0.0.0 turkcell.alisverisepetler-10.sbs
 0.0.0.0 turkcell.e-hizmetler-35.sbs
+0.0.0.0 turkcell.e-hizmetler-40.sbs
 0.0.0.0 turkcell.imperum.online
 0.0.0.0 turkcell.islemlerin-sepet-10.sbs
 0.0.0.0 turkcell.islemlerin-sepet-15.sbs
@@ -491,6 +494,7 @@
 0.0.0.0 turktelekom.alisveris-sepetinde-10.sbs
 0.0.0.0 turktelekom.alisverisepet-islem-10.sbs
 0.0.0.0 turktelekom.e-hizmetler-35.sbs
+0.0.0.0 turktelekom.e-hizmetler-40.sbs
 0.0.0.0 turktelekom.guvenlialimhizmetleriniz.online
 0.0.0.0 turktelekom.islemlerin-sepet-10.sbs
 0.0.0.0 turktelekom.islemlerin-sepet-15.sbs
@@ -646,6 +650,7 @@
 0.0.0.0 yurtici-kargo.alisverisepet-islem-10.sbs
 0.0.0.0 yurtici-kargo.alisverisepetler-10.sbs
 0.0.0.0 yurtici-kargo.e-hizmetler-35.sbs
+0.0.0.0 yurtici-kargo.e-hizmetler-40.sbs
 0.0.0.0 yurtici-kargo.islemlerin-sepet-10.sbs
 0.0.0.0 yurtici-kargo.islemlerin-sepet-15.sbs
 0.0.0.0 yurtici-kargo.islemlerin-sepet-25.sbs
