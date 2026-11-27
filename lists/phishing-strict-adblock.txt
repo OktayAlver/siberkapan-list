@@ -5,9 +5,9 @@
 !   Brand-owned domains, MISP warninglists and shared hosting platforms are excluded.
 ! Homepage: https://siberkapan.org/phishing-feed
 ! License: CC BY 4.0
-! Last modified: 2026-11-26T21:27:10Z
+! Last modified: 2026-11-27T08:21:11Z
 ! Expires: 6 hours
-! Number of entries: 671
+! Number of entries: 675
 !
 ||589329-login-binance.com^
 ||accounts.mica-login.fiscal-binance.com^
@@ -20,6 +20,8 @@
 ||araskargo.apps.tecof.site^
 ||araskargo.sol.site^
 ||araskargo.svetw.top^
+||autoconfig.destek-binance.com^
+||autodiscover.destek-binance.com^
 ||ay4-yurtici.yarisma.online^
 ||bet-garanti.betpas-toplu-giris.icu^
 ||bet-garanti.resmi-giris.cam^
@@ -96,6 +98,7 @@
 ||halkbank-fqsvla.rest^
 ||halkbank-intl.com^
 ||halkbank-ticari.kosgebkrediler.com^
+||hepsiburada-bool.com.ph^
 ||hepsiburada.alisveris-odemesepetim.com^
 ||hepsiburada.alisveris-sepet-guvende-15.sbs^
 ||hepsiburada.alisveris-sepeti-guvende-20.sbs^
@@ -406,6 +409,7 @@
 ||trendyol.alisverisepetler-10.sbs^
 ||trendyol.apps.tecof.site^
 ||trendyol.bilgi.sbs^
+||trendyol.e-hizmetler-35.sbs^
 ||trendyol.guvendealisveris.shop^
 ||trendyol.guvendesiparis.online^
 ||trendyol.guvenlihizmet.shop^
