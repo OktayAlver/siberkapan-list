@@ -5,9 +5,9 @@
 #   Brand-owned domains, MISP warninglists and shared hosting platforms are excluded.
 # Homepage: https://siberkapan.org/phishing-feed
 # License: CC BY 4.0
-# Last modified: 2026-11-27T21:11:34Z
+# Last modified: 2026-11-28T07:41:33Z
 # Expires: 6 hours
-# Number of entries: 680
+# Number of entries: 671
 #
 0.0.0.0 589329-login-binance.com
 0.0.0.0 accounts.mica-login.fiscal-binance.com
@@ -165,7 +165,6 @@
 0.0.0.0 mhrs-frager.sbs
 0.0.0.0 mhrs-gecelrburas.sbs
 0.0.0.0 mhrs-onlinerndvu.sbs
-0.0.0.0 mhrs-poliklinik-randevu.cfd
 0.0.0.0 mhrs-yenidenoo.sbs
 0.0.0.0 mobilpapara.app
 0.0.0.0 mta-sts.halkbank-intl.com
@@ -359,7 +358,6 @@
 0.0.0.0 sahibinden.guvenli-odemeler.online
 0.0.0.0 sahibinden.guvenliodeme-get.online
 0.0.0.0 sahibinden.guvenliodemeget.online
-0.0.0.0 sahibinden.gvnliodemeniz.com
 0.0.0.0 sahibinden.hemen-al-islem.sbs
 0.0.0.0 sahibinden.ilan-siparishzmetleri.sbs
 0.0.0.0 sahibinden.ileservishizmetleri.com
@@ -415,7 +413,6 @@
 0.0.0.0 trendyol.guvendealisveris.shop
 0.0.0.0 trendyol.guvendesiparis.online
 0.0.0.0 trendyol.guvenlihizmet.shop
-0.0.0.0 trendyol.gvnliodemeniz.com
 0.0.0.0 trendyol.hemen-al-islem.sbs
 0.0.0.0 trendyol.ilanservis-odemehizmetler.online
 0.0.0.0 trendyol.ileservishzmetleri.sbs
@@ -521,7 +518,6 @@
 0.0.0.0 update.vodafone-topangebote.de
 0.0.0.0 vakifbank-login.com
 0.0.0.0 vakifbank-ticari.kosgebkrediler.com
-0.0.0.0 vakifbank-tr.net
 0.0.0.0 verify-binance.com
 0.0.0.0 verify-binance.us
 0.0.0.0 verify.vodafone-topangebote.com
@@ -669,12 +665,7 @@
 0.0.0.0 yurtici-kargo.servisinguvenli-67.sbs
 0.0.0.0 yurtici-kargo.servisinguvenli-75.sbs
 0.0.0.0 yurtici-kargo.servisinguvenli-80.sbs
-0.0.0.0 yurtici.gvnliodemeniz.com
 0.0.0.0 ziraat-bank-giris.online
-0.0.0.0 ziraat-bankas.com
-0.0.0.0 ziraat-bankas.info
-0.0.0.0 ziraat-bankas.live
-0.0.0.0 ziraat-bankas.pro
 0.0.0.0 ziraat-mobil.com
 0.0.0.0 ziraat-mobil.online
 0.0.0.0 ziraat-ticari.kosgebkrediler.com

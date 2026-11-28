@@ -5,9 +5,9 @@
 !   Brand-owned domains, MISP warninglists and shared hosting platforms are excluded.
 ! Homepage: https://siberkapan.org/phishing-feed
 ! License: CC BY 4.0
-! Last modified: 2026-11-27T21:11:33Z
+! Last modified: 2026-11-28T07:41:34Z
 ! Expires: 6 hours
-! Number of entries: 680
+! Number of entries: 671
 !
 ||589329-login-binance.com^
 ||accounts.mica-login.fiscal-binance.com^
@@ -165,7 +165,6 @@
 ||mhrs-frager.sbs^
 ||mhrs-gecelrburas.sbs^
 ||mhrs-onlinerndvu.sbs^
-||mhrs-poliklinik-randevu.cfd^
 ||mhrs-yenidenoo.sbs^
 ||mobilpapara.app^
 ||mta-sts.halkbank-intl.com^
@@ -359,7 +358,6 @@
 ||sahibinden.guvenli-odemeler.online^
 ||sahibinden.guvenliodeme-get.online^
 ||sahibinden.guvenliodemeget.online^
-||sahibinden.gvnliodemeniz.com^
 ||sahibinden.hemen-al-islem.sbs^
 ||sahibinden.ilan-siparishzmetleri.sbs^
 ||sahibinden.ileservishizmetleri.com^
@@ -415,7 +413,6 @@
 ||trendyol.guvendealisveris.shop^
 ||trendyol.guvendesiparis.online^
 ||trendyol.guvenlihizmet.shop^
-||trendyol.gvnliodemeniz.com^
 ||trendyol.hemen-al-islem.sbs^
 ||trendyol.ilanservis-odemehizmetler.online^
 ||trendyol.ileservishzmetleri.sbs^
@@ -521,7 +518,6 @@
 ||update.vodafone-topangebote.de^
 ||vakifbank-login.com^
 ||vakifbank-ticari.kosgebkrediler.com^
-||vakifbank-tr.net^
 ||verify-binance.com^
 ||verify-binance.us^
 ||verify.vodafone-topangebote.com^
@@ -669,12 +665,7 @@
 ||yurtici-kargo.servisinguvenli-67.sbs^
 ||yurtici-kargo.servisinguvenli-75.sbs^
 ||yurtici-kargo.servisinguvenli-80.sbs^
-||yurtici.gvnliodemeniz.com^
 ||ziraat-bank-giris.online^
-||ziraat-bankas.com^
-||ziraat-bankas.info^
-||ziraat-bankas.live^
-||ziraat-bankas.pro^
 ||ziraat-mobil.com^
 ||ziraat-mobil.online^
 ||ziraat-ticari.kosgebkrediler.com^
